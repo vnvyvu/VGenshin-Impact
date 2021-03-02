@@ -1,0 +1,152 @@
+{
+  "name": "Keqing",
+  "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
+  "vision": "Lôi",
+  "weapon": "Kiếm Đơn",
+  "rarity": 5,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Yunlai Kiếm Đơnsmanship",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nPerforms up to 5 rapid strikes.\nTrọng Kích\nConsumes a certain amount of Stamina to unleash 2 rapid Kiếm Đơn strikes.\nNhảy Dậm\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đuờng và gây sát thương phạm vi.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần ",
+          "value": "41%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "41%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "54.4%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "31.5% + 34.4%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "67%"
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "value": "76.8% + 86%"
+        },
+        {
+          "name": "Thể Lực Trọng Kích Tiêu Hao",
+          "value": "25"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "63.9%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "128% / 160%"
+        }
+      ]
+    },
+    {
+      "name": "Stellar Restoration",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Hurls a Lightning Stiletto that annihilates her enemies like the swift thunder.\n\nWhen the Stiletto hits its target, it deals Lôi DMG to enemies in a small AoE, and places a Stiletto Mark on the spot hit.\nNhấn Giữ\nNhấn Giữ to adjust the direction in which the Stiletto shall be thrown.\n\nStilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.\nLightning Stiletto\nIf Keqing uses Stellar Restoration again or uses a Trọng Kích while its Thời Gian Kéo Dài lasts, it will clear the Stiletto Mark and produce different effects:\n\nIf she uses Stellar Restoration again, she will blink to the location of the Mark and unleashed one slashing attack that deals AoE Lôi DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\nIf Keqing uses a Trọng Kích, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Lôi DMG.\n",
+      "upgrades": [
+        {
+          "name": "Lightning Stiletto DMG",
+          "value": "50.4%"
+        },
+        {
+          "name": "Sát Thương Chém",
+          "value": "168%"
+        },
+        {
+          "name": "Thunderclap Slash DMG",
+          "value": "84% * 2"
+        },
+        {
+          "name": "CD",
+          "value": "7.5s"
+        }
+      ]
+    },
+    {
+      "name": "Starward Kiếm Đơn",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Keqing unleashes the power of lightning, dealing Lôi DMG in an AoE.\nShe then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby enemies simultaneous that deal multiple instance of Lôi DMG. The final attack deals massive AoE Lôi DMG.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "value": "88%"
+        },
+        {
+          "name": "Consecutive Slash DMG",
+          "value": "24% * 8"
+        },
+        {
+          "name": "Last Attack DMG",
+          "value": "189%"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "40"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Thundering Penance",
+      "unlock": "Đột phá 1 sao",
+      "description": "Within 5s of recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's Normal and Trọng Kíchs are converted to Lôi DMG."
+    },
+    {
+      "name": "Aristocratic Dignity",
+      "unlock": "Đột phá 4 sao",
+      "description": "When casting Starward Kiếm Đơn, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s."
+    },
+    {
+      "name": "Land's Overseer",
+      "unlock": "Đột phá tự động",
+      "description": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Liyue, thời gian tiêu hao rút ngắn 25%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Thundering Might",
+      "unlock": "Cung Mệnh 1",
+      "description": "Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Lôi DMG at the start point and terminus of her Blink."
+    },
+    {
+      "name": "Keen Extraction",
+      "unlock": "Cung Mệnh 2",
+      "description": "When Keqing's Normal and Trọng Kích's hit enemies affected by Lôi, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s."
+    },
+    {
+      "name": "Forseen Reformation",
+      "unlock": "Cung Mệnh 3",
+      "description": "Increases the Level of Starward Kiếm Đơn by 3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Attunement",
+      "unlock": "Cung Mệnh 4",
+      "description": "For 10s after Keqing triggers an Lôi-related Elemental Reaction, her ATK is increased by 25%."
+    },
+    {
+      "name": "Beckoning Stars",
+      "unlock": "Cung Mệnh 5",
+      "description": "Increase the Level of Stellar Restoration by 3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Tenacious Star",
+      "unlock": "Cung Mệnh 6",
+      "description": "When initiating a Tấn công thường, Trọng Kích, Kỹ Năng Nguyên Tố or Kỹ Năng Nộ, Keqing gains a 6% Lôi DMG Bonus for 8s. Effects triggered by Tấn công thườngs, Trọng Kíchs, Kỹ Năng Nguyên Tốs and Kỹ Năng Nộs are considered independent entities."
+    }
+  ]
+}

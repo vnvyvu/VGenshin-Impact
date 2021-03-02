@@ -1,0 +1,144 @@
+{
+  "name": "Barbara",
+  "description": "Mọi người trong thành Mondstadt đều yêu quý Barbara. Từ \"Thần Tượng\" là do cô đọc được từ một cuốn tạp chí.",
+  "vision": "Thủy",
+  "weapon": "Pháp Khí",
+  "rarity": 4,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Giọng Ca Của Nước",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nThực hiện tối đa 4 lần tấn công hoa nước, gây Sát Thương Nguyên Tố Thủy.\nTrọng Kích\nTiêu hao thể lực nhất định, sau tiếng ngân, gây Sát Thương Phạm Vi Nguyên Tố Thủy.\nNhảy Dậm\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, gây sát thương phạm vi Nguyên Tố Thủy cho tất cả kẻ địch trên đường.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần 1",
+          "value": "37.8%"
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "value": "35.5%"
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "value": "41%"
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "value": "55.2%"
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "value": "166%"
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "value": "50"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "56.8%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "114% / 142%"
+        }
+      ]
+    },
+    {
+      "name": "Buổi Diễn, Bắt Đầu♪",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Triệu hồi những giọt nước nhảy nhót như tiếng hát, tạo thành vòng âm thanh, gây cho địch xung quanh Sát Thương Nguyên Tố Thủy, và thi triển trạng thái Ẩm Ướt.\nVòng Âm Thanh\n\nKhi Barbara tấn công thường trúng địch, thì cả đội và các nhân vật cùng phe gần đó sẽ được hồi HP, lượng hồi phụ thuộc vào giới hạn HP của Barbara.\nKhi trọng kích trúng, có thể hồi x4.\nMỗi một khoảng thời gian, sẽ hồi HP cho nhân vật hiện tại.\nThi triển trạng thái Ẩm Ướt cho nhân vật và mục tiêu có tiếp xúc.\n",
+      "upgrades": [
+        {
+          "name": "Lượng trị liệu chính xác",
+          "value": "0.75% Max HP + 72"
+        },
+        {
+          "name": "Lượng trị liệu kéo dài",
+          "value": "4% Max HP + 385"
+        },
+        {
+          "name": "Sát Thương Thủy Châu",
+          "value": "58.4%"
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "value": "15s"
+        },
+        {
+          "name": "CD",
+          "value": "32s"
+        }
+      ]
+    },
+    {
+      "name": "Kỳ Tích Vinh Diệu",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Hồi lượng lớn HP cho đồng đội ở gần và tất cả nhân vật trong đội, lượng hồi phụ thuộc vào giới hạn HP của Barbara.",
+      "upgrades": [
+        {
+          "name": "Lượng trị liệu",
+          "value": "17.6% Max HP + 1694"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Mùa Huy Hoàng",
+      "unlock": "Đột phá 1 sao",
+      "description": "Khi nhân vật đang trong vòng âm thanh của Buổi Diễn, Bắt Đầu♪, giảm 12% thể lực tiêu hao."
+    },
+    {
+      "name": "Lập Lại",
+      "unlock": "Đột phá 4 sao",
+      "description": "Khi nhân vật nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, vòng âm thanh của Buổi Diễn,Bắt Đầu♪ sẽ kéo dài thêm 1s. Bằng cách này có thể kéo dài nhiều nhất 5s."
+    },
+    {
+      "name": "Tập Trung Ý Chí",
+      "unlock": "Đột phá tự động",
+      "description": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Ca Dao Sắc Màu",
+      "unlock": "Cung Mệnh 1",
+      "description": "Cứ 10s sẽ hồi phục 1 điểm năng lượng Nguyên Tố cho Barbara."
+    },
+    {
+      "name": "Bùng Nổ Nguyên Khí",
+      "unlock": "Cung Mệnh 2",
+      "description": "CD của Buổi Diễn,Bắt Đầu♪ giảm 15%.\nTrong thời gian kỹ năng tồn tại, sát thương Nguyên Tố Thủy của nhân vật tăng 15%."
+    },
+    {
+      "name": "Ngôi Sao Ngày Mai",
+      "unlock": "Cung Mệnh 3",
+      "description": "Cấp kỹ năng Kỳ Tích Vinh Diệu♪ +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Nỗ Lực Là Ma Thuật",
+      "unlock": "Cung Mệnh 4",
+      "description": "Khi Barbara dùng trọng kích, mỗi khi đánh trúng 1 kẻ địch, sẽ hồi phục 1 điểm năng lượng nguyên tố. Tối đa hồi 5 điểm Năng Lượng Nguyên Tố."
+    },
+    {
+      "name": "Liên Kết Thuần Khiết",
+      "unlock": "Cung Mệnh 5",
+      "description": "Cấp kỹ năng Buổi Diễn,Bắt Đầu♪ +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Dành Cho Em Thứ Tốt Đẹp Nhất",
+      "unlock": "Cung Mệnh 6",
+      "description": "Khi Barbara ở trạng thái chờ, nếu có nhân vật trong đội ngã xuống sẽ lập tức:\nHồi sinh nhân vật đó.\nHồi phục 100% HP cho nhân vật.\nHiệu quả này mỗi 15 phút chỉ thi triển một lần."
+    }
+  ]
+}

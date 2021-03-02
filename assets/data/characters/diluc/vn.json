@@ -1,0 +1,160 @@
+{
+  "name": "Diluc",
+  "description": "Là công tử nắm trong tay hơn một nửa ngành rượu Mondstadt, tài lực, danh vọng, năng lực đều khiến người khác không thế coi thường.",
+  "vision": "Hỏa",
+  "weapon": "Trọng Kiếm",
+  "rarity": 5,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Kiếm Tôi Luyện",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nThực hiện tối đa 4 lần chém liên tiếp.\nTrọng Kích\nDuy trì tiêu hao thể lực, chém nhanh liên tiếp.\n\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\nNhảy Dậm\nĐáp xuống đất từ trên không tấn công kẻ địch trên đuờng và gây sát thương phạm vi.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần 1",
+          "value": "89.7%"
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "value": "87.6%"
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "value": "98.8%"
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "value": "134%"
+        },
+        {
+          "name": "Sát Thương Trọng Kích Tuần Hoàn",
+          "value": "68.8%"
+        },
+        {
+          "name": "Sát Thương Trọng Kích Lần Cuối",
+          "value": "125%"
+        },
+        {
+          "name": "Thể Lực Trọng Kích Tiêu Hao",
+          "value": "40/s"
+        },
+        {
+          "name": "Thời Gian Kéo Dài Tối Đa",
+          "value": "5s"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "89.5%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "179% / 224%"
+        }
+      ]
+    },
+    {
+      "name": "Lưỡi Kiếm Tấn Công",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Vung kiếm chém về phía trước, gây Sát Thương Nguyên Tố Hỏa.\nCó thể thi triển liên tiếp 3 lần. Nếu trong thời gian ngắn không thi triển, sẽ vào trạng thái chờ.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần 1",
+          "value": "94.4%"
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "value": "97.6%"
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "value": "129%"
+        },
+        {
+          "name": "CD",
+          "value": "10s"
+        }
+      ]
+    },
+    {
+      "name": "Lê Minh",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Bùng cháy sức mạnh lửa, đánh lui địch xung quanh, gây Sát Thương Nguyên Tố Hỏa. Sau đó ngưng tụ lửa lên vũ khí, vung ra chim lửa bay về phía trước, gây cho dịch trên đường lượng lớn Sát Thương Nguyên Tố Hỏa đồng thời ở điểm đến cuối cùng của chim lửa gây lượng lớn Sát Thương Phạm Vi Nguyên Tố Hỏa.\n\nNgọn lửa trên vũ khí khiến tấn công thường và sát thương trọng kích của Diluc chuyển thành Sát Thương Nguyên Tố Hỏa trong một khoảng thời gian.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Chém",
+          "value": "204%"
+        },
+        {
+          "name": "Sát Thương Kéo Dài",
+          "value": "60%"
+        },
+        {
+          "name": "Sát Thương Nổ",
+          "value": "204%"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        },
+        {
+          "name": "Thời Gian Phụ Ma Kéo Dài",
+          "value": "8s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "40"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Không Bỏ Cuộc",
+      "unlock": "Đột phá 1 sao",
+      "description": "Thể lực trọng kích Diluc tiêu hao giảm 50%, tăng thời gian tối đa thêm 3s."
+    },
+    {
+      "name": "Đôi Cánh Rực Lửa",
+      "unlock": "Đột phá 4 sao",
+      "description": "Kéo dài 4s thời gian Phụ Ma Nguyên Tố Hỏa mà Lê Minh mang đến. Ngoài ra, trong thời gian còn hiệu lực, Diluc nhận 20% buff sát thương Nguyên Tố Hỏa."
+    },
+    {
+      "name": "Truyền Thống Của Bình Minh",
+      "unlock": "Đột phá tự động",
+      "description": "Khi rèn vũ khí dạng Trọng Kiếm, hoàn trả 15% khoáng thạch tiêu hao."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Cắt Đứt Tội Lỗi",
+      "unlock": "Cung Mệnh 1",
+      "description": "Đối với địch có HP trên 50%, sát thương Diluc tạo ra tăng 15%."
+    },
+    {
+      "name": "Than Hồng",
+      "unlock": "Cung Mệnh 2",
+      "description": "Khi Diluc bị thương, tấn công căn bản tăng 10%, tốc độ tấn công tăng 5%, kéo dài 10s.\nHiệu quả cộng dồn tối đa 3 lần, mỗi 1,5s chỉ thi triển 1 lần."
+    },
+    {
+      "name": "Ngọn Lửa Thép",
+      "unlock": "Cung Mệnh 3",
+      "description": "Cấp kỹ năng Lưỡi Kiếm Tấn Công +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Lòng Như Lửa Đốt",
+      "unlock": "Cung Mệnh 4",
+      "description": "Phóng Lưỡi Kiếm Tấn Công theo từng nhịp và có thể tăng sát thương tạo thành.\nSau 2s thi triển Lưỡi Kiếm Tấn Công tăng 40% đòn đánh tiếp theo của Lưỡi Kiếm Tấn Công, kéo dài 2s."
+    },
+    {
+      "name": "Phượng Hoàng Lúc Bình Minh",
+      "unlock": "Cung Mệnh 5",
+      "description": "Cấp kỹ năng Lê Minh +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Kiếm Lửa Diệt Trừ Tà Ác",
+      "unlock": "Cung Mệnh 6",
+      "description": "Sau khi thi triển Lưỡi Kiếm Tấn Công tăng 30% tốc độ cho 2 lần đánh tấn công thường tiếp theo trong 6s, sát thương tạo thành tăng 30%.\nNgoài ra, Lưỡi Kiếm Tấn Công sẽ không làm mới các đoạn liên kích tấn công thường."
+    }
+  ]
+}

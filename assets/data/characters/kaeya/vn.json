@@ -1,0 +1,140 @@
+{
+  "name": "Kaeya",
+  "description": "Kiếm sĩ có nét của người ngoại quốc, là nhân vật có đầu óc trong Đội Kỵ Sĩ Tây Phong.",
+  "vision": "Băng",
+  "weapon": "Kiếm Đơn",
+  "rarity": 4,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Nghi Lễ Kiếm Thuật",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\nTrọng Kích\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\nNhảy Dậm\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đuờng và gây sát thương phạm vi.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần 1",
+          "value": "53.8%"
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "value": "51.7%"
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "value": "65.3%"
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "value": "70.9%"
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "value": "88.2%"
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "value": "55% + 73.1%"
+        },
+        {
+          "name": "Thể Lực Trọng Kích Tiêu Hao",
+          "value": "20"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "63.9%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "128% / 160%"
+        }
+      ]
+    },
+    {
+      "name": "Tuyết Tập Kích",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Nhanh chóng tỏa ra khí lạnh, gây cho địch phía trước Sát Thương Nguyên Tố Băng.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "value": "191%"
+        },
+        {
+          "name": "CD",
+          "value": "6s"
+        }
+      ]
+    },
+    {
+      "name": "Vũ Điệu Băng Giá",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Ngưng tự sương lạnh trong không khí, triệu hồi 3 nhũ băng lạnh giá xoay quanh người.\n\nTrong thời gian tồn tại, nhũ băng lạnh giá sẽ chuyển động theo nhân vật, gây cho địch trên đường Sát Thương Nguyên Tố Băng.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "value": "77.6%"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "value": "8s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "60"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Lãnh Huyết Kiếm",
+      "unlock": "Đột phá 1 sao",
+      "description": "Tuyết Tập Kích mỗi khi đánh trúng 1 đơn vị, sẽ hồi phục HP cho Kaeya tương đương 15% lực tấn công."
+    },
+    {
+      "name": "Trái Tim Vực Băng",
+      "unlock": "Đột phá 4 sao",
+      "description": "Khi Tuyết Tập Kích khiến địch bị đóng băng, thì địch sẽ rơi ra Nguyên Tố Hạt Nhân. Một lần Tuyết Tập Kích tối đa sinh ra 2 Nguyên Tố Hạt Nhân."
+    },
+    {
+      "name": "Che Dấu Sức Mạnh",
+      "unlock": "Đột phá tự động",
+      "description": "Giảm 20% tiêu hao thể lực cho toàn thành viên đội khi xung kích."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Huyết Mạch Ưu Việt",
+      "unlock": "Cung Mệnh 1",
+      "description": "Đối với địch bị ảnh hưởng bởi Nguyên Tố Băng, tấn công thường và tỷ lệ trọng kích bạo kích của Kaeya tăng 15%."
+    },
+    {
+      "name": "Vũ Điệu Trắng Vô Tận",
+      "unlock": "Cung Mệnh 2",
+      "description": "Trong thời gian có Vũ Điệu Băng Giá, nếu đánh bại địch sẽ cộng thêm 2.5s, tối đa 15s."
+    },
+    {
+      "name": "Vở Kịch Băng Giá",
+      "unlock": "Cung Mệnh 3",
+      "description": "Cấp kỹ năng Tuyết Tập Kích +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Nụ Hôn Giá Lạnh",
+      "unlock": "Cung Mệnh 4",
+      "description": "Tự động kích hoạt khi HP của Kaeya dưới 20%:\nTạo thành khiên hấp thụ sát thương bằng 30% giới hạn HP, kéo dài 20s.\nKhiên có hiệu quả hấp thu 250% sát thương Nguyên Tố Băng.\nHiệu quả này mỗi 60s chỉ thi triển 1 lần."
+    },
+    {
+      "name": "Cái Ôm Lạnh Giá",
+      "unlock": "Cung Mệnh 5",
+      "description": "Cấp kỹ năng Vũ Điệu Băng Giá +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Vòng Tròn Băng Giá",
+      "unlock": "Cung Mệnh 6",
+      "description": "Vũ Điệu Băng Giá sẽ tạo ra thêm 1 nhũ bằng lạnh giá, đồng thời hồi 15 điểm Năng Lượng Nguyên Tố khi thi triển."
+    }
+  ]
+}

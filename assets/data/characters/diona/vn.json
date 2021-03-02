@@ -1,0 +1,160 @@
+{
+  "name": "Diona",
+  "description": "Thiếu nữ có dòng máu \"không phải con người\" hiếm hoi, người pha chế rượu rất được yêu thích của Quán Rượu Đuôi Mèo.",
+  "vision": "Băng",
+  "weapon": "Cung",
+  "rarity": 4,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Xạ Thuật Thợ Săn",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nThực hiện tối đa 6 lần bắn tên liên tiếp.\nTrọng Kích\nSát thương càng cao, ngắm bắn càng chuẩn.\n\nTrong khi nhắm mục tiêu, sương băng sẽ tích tụ trên đầu mũi tên. Một mũi tên băng được nạp đầy sẽ gây sát thương Băng.\nNhảy Dậm\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần 1",
+          "value": "36.1%"
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "value": "33.5%"
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "value": "45.6%"
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "value": "43%"
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "value": "53.8%"
+        },
+        {
+          "name": "Nhắm Bắn",
+          "value": "43.9%"
+        },
+        {
+          "name": "Tụ Lực Nhắm Bắn",
+          "value": "124%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "56.8%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "114% / 142%"
+        }
+      ]
+    },
+    {
+      "name": "Móng Mèo Lạnh Giá",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Bắn ra Móng Mèo gây sát thương nguyên tố Băng cho đối thủ và tạo thành một lá chắn. Mức độ hấp thụ của lá chắn dựa trên HP tối đa của Diona, và Thời Gian Kéo Dài giảm theo số lượng Móng Mèo trúng mục tiêu.\nNhấn\nBắn ra 2 Móng Mèo.\nNhấn Giữ\nNhảy lùi về phía sau và bắn ra 5 Móng Mèo.\nTăng hiệu quả khiên lên 75%.\nHiệu quả khiên tăng 250% đối với sát thương nguyên tố Băng",
+      "upgrades": [
+        {
+          "name": "Sát Thương 1 Móng Mèo",
+          "value": "41.9%"
+        },
+        {
+          "name": "Hiệu Quả Khiên Cơ Sở",
+          "value": "7.2% HP tối đa + 693"
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "value": "1.8s với mỗi Móng Mèo trúng mục tiêu"
+        },
+        {
+          "name": "CD Khi Nhấn",
+          "value": "6s"
+        },
+        {
+          "name": "CD Khi Nhấn Giữ",
+          "value": "15s"
+        }
+      ]
+    },
+    {
+      "name": "Đặc Chế Mãnh Liệt",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Tung ra một vùng men rượu nguyên tố Băng trên diện rộng, làm chậm và gây sát thương phạm vi. \nSương Mù Rượu\n\nGây sát thương cho địch và hồi máu liên tục trong phạm vi ảnh hưởng.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "value": "80%"
+        },
+        {
+          "name": "Sát Thương Mỗi Lần",
+          "value": "52.6%"
+        },
+        {
+          "name": "Mỗi Lần Hồi Máu",
+          "value": "5.34% HP tối đa + 513"
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Thực Đơn Bí Mật Đuôi Mèo",
+      "unlock": "Đột phá 1 sao",
+      "description": "Nhân vật được khiên Móng Mèo Lạnh Giá bảo vệ, tốc độ di chuyển tăng 10%, thể lực tiêu hao giảm 10%."
+    },
+    {
+      "name": "Kẻ Say Rượu Khôi Hài",
+      "unlock": "Đột phá 4 sao",
+      "description": "Trong 15 giây sau khi địch vào khu vực Đặc Chế Mãnh Liệt giảm 10% tấn công."
+    },
+    {
+      "name": "Đồ Nhắm Tặng Kèm",
+      "unlock": "Đột phá tự động",
+      "description": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Dư Âm Đặc Chế",
+      "unlock": "Cung Mệnh 1",
+      "description": "Khi kết thúc hiệu quả Đặc Chế Mãnh Liệt, Diona được hồi 15 điểm năng lượng nguyên tố."
+    },
+    {
+      "name": "Vuốt Mèo Lắc Đá",
+      "unlock": "Cung Mệnh 2",
+      "description": "Sát thương gây ra bởi Móng Mèo Lạnh Giá tăng 15%, khả năng hấp thụ sát thương của khiên tăng 15%. Khi đánh trúng sẽ tạo thành lớp khiên cho các nhân vật ở gần có khả năng hấp thụ sát thương bằng 50% Móng Mèo Lạnh Giá kéo dài 5s."
+    },
+    {
+      "name": "Vẫn Muốn Thêm Một Ly?",
+      "unlock": "Cung Mệnh 3",
+      "description": "Cấp kỹ năng Đặc Chế Mãnh Liệt +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Sát Thủ Ngành Rượu",
+      "unlock": "Cung Mệnh 4",
+      "description": "Khi ở trong khu vực Đặc Chế Mãnh Liệt, thời gian tụ lực cần khi ngắm bắn của Diona giảm 60%."
+    },
+    {
+      "name": "Hai Cốc Thêm Đá",
+      "unlock": "Cung Mệnh 5",
+      "description": "Cấp kỹ năng Móng Mèo Lạnh Giá +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Khi Quán Đuôi Mèo Đóng Cửa",
+      "unlock": "Cung Mệnh 6",
+      "description": "Khi ở trong khu vực Đặc Chế Mãnh Liệt sẽ nhân được những hiệu quả dưới đây tuỳ theo HP của nhân vật:\nHP thấp hơn hoặc bằng 50%, tăng nhận trị liệu 30%.\nHP cao hơn 50% tinh thông nguyên tố tăng 200."
+    }
+  ]
+}

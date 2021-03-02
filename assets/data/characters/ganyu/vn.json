@@ -1,0 +1,164 @@
+{
+  "name": "Ganyu",
+  "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+  "vision": "Băng",
+  "weapon": "Cung",
+  "rarity": 5,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Lưu Thiên Xạ Thuật",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nThực hiện tối đa 6 lần bắn tên liên tiếp.\nTrọng Kích\nSát thương càng cao, ngắm bắn càng chuẩn.\nHiệu ứng khác nhau cho khoảng thời gian ngắm bắn khác nhau\nTụ Lực Cấp 1\nGây sát thương nguyên tố Băng.\nTụ Lực Cấp 2\nBắn ra Cung Sương Hoa gây sát thương Băng.\nNgoài ra, khi va chạm, Sương Băng bung ra gây sát thương phạm vi nguyên tố Băng.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần 1",
+          "value": "31.7%"
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "value": "35.6%"
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "value": "45.5%"
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "value": "45.5%"
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "value": "48.2%"
+        },
+        {
+          "name": "Sát Thương Lần 6",
+          "value": "57.6%"
+        },
+        {
+          "name": "Nhắm Bắn",
+          "value": "43.9%"
+        },
+        {
+          "name": "Nhắm Bắn Tụ Lực Cấp 1",
+          "value": "124%"
+        },
+        {
+          "name": "Sát Thương Sương Băng",
+          "value": "128%"
+        },
+        {
+          "name": "Sát Thương Cung Sương Hoa",
+          "value": "218%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "56.8%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "114% / 142%"
+        }
+      ]
+    },
+    {
+      "name": "Sơn Trạch Lân Tích",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Tạo một bông Sen Băng, Ganyu nhảy về phía sau, gây sát thương phạm vi nguyên tố Băng.\nSen Băng khiêu khích địch, thu hút chúng tấn công nó. Sức chịu đựng của Sen Băng dựa trên HP tối đa của Ganyu\n.Sen Băng nở ra khi bị phá hủy hoặc khi Thời gian Kéo Dài kết thúc, gây sát thương phạm vi nguyên tố Băng.",
+      "upgrades": [
+        {
+          "name": "HP Kế Thừa",
+          "value": "120%"
+        },
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "value": "132%"
+        },
+        {
+          "name": "Thời Gian Thi Triển",
+          "value": "2s"
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "value": "6s"
+        },
+        {
+          "name": "CD",
+          "value": "10s"
+        }
+      ]
+    },
+    {
+      "name": "Thiên Hoa Hạ Phàm",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Triệu hồi Quả Cầu Băng Sương.\nLiên tục dội các Mảnh Băng, tấn công gây sát thương phạm vi nguyên tố Băng.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Mảnh Băng",
+          "value": "70%"
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "value": "15s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "60"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Duy Thử Nhất Tâm",
+      "unlock": "Đột phá 1 sao",
+      "description": "Trong 5 giây khi Ganyu sử dụng ngắm bắn Cung Sương Hoa tỷ lệ bạo kích ở phát bắn tiếp theo sẽ tăng 20%."
+    },
+    {
+      "name": "Thiên Địa Giao Hòa",
+      "unlock": "Đột phá 4 sao",
+      "description": "Nhân vật trong phạm vi kỹ năng nộ Thiên Hoa Hạ Phàm sẽ tăng thêm 20% sát thương nguyên tố Băng."
+    },
+    {
+      "name": "Cất Cung Đợi Dùng",
+      "unlock": "Đột phá tự động",
+      "description": "Hoàn lại 15% nguyên liệu chế tạo Cung."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Ẩm lộ",
+      "unlock": "Cung Mệnh 1",
+      "description": "Cung Sương Hoa trúng kẻ địch sẽ khiến kẻ địch giảm 12% kháng nguyên tố Băng kéo dài 6 giây. \n\nHồi 2 năng lượng cho Ganyu."
+    },
+    {
+      "name": "Hoạch Lân",
+      "unlock": "Cung Mệnh 2",
+      "description": "Sơn Trạch Lân Tích được tăng thêm 1 lần."
+    },
+    {
+      "name": "Vân Hành",
+      "unlock": "Cung Mệnh 3",
+      "description": "Increases the Level of Celestial Shower by 3. Tăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Tây Thú",
+      "unlock": "Cung Mệnh 4",
+      "description": "Trong khu vực của kỹ năng nộ Thiên Hoa Hạ Phàm, sát thương địch nhận vào tăng thêm là 5% mỗi 3 giây sát thương nữa tối đa là 25%.\nThe effect lingers for 3s after the opponent leaves the AoE."
+    },
+    {
+      "name": "The Merciful",
+      "unlock": "Cung Mệnh 5",
+      "description": "Increases the Level of Trail of the Qilin by 3. Tăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "The Clement",
+      "unlock": "Cung Mệnh 6",
+      "description": "Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging."
+    }
+  ]
+}

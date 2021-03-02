@@ -1,0 +1,144 @@
+{
+  "name": "Fischl",
+  "description": "Tự xưng là \"Công Chúa Định Tội\", thiếu nữ thần bí đồng hành cùng chú quạ đen tên Oz.",
+  "vision": "Lôi",
+  "weapon": "Cung",
+  "rarity": 4,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Mũi Tên Diệt Ác",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nThực hiện tối đa 5 lần bắn tên liên tiếp.\nTrọng Kích\nSát thương càng cao, ngắm bắn càng chuẩn.\n\nKhi ngắm bắn, Tinh Linh Sấm Sét của vùng đất Đêm Niết Bàn sẽ nghe theo hiệu lệnh của công chúa mà bám trên mũi tên sấm sét. Mũi tên chứa đầy tia sét định tội sẽ gây thêm Sát Thương Nguyên Tố Lôi.\nNhảy Dậm\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần 1",
+          "value": "44.1%"
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "value": "46.8%"
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "value": "58.1%"
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "value": "57.7%"
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "value": "72.1%"
+        },
+        {
+          "name": "Nhắm Bắn",
+          "value": "43.9%"
+        },
+        {
+          "name": "Tụ Lực Nhắm Bắn",
+          "value": "124%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "56.8%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "114% / 142%"
+        }
+      ]
+    },
+    {
+      "name": "Cánh Chim Đêm",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Triệu hồi Oz. Khi quạ đen do bóng đêm và sấm sét kết hợp được sinh ra, sẽ gây Sát Thương Nguyên Tố Lôi phạm vi nhỏ.\n\nTrong thời gian tồn tại, Oz sẽ liên tục bắn Đạn Sấm Sét tấn công địch xung quanh.\nNhấn giữ để điều chỉnh vị trí hiệu quả của kỹ năng.\n\nTrong thời gian Oz tồn tại, nhấn lần nữa có thể triệu hồi nó đến bên cạnh.",
+      "upgrades": [
+        {
+          "name": "Sát thương tấn công Oz",
+          "value": "88.8%"
+        },
+        {
+          "name": "Sát thương triệu hồi",
+          "value": "115%"
+        },
+        {
+          "name": "Thời gian Oz tồn tại",
+          "value": "10s"
+        },
+        {
+          "name": "CD",
+          "value": "25s"
+        }
+      ]
+    },
+    {
+      "name": "Ảo Ảnh Bóng Đêm",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Triệu hồi Oz, mở ra đôi cánh dệt từ bóng đêm thuần khiết, bảo vệ Fischl. Trong thời gian duy trì, hiệu quả như sau::\n\nDi chuyển nhanh trong hình thái của Oz.\nĐánh sét vào địch ở gần, gây Sát Thương Nguyên Tố Lôi. Mỗi kẻ địch chỉ chịu 1 lần sát thương sét đánh.\nKhi kết thúc hiệu quả, Oz sẽ dừng lại trên chiến trường, tấn công kẻ địch của công chúa. Nếu Oz đã có trong trận sẽ làm mới thời gian tồn tại của Oz.\n",
+      "upgrades": [
+        {
+          "name": "Sát Thương Sét Đánh",
+          "value": "208%"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "60"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Ác Điểu Nuốt Sao",
+      "unlock": "Đột phá 1 sao",
+      "description": "Khi Fischl dùng tụ lực nhắm bắn bắn trúng Oz, Oz sẽ giáng xuống Quả Báo Sấm Sét vào kẻ địch xung quanh, tạo thành sát thương phạm vi Nguyên Tố Lôi tương đương với 152.7% sát thương khi bắn."
+    },
+    {
+      "name": "Ánh Sét Định Tội",
+      "unlock": "Đột phá 4 sao",
+      "description": "Khi Oz trong trận, nếu nhân vật tấn công địch kích hoạt phản ứng với Nguyên Tố Lôi, thì sẽ giáng Quả Báo Sấm Sét, gây cho địch sát thương Nguyên Tố Lôi bằng 80% lực tấn công Fischl."
+    },
+    {
+      "name": "Vườn Hoa Sau Nhà",
+      "unlock": "Đột phá tự động",
+      "description": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Mondstadt, thời gian tiêu hao rút ngắn 25%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Mắt Quạ Huyền Bí",
+      "unlock": "Cung Mệnh 1",
+      "description": "Oz vẫn luôn theo dõi bảo vệ cho Fischl mặc dù không ở trên chiến trường. Khi Fischl tấn công thường với kẻ địch, Oz sẽ hỗ trợ tấn công qua mắt quạ và tạo ra sát thương bằng 22% tấn công."
+    },
+    {
+      "name": "Đôi Cánh Phán Quyết",
+      "unlock": "Cung Mệnh 2",
+      "description": "Khi thi triển Cánh Chim Đêm, có thể gây thêm sát thương với lực tấn công 200%, phạm vi ảnh hưởng tăng 50%."
+    },
+    {
+      "name": "Đôi Cánh Đen Huyền",
+      "unlock": "Cung Mệnh 3",
+      "description": "Cấp kỹ năng Cánh Chim Đêm +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Truyền Thuyết Công Chúa Huyền Bí",
+      "unlock": "Cung Mệnh 4",
+      "description": "Khi thi triển Ảo Ảnh Bóng Đêm sẽ tạo ra 222% sát thương Nguyên Tố Lôi cho kẻ định xung quanh.\nKhi hiệu quả kỹ năng kết thúc, sẽ hồi phục 20% HP cho Fischl."
+    },
+    {
+      "name": "Ghi Chú Khải Huyền",
+      "unlock": "Cung Mệnh 5",
+      "description": "Cấp kỹ năng Ảo Ảnh Bóng Đêm +3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Quạ Bóng Đêm",
+      "unlock": "Cung Mệnh 6",
+      "description": "Thời gian Oz tồn tại kéo dài thêm 2s. Ngoài ra, Oz kết hợp với nhân vật hiện tại cùng tấn công, gây ra sát thương Nguyên Tố Lôi bằng 30% tấn công của Fischl."
+    }
+  ]
+}

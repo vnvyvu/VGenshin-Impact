@@ -1,0 +1,152 @@
+{
+  "name": "Xiangling",
+  "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+  "vision": "Hỏa",
+  "weapon": "Polearm",
+  "rarity": 4,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Dough-Fu",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nPerforms up to 5 consecutive spear strikes.\nTrọng Kích\nConsumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.\nNhảy Dậm\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần ",
+          "value": "42.1%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "42.1%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "26.1% + 26.1%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "14.1% x 4"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "71%"
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "value": "122%"
+        },
+        {
+          "name": "Thể Lực Trọng Kích Tiêu Hao",
+          "value": "25"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "63.9%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "128% / 160%"
+        }
+      ]
+    },
+    {
+      "name": "Guoba Attack",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Summons Guoba the Panda. Guoba continuously breathes fire, dealing AoE Hỏa DMG.",
+      "upgrades": [
+        {
+          "name": "Flame DMG",
+          "value": "111%"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        }
+      ]
+    },
+    {
+      "name": "Hỏanado",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Displaying her mastery over both fire and polearms, Xiangling sends a Hỏanado whirling around her.\n\nThe Hỏanado will move with your character for so long as the ability persists, dealing Hỏa DMG to all enemies in its path.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần ",
+          "value": "72%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "88%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "110%"
+        },
+        {
+          "name": "Hỏanado DMG",
+          "value": "112%"
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "value": "10s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Crossfire",
+      "unlock": "Đột phá 1 sao",
+      "description": "Increases the flame range of Guoba by 20%."
+    },
+    {
+      "name": "Beware, It's Super Hot!",
+      "unlock": "Đột phá 4 sao",
+      "description": "When Guoba Attack's effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s."
+    },
+    {
+      "name": "Chef de Cuisine",
+      "unlock": "Đột phá tự động",
+      "description": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Crispy Outside, Tender Inside",
+      "unlock": "Cung Mệnh 1",
+      "description": "Enemies hit by Guoba's attacks have their Hỏa RES reduced by 15% for 6s."
+    },
+    {
+      "name": "Oil Meets Fire",
+      "unlock": "Cung Mệnh 2",
+      "description": "The last attack in a Tấn công thường sequence applies the Implode status onto the enemy for 2s. An explosion will occur once this Thời Gian Kéo Dài ends, dealing 75% of Xiangling's ATK as AoE Hỏa DMG."
+    },
+    {
+      "name": "Deepfry",
+      "unlock": "Cung Mệnh 3",
+      "description": "Increases the Level of Hỏanado by 3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Slowbake",
+      "unlock": "Cung Mệnh 4",
+      "description": "Hỏanado's Thời Gian Kéo Dài is increased by 40%."
+    },
+    {
+      "name": "Guoba Mad",
+      "unlock": "Cung Mệnh 5",
+      "description": "Increase the Level of Guoba Attack by 3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Condensed Hỏanado",
+      "unlock": "Cung Mệnh 6",
+      "description": "For the Thời Gian Kéo Dài of Hỏanado, all party members receive a 15% Hỏa DMG Bonus."
+    }
+  ]
+}

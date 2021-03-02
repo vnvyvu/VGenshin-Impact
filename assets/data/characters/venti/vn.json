@@ -1,0 +1,156 @@
+{
+  "name": "Venti",
+  "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+  "vision": "Anemo",
+  "weapon": "Cung",
+  "rarity": 5,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Divine Marksmanship",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nPerforms up to 6 consecutive shots with a Cung.\nTrọng Kích\nSát thương càng cao, ngắm bắn càng chuẩn.\n\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged arrow will deal Anemo DMG.\nNhảy Dậm\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần ",
+          "value": "20.4% + 20.4%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "44.4%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "52.4%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "26.1% + 26.1%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "50.7%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "71%"
+        },
+        {
+          "name": "Nhắm Bắn",
+          "value": "43.9%"
+        },
+        {
+          "name": "Tụ Lực Nhắm Bắn",
+          "value": "124%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "56.8%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "114% / 142%"
+        }
+      ]
+    },
+    {
+      "name": "Skyward Sonnet",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\nNhấn\nSummons a Wind Domain at the enemy's location, dealing AoE Anemo DMG and launching enemies into the air.\nNhấn Giữ\nSummons an even larger Wind Domain with Venti as the epicenter, dealing AoE Anemo DMG and launching affected enemies into the air.\n\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\nEnemies hit by Skyward Sonnet will fall to the ground slowly.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Nhấn",
+          "value": "276%"
+        },
+        {
+          "name": "Press CD",
+          "value": "6s"
+        },
+        {
+          "name": "Hold DMG",
+          "value": "380%"
+        },
+        {
+          "name": "CD (hold)",
+          "value": "15s"
+        }
+      ]
+    },
+    {
+      "name": "Wind's Grand Ode",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and enemies along its path, dealing continuous Anemo DMG.\nElemental Absorption\nIf the Stormeye comes into contact with Hydro/Hỏa/Băng/Lôi elements, it will deal additional elemental DMG of that type.\n\nElemental Absorption may only occur once per use.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Kéo Dài",
+          "value": "47%"
+        },
+        {
+          "name": "Additional Elemental DMG",
+          "value": "23.5%"
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "value": "8s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "60"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Embrace of Winds",
+      "unlock": "Đột phá 1 sao",
+      "description": "Holding Skyward Sonnet creates an upcurrent that lasts for 20s."
+    },
+    {
+      "name": "Stormeye",
+      "unlock": "Đột phá 4 sao",
+      "description": "Regenerates 15 Energy for Venti after the effects of Wind's Grand Ode end.\nIf an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element."
+    },
+    {
+      "name": "Windrider",
+      "unlock": "Đột phá tự động",
+      "description": "Decreases all party member's gliding Stamina Consumption by 20%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Splitting Gale",
+      "unlock": "Cung Mệnh 1",
+      "description": "Fires 2 additional arrows per Nhắm Bắn, each dealing 33% of the original arrow's DMG."
+    },
+    {
+      "name": "Breeze of Reminiscence",
+      "unlock": "Cung Mệnh 2",
+      "description": "Skyward Sonnet decreases enemy Anemo RES by 12% for 10s.\nEnemies launched by Skyward Sonnet suffer an additional 12% Anemo RES and Physical RES decrease while airborne."
+    },
+    {
+      "name": "Ode to Thousand Winds",
+      "unlock": "Cung Mệnh 3",
+      "description": "Increases the Level of Wind's Grand Ode by 3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Hurricane of Freedom",
+      "unlock": "Cung Mệnh 4",
+      "description": "When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s."
+    },
+    {
+      "name": "Concierto dal Cielo",
+      "unlock": "Cung Mệnh 5",
+      "description": "Increase the Level of Skyward Sonnet by 3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Storm of Defiance",
+      "unlock": "Cung Mệnh 6",
+      "description": "Targets who take DMG from Wind's Grand Ode have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
+    }
+  ]
+}

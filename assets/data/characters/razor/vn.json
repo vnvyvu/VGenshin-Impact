@@ -1,0 +1,176 @@
+{
+  "name": "Razor",
+  "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+  "vision": "Lôi",
+  "weapon": "Trọng Kiếm",
+  "rarity": 4,
+  "body": "Teen",
+  "skillTalents": [
+    {
+      "name": "Steel Fang",
+      "unlock": "Tấn công thường",
+      "description": "Tấn công thường\nThực hiện tối đa 4 lần chém liên tiếp.\nTrọng Kích\nDrains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\nNhảy Dậm\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "Sát Thương Lần ",
+          "value": "95.9%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "82.6%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "103%"
+        },
+        {
+          "name": "Sát Thương Lần ",
+          "value": "136%"
+        },
+        {
+          "name": "Sát Thương Trọng Kích Tuần Hoàn",
+          "value": "62.5%"
+        },
+        {
+          "name": "Sát Thương Trọng Kích Lần Cuối",
+          "value": "113%"
+        },
+        {
+          "name": "Thể Lực Trọng Kích Tiêu Hao",
+          "value": "40/s"
+        },
+        {
+          "name": "Thời Gian Kéo Dài Tối Đa",
+          "value": "5s"
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "value": "82%"
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "value": "164% / 205%"
+        }
+      ]
+    },
+    {
+      "name": "Claw and Thunder",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Hunts his prey using the techniques taught to him by his master and his Lupical.\nNhấn\nSwings the Thunder Wolf Claw, dealing Lôi DMG to enemies in front of Razor.\n\nUpon striking an enemy, Razor will gain an Lôi Sigil, which increases his Energy Recharge rate.\n\nRazor can have up to 3 Lôi Sigils simultaneously, and gaining a new Lôi Sigil refreshes their Thời Gian Kéo Dài.\nNhấn Giữ\nGathers Lôi energy to unleash a lightning storm over a small AoE, causing massive Lôi DMG, and clears all of Razor's Lôi Sigils.\n\nEach Lôi Sigil cleared in this manner will be converted into Energy for Razor.",
+      "upgrades": [
+        {
+          "name": "Press Sát Thương Kỹ Năng",
+          "value": "199%"
+        },
+        {
+          "name": "Hold Sát Thương Kỹ Năng",
+          "value": "295%"
+        },
+        {
+          "name": "Energy Recharge Bonus",
+          "value": "20% per Lôi sigil"
+        },
+        {
+          "name": "Energy Regenerated",
+          "value": "5 per Lôi sigil absorbed"
+        },
+        {
+          "name": "Lôi Sigil Thời Gian Kéo Dài",
+          "value": "18s"
+        },
+        {
+          "name": "Press CD",
+          "value": "6s"
+        },
+        {
+          "name": "CD (hold)",
+          "value": "10s"
+        }
+      ]
+    },
+    {
+      "name": "Lightning Fang",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Summons the Wolf Within which deals Lôi DMG to all nearby opponents. This clears all of Razor's Lôi Sigils, which will be converted into elemental energy for him.\n\nThe Wolf Within will fight alongside Razor for the skill's Thời Gian Kéo Dài.\nThe Wolf Within\n\nStrikes alongside Razor's Tấn công thườngs, dealing Lôi DMG.\nRaises Razor's ATK SPD and Lôi RES.\nCauses Razor to be immune to DMG inflicted by the Lôi-Charged status.\nDisables Razor's Trọng Kíchs.\n\nThe effects end when Razor leaves the battlefield.\n\nWhen Razor leaves the field, a maximum of 10 Energy will be returned to him based off the Thời Gian Kéo Dài remaining on this skill.",
+      "upgrades": [
+        {
+          "name": "Kỹ Năng Nộ DMG",
+          "value": "125%"
+        },
+        {
+          "name": "Soul Companion DMG",
+          "value": "20% Tấn công thường dmg"
+        },
+        {
+          "name": "Normal ATK SPD Bonus",
+          "value": "20%"
+        },
+        {
+          "name": "Lôi RES Bonus",
+          "value": "50%"
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "value": "15s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Awakening",
+      "unlock": "Đột phá 1 sao",
+      "description": "Decreases Claw and Thunder's CD by 18%.\nUsing Lightning Fang resets the CD of Claw and Thunder."
+    },
+    {
+      "name": "Hunger",
+      "unlock": "Đột phá 4 sao",
+      "description": "When Razor's Energy is below 50%, increases Energy Recharge by 30%."
+    },
+    {
+      "name": "Wolvensprint",
+      "unlock": "Đột phá tự động",
+      "description": "Decreases all party member's sprinting Stamina Consumption by 20%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Wolf's Instinct",
+      "unlock": "Cung Mệnh 1",
+      "description": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s."
+    },
+    {
+      "name": "Suppression",
+      "unlock": "Cung Mệnh 2",
+      "description": "Increases CRIT Rate against enemies with less than 30% HP by 10%."
+    },
+    {
+      "name": "Soul Companion",
+      "unlock": "Cung Mệnh 3",
+      "description": "Increases the Level of Lightning Fang by 3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Bite",
+      "unlock": "Cung Mệnh 4",
+      "description": "When casting Claw and Thunder (Press), enemies hit will have their DEF decreased by 15% for 7s."
+    },
+    {
+      "name": "Sharpened Claws",
+      "unlock": "Cung Mệnh 5",
+      "description": "Increase the Level of Claw and Thunder by 3.\nTăng nhiều nhất 15 cấp."
+    },
+    {
+      "name": "Lupus Fulguris",
+      "unlock": "Cung Mệnh 6",
+      "description": "Every 10s, Razor's Kiếm Đơn charges up, causing the next Tấn công thường to release lightning that deals 100% of Razor's ATK as Lôi DMG.\nWhen Razor is not using Lightning Fang, a lightning strike on an enemy will grant Razor an Lôi Sigil for Claw and Thunder."
+    }
+  ]
+}

@@ -15,17 +15,17 @@ module.exports={
                     break;
                 default:
                     return {
-                        data: 'Usage: '+guild.prefix+this.usage,
+                        data: 'Usage: `'+guild.prefix+this.usage+'`',
                         type: 'info'
                     };
             }
             await guild.save();
             return {
-                data: args[0].charAt(0).toUpperCase()+args[0].slice(1)+' channel has been changed to '+msg.channel,
+                data: args[0].charAt(0).toUpperCase()+args[0].slice(1)+' channel has been changed to `'+msg.channel+'`',
                 type: 'success'
             };
         }else return {
-            data: 'Usage: '+guild.prefix+this.usage,
+            data: 'Usage: `'+guild.prefix+this.usage+'`',
             type: 'info'
         };
     }

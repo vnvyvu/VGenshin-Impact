@@ -14,34 +14,49 @@ module.exports = {
         //import data
         .setArray(embeds)
         //.attachFiles('./assets/images/characters/'+data.name.toLowerCase()+'/icon.png')
-        .setThumbnail('https://api.genshin.dev/characters/'+data.name.toLowerCase()+'/portrait.png')
-        .setImage('https://api.genshin.dev/characters/'+data.name.toLowerCase()+'/icon.png')
+        .setThumbnail('https://api.genshin.dev/characters/'+data.fileName+'/portrait.png')
+        .setImage('https://api.genshin.dev/characters/'+data.fileName+'/icon.png')
         .setTitle(data.name.toUpperCase())
         .setDescription(data.description)
         .setFooter('@VyVu | Made in Teyvat', 'https://upload-os-bbs.hoyolab.com/upload/2020/10/05/37506120/b50e32624ab513812d97d6dea7b478ec_3772599663477054535.gif')
         .setTimestamp()
+        .setClientAssets({prompt: lang[12][g.language]})
         .setColor(color[data.vision])
         /*.addFields(
-            {name: lang[1][g.language].toUpperCase(), value: icon[data.vision]||'---', inline: true},
-            {name: lang[2][g.language].toUpperCase(), value: data.weapon||'---', inline: true},
-            {name: lang[3][g.language].toUpperCase(), value: data.rarity?':star:'.repeat(data.rarity):'---', inline: true},
-            {name: lang[4][g.language].toUpperCase(), value: data.nation||'---', inline: true},
-            {name: lang[5][g.language].toUpperCase(), value: data.affiliation||'---', inline: true},
-            {name: lang[6][g.language].toUpperCase(), value: data.gender||'---', inline: true},
-            {name: lang[7][g.language].toUpperCase(), value: data.constellation||'---', inline: true},
-            {name: lang[8][g.language].toUpperCase(), value: data.birthday||'---', inline: true},
-            {name: lang[9][g.language].toUpperCase(), value: data.specialDish||'---', inline: true},
+            {name: lang[1][g.language], value: icon[data.vision]||'---', inline: true},
+            {name: lang[2][g.language], value: data.weapon||'---', inline: true},
+            {name: lang[3][g.language], value: data.rarity?':star:'.repeat(data.rarity):'---', inline: true},
+            {name: lang[4][g.language], value: data.nation||'---', inline: true},
+            {name: lang[5][g.language], value: data.affiliation||'---', inline: true},
+            {name: lang[6][g.language], value: data.gender||'---', inline: true},
+            {name: lang[7][g.language], value: data.constellation||'---', inline: true},
+            {name: lang[8][g.language], value: data.birthday||'---', inline: true},
+            {name: lang[9][g.language], value: data.specialDish||'---', inline: true},
         )*/
-        .addField(lang[1][g.language].toUpperCase(), icon[data.vision]||'---', true)
-        .addField(lang[2][g.language].toUpperCase(), icon[data.weapon]||'---', true)
-        .addField(lang[3][g.language].toUpperCase(), data.rarity?':star:'.repeat(data.rarity):'---', true)
-        .addField(lang[4][g.language].toUpperCase(), data.nation||'---', true)
-        .addField(lang[5][g.language].toUpperCase(), data.affiliation||'---', true)
-        .addField(lang[6][g.language].toUpperCase(), data.gender||'---', true)
-        .addField(lang[7][g.language].toUpperCase(), data.constellation||'---', true)
-        .addField(lang[8][g.language].toUpperCase(), data.birthday||'---', true)
-        .addField(lang[9][g.language].toUpperCase(), data.body||'---', true)
+        .addField(lang[1][g.language], icon[data.vision]||'---', true)
+        .addField(lang[2][g.language], icon[data.weapon]||'---', true)
+        .addField(lang[3][g.language], data.rarity?':star:'.repeat(data.rarity):'---', true)
+        .addField(lang[4][g.language], data.nation||'---', true)
+        .addField(lang[5][g.language], data.affiliation||'---', true)
+        .addField(lang[6][g.language], data.gender||'---', true)
+        .addField(lang[7][g.language], data.constellation||'---', true)
+        .addField(lang[8][g.language], data.birthday||'---', true)
+        .addField(lang[9][g.language], data.body||'---', true)
         .build();
+    },
+    artifact: async function(msg, g, result){
+        let data=result.data;
+        let embed=new Discord.MessageEmbed()
+        .setColor('#'+Math.floor(Math.random()*16777215).toString(16))
+        .setThumbnail('https://api.genshin.dev/artifacts/'+data.fileName+'/flower-of-life.png')
+        .setTitle(data.name)
+        .setDescription(lang[13][g.language]+': '+':star:'.repeat(data['max_rarity']))
+        .setFooter('@VyVu | Made in Teyvat', 'https://upload-os-bbs.hoyolab.com/upload/2020/10/05/37506120/b50e32624ab513812d97d6dea7b478ec_3772599663477054535.gif')
+        .setTimestamp();
+        if(data['1-piece_bonus']) embed.addField(lang[14][g.language][0], data['1-piece_bonus'])
+        if(data['2-piece_bonus']) embed.addField(lang[14][g.language][1], data['2-piece_bonus'])
+        if(data['4-piece_bonus']) embed.addField(lang[14][g.language][2], data['4-piece_bonus'])
+        msg.channel.send(embed);
     },
     send: async function(msg, g, result){
         msg.channel.send(new Discord.MessageEmbed()
@@ -107,56 +122,69 @@ let icon={
 };
 let lang=[
     {
-        "vn": "Điều kiện mở khóa",
+        "vi": "Điều kiện mở khóa",
         "en": "Requirement"
     },
     {
-        "vn": "Hệ",
+        "vi": "Hệ",
         "en": "Vision"
     },
     {
-        "vn": "Vũ khí",
+        "vi": "Vũ khí",
         "en": "Weapon"
     },
     {
-        "vn": "Độ hiếm",
+        "vi": "Độ hiếm",
         "en": "Rarity"
     },
     {
-        "vn": "Nguồn gốc",
+        "vi": "Nguồn gốc",
         "en": "Nation"
     },
     {
-        "vn": "Tổ chức",
+        "vi": "Tổ chức",
         "en": "Affiliation"
     },
     {
-        "vn": "Giới tính",
+        "vi": "Giới tính",
         "en": "Gender"
     },
     {
-        "vn": "Chòm sao",
+        "vi": "Chòm sao",
         "en": "Constellation"
     },
     {
-        "vn": "Sinh nhật",
+        "vi": "Sinh nhật",
         "en": "Birthday"
     },
     {
-        "vn": "Ngoại hình",
+        "vi": "Ngoại hình",
         "en": "Body"
     },
     {
-        "vn": "Kỹ năng bị động",
+        "vi": "Kỹ năng bị động",
         "en": "Passive skills"
     },
     {
-        "vn": "Cung Mệnh",
+        "vi": "Cung Mệnh",
         "en": "Constellations"
     },
+    {
+        "vi": "{{user}}, Nhập trang bạn muốn tới, hoặc `cancel` hoặc `0` để hủy.",
+        "en": "{{user}}, Input page's index to jump, or `cancel` or `0` to cancel."
+    },
+    {
+        "vi": "Độ hiếm cao nhất",
+        "en": "Max Rarity"
+    },
+    {
+        "vi": ["Hiệu quả bộ 1 món", "Hiệu quả bộ 2 món", "Hiệu quả bộ 4 món"],
+        "en": ["1-Piece Bonus", "2-Piece Bonus", "4-Piece Bonus"]
+    },
+    
 ];
 function skillTalentEmbed(skill){
-    return new Discord.MessageEmbed().addField(skill.unlock+'-'+skill.name, '*'+skill.description+'*\n-----------------------------------------\n:small_blue_diamond: '+skill.upgrades.map(v=>v.name+': '+v.value).join('\n:small_blue_diamond: '));
+    return new Discord.MessageEmbed().addField(skill.unlock+'-'+skill.name, '*'+skill.description+'*\n-----------------------------------------\n:small_blue_diamond: '+(skill.upgrades?skill.upgrades.map(v=>v.name+': '+v.value).join('\n:small_blue_diamond: '):''));
 }
 function passiveTalentsEmbed(passives, g){
     let map=passives.map(v=>'**'+v.name+'**\n*'+v.description+'*\n'+lang[0][g.language]+': '+v.unlock).join('\n\n');

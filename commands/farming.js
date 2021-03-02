@@ -13,7 +13,7 @@ module.exports={
                 type: 'success'
             };
         }else*/ return {
-            data:'Usage: '+guild.prefix+this.usage,
+            data: 'Usage: `'+guild.prefix+this.usage+'`',
             type: 'info'
         };
     }

@@ -9,11 +9,11 @@ module.exports={
             guild.set({prefix: args[0]});
             await guild.save();
             return {
-                data: 'Prefix has been changed to '+args[0],
+                data: 'Prefix has been changed to `'+args[0]+'`',
                 type: 'success'
             };
         }else return {
-            data:'Usage: '+guild.prefix+this.usage,
+            data: 'Usage: `'+guild.prefix+this.usage+'`',
             type: 'info'
         };
     }

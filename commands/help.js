@@ -13,7 +13,7 @@ module.exports={
                 type: args[0]+' command'
             };
         }else */return {
-            data: bot.commands.map((cmd, cmdName)=>'**'+cmdName+'-'+cmd.description+'**\n```json\n'+'Usage: '+guild.prefix+cmd.usage+'```').join('\n'),
+            data: bot.commands.map((cmd, cmdName)=>'**'+cmdName+'-'+cmd.description+'**\n`json\n'+'Usage: '+guild.prefix+cmd.usage+'`').join('\n'),
             type: 'help'
         };
     }

@@ -1,19 +1,20 @@
 let DataTracer = require('../modules/DataTracer.js');
 module.exports={
-    description: "Get character's information",
-    usage: "character [characterName:1-word]",
+    description: "Get artifact's information",
+    usage: "artifact [artifactName:n-word]",
     delay: 5000,
     op: false,
-    alias: ['nv', 'char'],
+    alias: ['art', 'tdv'],
     execute: async function(msg, args, guild) {
         if(args[0]!==undefined){
-            let result=await DataTracer.read('characters', args[0], guild.language);
+            args=args.join(' ');
+            let result=await DataTracer.read('artifacts', args, guild.language);
             if(result) return {
                 data: result,
-                type: 'character'
+                type: 'artifact'
             }
             return {
-                data: 'Sorry, I couldn\'t find any match `'+args[0]+'`',
+                data: 'Sorry, I couldn\'t find any match `'+args+'`',
                 type: 'warn'
             }
         }else return {

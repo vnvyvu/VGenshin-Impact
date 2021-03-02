@@ -15,10 +15,20 @@ let {Guild} = require('./schema/DAO.js');
 bot.on('message', async msg => {
     //bot wont work with another or in dm cnannel
     if(msg.author.bot||msg.channel.type=='dm') return;
+    //bot wont work with here or everyone mention
+    if(msg.content.includes("@here")||msg.content.includes("@everyone")) return;
     //Init guild config
     let g=await Guild.findOne({_id: msg.guild.id});
     //Guild missing in database
     if(g==null) g=await (new Guild({_id: msg.guild.id})).save();
+    //bot mentioned
+    if(msg.mentions.has(bot.user.id)) {
+        await Responsor.send(msg, g, {
+            data: msg.author.toString()+' My prefix is: `'+g.prefix+'`',
+            type: 'info'
+        });
+        return;
+    }
     //Command matcher
     let command = await CommandMatcher.getParameters(g.prefix, msg);
     //not a command
@@ -30,7 +40,18 @@ bot.on('message', async msg => {
 });
 
 bot.on('guildDelete', async guild =>{
-    Guild.findOneAndDelete({_id: guild.id});
+    await Guild.findOneAndDelete({_id: guild.id});
 })
+
+bot.on('ready', ()=>{
+    bot.user.setPresence({
+        status: 'idle',
+        activity: {
+            name: "đẳg bủh lmao 💻| Mention me to get prefix 😎",
+            type: "PLAYING",
+        },
+    });
+    //bot.user.setActivity('in the garbage', {name: 'PLAYING'});
+});
 
 bot.login(process.env.BOT_TOKEN);

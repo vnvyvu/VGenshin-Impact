@@ -1,0 +1,3024 @@
+{
+  "4200": {
+    "NameTextMapHash": 146971432,
+    "DisplayNameTextMapHash": 2220741970,
+    "DescTextMapHash": 3675010773,
+    "ShowLevel": 38,
+    "AvatarLimitType": 29,
+    "LimitLevel": 1,
+    "LevelRevise": 37,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104301,
+      104304,
+      104307
+    ],
+    "LevelDetail": {
+      "100": 282939290
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4201": {
+    "NameTextMapHash": 2954930144,
+    "DisplayNameTextMapHash": 1945399570,
+    "DescTextMapHash": 1948484549,
+    "ShowLevel": 54,
+    "AvatarLimitType": 45,
+    "LimitLevel": 28,
+    "LevelRevise": 53,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104301,
+      104304,
+      104307,
+      104302,
+      104305,
+      104308
+    ],
+    "LevelDetail": {
+      "100": 282939290
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4202": {
+    "NameTextMapHash": 1556338320,
+    "DisplayNameTextMapHash": 3475133218,
+    "DescTextMapHash": 1666040909,
+    "ShowLevel": 71,
+    "AvatarLimitType": 62,
+    "LimitLevel": 36,
+    "LevelRevise": 70,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104301,
+      104304,
+      104307,
+      104302,
+      104305,
+      104308
+    ],
+    "LevelDetail": {
+      "100": 2739839178
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4203": {
+    "NameTextMapHash": 644876704,
+    "DisplayNameTextMapHash": 3847801746,
+    "DescTextMapHash": 1990494525,
+    "ShowLevel": 88,
+    "AvatarLimitType": 79,
+    "LimitLevel": 45,
+    "LevelRevise": 87,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104301,
+      104304,
+      104307,
+      104302,
+      104305,
+      104308,
+      104303,
+      104306,
+      104309
+    ],
+    "LevelDetail": {
+      "100": 2739839178
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4210": {
+    "NameTextMapHash": 900738856,
+    "DisplayNameTextMapHash": 1061477106,
+    "DescTextMapHash": 665126789,
+    "ShowLevel": 38,
+    "AvatarLimitType": 29,
+    "LimitLevel": 1,
+    "LevelRevise": 37,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104301
+    ],
+    "LevelDetail": {
+      "100": 282939290
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4211": {
+    "NameTextMapHash": 3030704560,
+    "DisplayNameTextMapHash": 1470945274,
+    "DescTextMapHash": 3497605125,
+    "ShowLevel": 54,
+    "AvatarLimitType": 45,
+    "LimitLevel": 28,
+    "LevelRevise": 53,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104301,
+      104302
+    ],
+    "LevelDetail": {
+      "100": 282939290
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4212": {
+    "NameTextMapHash": 3463347400,
+    "DisplayNameTextMapHash": 2173936690,
+    "DescTextMapHash": 2894182949,
+    "ShowLevel": 71,
+    "AvatarLimitType": 62,
+    "LimitLevel": 36,
+    "LevelRevise": 70,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday",
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104301,
+      104302
+    ],
+    "LevelDetail": {
+      "100": 2739839178
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4213": {
+    "NameTextMapHash": 2996957920,
+    "DisplayNameTextMapHash": 2025478330,
+    "DescTextMapHash": 327185317,
+    "ShowLevel": 88,
+    "AvatarLimitType": 79,
+    "LimitLevel": 45,
+    "LevelRevise": 87,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday",
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104301,
+      104302,
+      104303
+    ],
+    "LevelDetail": {
+      "100": 2739839178
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4220": {
+    "NameTextMapHash": 2869869656,
+    "DisplayNameTextMapHash": 2935884346,
+    "DescTextMapHash": 983544221,
+    "ShowLevel": 38,
+    "AvatarLimitType": 29,
+    "LimitLevel": 1,
+    "LevelRevise": 37,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104304
+    ],
+    "LevelDetail": {
+      "100": 282939290
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4221": {
+    "NameTextMapHash": 4195085352,
+    "DisplayNameTextMapHash": 1304927866,
+    "DescTextMapHash": 2680089621,
+    "ShowLevel": 54,
+    "AvatarLimitType": 45,
+    "LimitLevel": 28,
+    "LevelRevise": 53,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104304,
+      104305
+    ],
+    "LevelDetail": {
+      "100": 282939290
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4222": {
+    "NameTextMapHash": 1639764256,
+    "DisplayNameTextMapHash": 2738626826,
+    "DescTextMapHash": 3638791533,
+    "ShowLevel": 71,
+    "AvatarLimitType": 62,
+    "LimitLevel": 36,
+    "LevelRevise": 70,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104304,
+      104305
+    ],
+    "LevelDetail": {
+      "100": 2739839178
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4223": {
+    "NameTextMapHash": 2969853976,
+    "DisplayNameTextMapHash": 816712874,
+    "DescTextMapHash": 3686227045,
+    "ShowLevel": 88,
+    "AvatarLimitType": 79,
+    "LimitLevel": 45,
+    "LevelRevise": 87,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104304,
+      104305,
+      104306
+    ],
+    "LevelDetail": {
+      "100": 2739839178
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4230": {
+    "NameTextMapHash": 4253749544,
+    "DisplayNameTextMapHash": 2652597242,
+    "DescTextMapHash": 2665401645,
+    "ShowLevel": 38,
+    "AvatarLimitType": 29,
+    "LimitLevel": 1,
+    "LevelRevise": 37,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104307
+    ],
+    "LevelDetail": {
+      "100": 282939290
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4231": {
+    "NameTextMapHash": 3895049776,
+    "DisplayNameTextMapHash": 95428114,
+    "DescTextMapHash": 2672814053,
+    "ShowLevel": 54,
+    "AvatarLimitType": 45,
+    "LimitLevel": 28,
+    "LevelRevise": 53,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104307,
+      104308
+    ],
+    "LevelDetail": {
+      "100": 282939290
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4232": {
+    "NameTextMapHash": 2484922872,
+    "DisplayNameTextMapHash": 3324588810,
+    "DescTextMapHash": 2159694285,
+    "ShowLevel": 71,
+    "AvatarLimitType": 62,
+    "LimitLevel": 36,
+    "LevelRevise": 70,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104307,
+      104308
+    ],
+    "LevelDetail": {
+      "100": 2739839178
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4233": {
+    "NameTextMapHash": 1578875816,
+    "DisplayNameTextMapHash": 3390539370,
+    "DescTextMapHash": 2321044069,
+    "ShowLevel": 88,
+    "AvatarLimitType": 79,
+    "LimitLevel": 45,
+    "LevelRevise": 87,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Electric",
+      "Fire"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104307,
+      104308,
+      104309
+    ],
+    "LevelDetail": {
+      "100": 2739839178
+    },
+    "Image": "UI_DungeonPic_Ice"
+  },
+  "4300": {
+    "NameTextMapHash": 2642822208,
+    "DisplayNameTextMapHash": 1168428258,
+    "DescTextMapHash": 2385576093,
+    "ShowLevel": 15,
+    "AvatarLimitType": 6,
+    "LimitLevel": 1,
+    "LevelRevise": 14,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114001,
+      114005,
+      114009
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4301": {
+    "NameTextMapHash": 613436048,
+    "DisplayNameTextMapHash": 775938394,
+    "DescTextMapHash": 2941354837,
+    "ShowLevel": 36,
+    "AvatarLimitType": 27,
+    "LimitLevel": 21,
+    "LevelRevise": 35,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114001,
+      114005,
+      114009,
+      114002,
+      114006,
+      114010
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4302": {
+    "NameTextMapHash": 544037608,
+    "DisplayNameTextMapHash": 690951690,
+    "DescTextMapHash": 132542485,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114001,
+      114005,
+      114009,
+      114002,
+      114006,
+      114010,
+      114003,
+      114007,
+      114011
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4303": {
+    "NameTextMapHash": 21719624,
+    "DisplayNameTextMapHash": 3866091914,
+    "DescTextMapHash": 588340525,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 62,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114001,
+      114005,
+      114009,
+      114002,
+      114006,
+      114010,
+      114003,
+      114007,
+      114011,
+      114004,
+      114008,
+      114012
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4310": {
+    "NameTextMapHash": 3767780192,
+    "DisplayNameTextMapHash": 2639918298,
+    "DescTextMapHash": 177836909,
+    "ShowLevel": 15,
+    "AvatarLimitType": 6,
+    "LimitLevel": 1,
+    "LevelRevise": 14,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114001
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4311": {
+    "NameTextMapHash": 654377176,
+    "DisplayNameTextMapHash": 2810386290,
+    "DescTextMapHash": 1343697597,
+    "ShowLevel": 36,
+    "AvatarLimitType": 27,
+    "LimitLevel": 21,
+    "LevelRevise": 35,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114001,
+      114002
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4312": {
+    "NameTextMapHash": 3128392216,
+    "DisplayNameTextMapHash": 540609490,
+    "DescTextMapHash": 816858397,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday",
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114001,
+      114002,
+      114003
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4313": {
+    "NameTextMapHash": 278054048,
+    "DisplayNameTextMapHash": 3613834106,
+    "DescTextMapHash": 1100552069,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 62,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday",
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114001,
+      114002,
+      114003,
+      114004
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4320": {
+    "NameTextMapHash": 493181496,
+    "DisplayNameTextMapHash": 2970309978,
+    "DescTextMapHash": 146677677,
+    "ShowLevel": 15,
+    "AvatarLimitType": 6,
+    "LimitLevel": 1,
+    "LevelRevise": 14,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114005
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4321": {
+    "NameTextMapHash": 3729505792,
+    "DisplayNameTextMapHash": 3329217898,
+    "DescTextMapHash": 31300965,
+    "ShowLevel": 36,
+    "AvatarLimitType": 27,
+    "LimitLevel": 21,
+    "LevelRevise": 35,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114005,
+      114006
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4322": {
+    "NameTextMapHash": 912527800,
+    "DisplayNameTextMapHash": 1936911242,
+    "DescTextMapHash": 4194641373,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114005,
+      114006,
+      114007
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4323": {
+    "NameTextMapHash": 1878512080,
+    "DisplayNameTextMapHash": 1288063498,
+    "DescTextMapHash": 59817269,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 62,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114005,
+      114006,
+      114007,
+      114008
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4330": {
+    "NameTextMapHash": 3887018080,
+    "DisplayNameTextMapHash": 2552606714,
+    "DescTextMapHash": 1613540373,
+    "ShowLevel": 15,
+    "AvatarLimitType": 6,
+    "LimitLevel": 1,
+    "LevelRevise": 14,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114009
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4331": {
+    "NameTextMapHash": 317562400,
+    "DisplayNameTextMapHash": 317028818,
+    "DescTextMapHash": 3272797965,
+    "ShowLevel": 36,
+    "AvatarLimitType": 27,
+    "LimitLevel": 21,
+    "LevelRevise": 35,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114009,
+      114010
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4332": {
+    "NameTextMapHash": 1476111544,
+    "DisplayNameTextMapHash": 3017034666,
+    "DescTextMapHash": 2498755893,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114009,
+      114010,
+      114011
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "4333": {
+    "NameTextMapHash": 2681612976,
+    "DisplayNameTextMapHash": 3333325826,
+    "DescTextMapHash": 929424781,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 62,
+    "RecommendElementTypes": [
+      "Ice",
+      "Fire",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114009,
+      114010,
+      114011,
+      114012
+    ],
+    "LevelDetail": {
+      "100": 3115449794
+    },
+    "Image": "UI_DungeonPic_Water"
+  },
+  "5000": {
+    "NameTextMapHash": 3770364112,
+    "DisplayNameTextMapHash": 2857735106,
+    "DescTextMapHash": 2565127949,
+    "ShowLevel": 26,
+    "AvatarLimitType": 17,
+    "LimitLevel": 1,
+    "LevelRevise": 25,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire"
+    ],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400045,
+      400046,
+      400002,
+      400047
+    ],
+    "LevelDetail": {
+      "100": 2662671394
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal"
+  },
+  "5001": {
+    "NameTextMapHash": 1313282072,
+    "DisplayNameTextMapHash": 3934958226,
+    "DescTextMapHash": 3323637013,
+    "ShowLevel": 34,
+    "AvatarLimitType": 25,
+    "LimitLevel": 1,
+    "LevelRevise": 33,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire"
+    ],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400046,
+      400002,
+      400047
+    ],
+    "LevelDetail": {
+      "100": 1015758474
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "5002": {
+    "NameTextMapHash": 1830617256,
+    "DisplayNameTextMapHash": 2649423682,
+    "DescTextMapHash": 4207027269,
+    "ShowLevel": 47,
+    "AvatarLimitType": 38,
+    "LimitLevel": 25,
+    "LevelRevise": 46,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire"
+    ],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400046,
+      400002,
+      400047
+    ],
+    "LevelDetail": {
+      "100": 1167520402
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_2"
+  },
+  "5003": {
+    "NameTextMapHash": 2104197296,
+    "DisplayNameTextMapHash": 3102819730,
+    "DescTextMapHash": 2661558373,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire"
+    ],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400002,
+      400047,
+      400108,
+      400073,
+      400003
+    ],
+    "LevelDetail": {
+      "100": 2640963306
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "5004": {
+    "NameTextMapHash": 1584104864,
+    "DisplayNameTextMapHash": 3059863746,
+    "DescTextMapHash": 1392924317,
+    "ShowLevel": 69,
+    "AvatarLimitType": 60,
+    "LimitLevel": 35,
+    "LevelRevise": 68,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire"
+    ],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400002,
+      400047,
+      400108,
+      400073,
+      400003
+    ],
+    "LevelDetail": {
+      "100": 2345998442
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "5005": {
+    "NameTextMapHash": 152322000,
+    "DisplayNameTextMapHash": 98145722,
+    "DescTextMapHash": 1985410765,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire"
+    ],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400002,
+      400047,
+      400108,
+      400073,
+      400003,
+      400109,
+      400074
+    ],
+    "LevelDetail": {
+      "100": 991294394
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal"
+  },
+  "5006": {
+    "NameTextMapHash": 3973630352,
+    "DisplayNameTextMapHash": 745188818,
+    "DescTextMapHash": 3917025365,
+    "ShowLevel": 90,
+    "AvatarLimitType": 81,
+    "LimitLevel": 45,
+    "LevelRevise": 89,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire"
+    ],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400002,
+      400047,
+      400108,
+      400073,
+      400003,
+      400109,
+      400074
+    ],
+    "LevelDetail": {
+      "100": 1450993594
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "5007": {
+    "NameTextMapHash": 565833440,
+    "DisplayNameTextMapHash": 3118591394,
+    "DescTextMapHash": 3607414461,
+    "ShowLevel": 60,
+    "AvatarLimitType": 51,
+    "LimitLevel": 45,
+    "LevelRevise": 59,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire"
+    ],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400002,
+      400047,
+      400108,
+      400073,
+      400003,
+      400109,
+      400074
+    ],
+    "LevelDetail": {
+      "100": 2604484714
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_2"
+  },
+  "5008": {
+    "NameTextMapHash": 12643856,
+    "DisplayNameTextMapHash": 2560734202,
+    "DescTextMapHash": 4083014029,
+    "ShowLevel": 47,
+    "AvatarLimitType": 38,
+    "LimitLevel": 25,
+    "LevelRevise": 46,
+    "PassCond": 51,
+    "RecommendElementTypes": [],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400061,
+      400017,
+      400062
+    ],
+    "LevelDetail": {
+      "100": 1004901490
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "5009": {
+    "NameTextMapHash": 1078153552,
+    "DisplayNameTextMapHash": 2201135410,
+    "DescTextMapHash": 2244512789,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400017,
+      400062,
+      400093,
+      400083,
+      400018
+    ],
+    "LevelDetail": {
+      "100": 43431906
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "5010": {
+    "NameTextMapHash": 380525584,
+    "DisplayNameTextMapHash": 201573930,
+    "DescTextMapHash": 41579405,
+    "ShowLevel": 69,
+    "AvatarLimitType": 60,
+    "LimitLevel": 35,
+    "LevelRevise": 68,
+    "PassCond": 51,
+    "RecommendElementTypes": [],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400017,
+      400062,
+      400093,
+      400083,
+      400018
+    ],
+    "LevelDetail": {
+      "100": 4002078290
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal"
+  },
+  "5011": {
+    "NameTextMapHash": 517253688,
+    "DisplayNameTextMapHash": 2167694474,
+    "DescTextMapHash": 756656949,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 51,
+    "RecommendElementTypes": [],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400017,
+      400062,
+      400093,
+      400083,
+      400018,
+      400094,
+      400084
+    ],
+    "LevelDetail": {
+      "100": 2771248346
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "5012": {
+    "NameTextMapHash": 227278784,
+    "DisplayNameTextMapHash": 2473378698,
+    "DescTextMapHash": 1312158557,
+    "ShowLevel": 90,
+    "AvatarLimitType": 81,
+    "LimitLevel": 45,
+    "LevelRevise": 89,
+    "PassCond": 51,
+    "RecommendElementTypes": [],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400017,
+      400062,
+      400093,
+      400083,
+      400018,
+      400094,
+      400084
+    ],
+    "LevelDetail": {
+      "100": 1026467626
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "5013": {
+    "NameTextMapHash": 2001452576,
+    "DisplayNameTextMapHash": 252277226,
+    "DescTextMapHash": 2986540685,
+    "ShowLevel": 60,
+    "AvatarLimitType": 51,
+    "LimitLevel": 45,
+    "LevelRevise": 59,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400017,
+      400062,
+      400093,
+      400083,
+      400018,
+      400094,
+      400084
+    ],
+    "LevelDetail": {
+      "100": 3740324946
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal"
+  },
+  "5100": {
+    "NameTextMapHash": 4090511160,
+    "DisplayNameTextMapHash": 681427546,
+    "DescTextMapHash": 949689837,
+    "ShowLevel": 34,
+    "AvatarLimitType": 25,
+    "LimitLevel": 1,
+    "LevelRevise": 33,
+    "PassCond": 61,
+    "RecommendElementTypes": [
+      "Electric"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400051,
+      400007,
+      400052
+    ],
+    "LevelDetail": {
+      "100": 2886430042
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "5101": {
+    "NameTextMapHash": 3906564432,
+    "DisplayNameTextMapHash": 1725692074,
+    "DescTextMapHash": 3781372269,
+    "ShowLevel": 47,
+    "AvatarLimitType": 38,
+    "LimitLevel": 25,
+    "LevelRevise": 46,
+    "PassCond": 61,
+    "RecommendElementTypes": [
+      "Electric"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400051,
+      400007,
+      400052
+    ],
+    "LevelDetail": {
+      "100": 1518088634
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_2"
+  },
+  "5102": {
+    "NameTextMapHash": 4138901824,
+    "DisplayNameTextMapHash": 2392430186,
+    "DescTextMapHash": 381296221,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 61,
+    "RecommendElementTypes": [
+      "Electric"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400007,
+      400052,
+      400153,
+      400158,
+      400008
+    ],
+    "LevelDetail": {
+      "100": 3655999154
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "5103": {
+    "NameTextMapHash": 3800564376,
+    "DisplayNameTextMapHash": 1779918266,
+    "DescTextMapHash": 3984848053,
+    "ShowLevel": 69,
+    "AvatarLimitType": 60,
+    "LimitLevel": 35,
+    "LevelRevise": 68,
+    "PassCond": 60,
+    "RecommendElementTypes": [
+      "Electric"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400007,
+      400052,
+      400153,
+      400158,
+      400008
+    ],
+    "LevelDetail": {
+      "100": 3262904722
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_2"
+  },
+  "5104": {
+    "NameTextMapHash": 2074484592,
+    "DisplayNameTextMapHash": 1593801842,
+    "DescTextMapHash": 2773624493,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 60,
+    "RecommendElementTypes": [
+      "Electric"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400007,
+      400052,
+      400153,
+      400158,
+      400008,
+      400154,
+      400159
+    ],
+    "LevelDetail": {
+      "100": 1498136602
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "5105": {
+    "NameTextMapHash": 878985736,
+    "DisplayNameTextMapHash": 3114275066,
+    "DescTextMapHash": 3259146405,
+    "ShowLevel": 90,
+    "AvatarLimitType": 81,
+    "LimitLevel": 45,
+    "LevelRevise": 89,
+    "PassCond": 60,
+    "RecommendElementTypes": [
+      "Electric"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400007,
+      400052,
+      400153,
+      400158,
+      400008,
+      400154,
+      400159
+    ],
+    "LevelDetail": {
+      "100": 1215912466
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "5106": {
+    "NameTextMapHash": 1241829064,
+    "DisplayNameTextMapHash": 1030696994,
+    "DescTextMapHash": 2438539765,
+    "ShowLevel": 60,
+    "AvatarLimitType": 51,
+    "LimitLevel": 45,
+    "LevelRevise": 59,
+    "PassCond": 60,
+    "RecommendElementTypes": [
+      "Electric",
+      "Ice"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400007,
+      400052,
+      400153,
+      400158,
+      400008,
+      400154,
+      400159
+    ],
+    "LevelDetail": {
+      "100": 3003233706
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal"
+  },
+  "5107": {
+    "NameTextMapHash": 1951175488,
+    "DisplayNameTextMapHash": 1944099642,
+    "DescTextMapHash": 1812615029,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 58,
+    "RecommendElementTypes": [
+      "Ice"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400012,
+      400027,
+      400113,
+      400078,
+      400013,
+      400028
+    ],
+    "LevelDetail": {
+      "100": 3195210154
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "5108": {
+    "NameTextMapHash": 3286512048,
+    "DisplayNameTextMapHash": 1385546602,
+    "DescTextMapHash": 1025952661,
+    "ShowLevel": 69,
+    "AvatarLimitType": 60,
+    "LimitLevel": 35,
+    "LevelRevise": 68,
+    "PassCond": 58,
+    "RecommendElementTypes": [
+      "Ice"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400012,
+      400027,
+      400113,
+      400078,
+      400013,
+      400028
+    ],
+    "LevelDetail": {
+      "100": 2581676866
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_2"
+  },
+  "5109": {
+    "NameTextMapHash": 2438885168,
+    "DisplayNameTextMapHash": 1439509706,
+    "DescTextMapHash": 515709173,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 59,
+    "RecommendElementTypes": [
+      "Ice"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400012,
+      400027,
+      400113,
+      400078,
+      400013,
+      400028,
+      400114,
+      400079
+    ],
+    "LevelDetail": {
+      "100": 690746482
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_2"
+  },
+  "5110": {
+    "NameTextMapHash": 2317083824,
+    "DisplayNameTextMapHash": 2182047114,
+    "DescTextMapHash": 2719505109,
+    "ShowLevel": 90,
+    "AvatarLimitType": 81,
+    "LimitLevel": 45,
+    "LevelRevise": 89,
+    "PassCond": 59,
+    "RecommendElementTypes": [
+      "Ice"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400012,
+      400027,
+      400113,
+      400078,
+      400013,
+      400028,
+      400114,
+      400079
+    ],
+    "LevelDetail": {
+      "100": 2746461074
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "5111": {
+    "NameTextMapHash": 252996112,
+    "DisplayNameTextMapHash": 1494143146,
+    "DescTextMapHash": 3118741229,
+    "ShowLevel": 60,
+    "AvatarLimitType": 51,
+    "LimitLevel": 45,
+    "LevelRevise": 59,
+    "PassCond": 57,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400012,
+      400027,
+      400113,
+      400078,
+      400013,
+      400028,
+      400114,
+      400079
+    ],
+    "LevelDetail": {
+      "100": 1720410066
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "5112": {
+    "NameTextMapHash": 4109980432,
+    "DisplayNameTextMapHash": 3245433154,
+    "DescTextMapHash": 3978611661,
+    "ShowLevel": 69,
+    "AvatarLimitType": 60,
+    "LimitLevel": 35,
+    "LevelRevise": 68,
+    "PassCond": 60,
+    "RecommendElementTypes": [
+      "Rock"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400037,
+      400057,
+      400123,
+      400118,
+      400038,
+      400058
+    ],
+    "LevelDetail": {
+      "100": 2453463594
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "5113": {
+    "NameTextMapHash": 4125045632,
+    "DisplayNameTextMapHash": 4022657410,
+    "DescTextMapHash": 271211517,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 60,
+    "RecommendElementTypes": [
+      "Rock"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400037,
+      400057,
+      400123,
+      400118,
+      400038,
+      400058,
+      400124,
+      400119
+    ],
+    "LevelDetail": {
+      "100": 1453373442
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal"
+  },
+  "5114": {
+    "NameTextMapHash": 2405644728,
+    "DisplayNameTextMapHash": 2615269650,
+    "DescTextMapHash": 3640301141,
+    "ShowLevel": 90,
+    "AvatarLimitType": 81,
+    "LimitLevel": 45,
+    "LevelRevise": 89,
+    "PassCond": 60,
+    "RecommendElementTypes": [
+      "Rock"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400037,
+      400057,
+      400123,
+      400118,
+      400038,
+      400058,
+      400124,
+      400119
+    ],
+    "LevelDetail": {
+      "100": 2452733498
+    },
+    "Image": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "5115": {
+    "NameTextMapHash": 917616784,
+    "DisplayNameTextMapHash": 2363522370,
+    "DescTextMapHash": 3830152317,
+    "ShowLevel": 60,
+    "AvatarLimitType": 51,
+    "LimitLevel": 45,
+    "LevelRevise": 59,
+    "PassCond": 59,
+    "RecommendElementTypes": [
+      "Rock",
+      "Wind"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400037,
+      400057,
+      400123,
+      400118,
+      400038,
+      400058,
+      400124,
+      400119
+    ],
+    "LevelDetail": {
+      "100": 1726500442
+    },
+    "Image": "UI_DungeonPic_Cubic_Water"
+  },
+  "5120": {
+    "NameTextMapHash": 193382024,
+    "DisplayNameTextMapHash": 804303530,
+    "DescTextMapHash": 4101038269,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 58,
+    "RecommendElementTypes": [
+      "Fire",
+      "Electric",
+      "Rock",
+      "Wind"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400012,
+      400037,
+      400068,
+      400163,
+      400013,
+      400038
+    ],
+    "LevelDetail": {
+      "100": 2451588826
+    },
+    "Image": "UI_DungeonPic_Cubic_Cold_1"
+  },
+  "5121": {
+    "NameTextMapHash": 3403677528,
+    "DisplayNameTextMapHash": 1970510522,
+    "DescTextMapHash": 904108253,
+    "ShowLevel": 69,
+    "AvatarLimitType": 60,
+    "LimitLevel": 35,
+    "LevelRevise": 68,
+    "PassCond": 58,
+    "RecommendElementTypes": [
+      "Fire",
+      "Electric",
+      "Rock",
+      "Wind"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400012,
+      400037,
+      400068,
+      400163,
+      400013,
+      400038
+    ],
+    "LevelDetail": {
+      "100": 2451588826
+    },
+    "Image": "UI_DungeonPic_Cubic_Cold_1"
+  },
+  "5122": {
+    "NameTextMapHash": 1519221752,
+    "DisplayNameTextMapHash": 2090522098,
+    "DescTextMapHash": 245215013,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 59,
+    "RecommendElementTypes": [
+      "Fire",
+      "Electric",
+      "Rock",
+      "Wind"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400012,
+      400037,
+      400068,
+      400163,
+      400013,
+      400038,
+      400069,
+      400164
+    ],
+    "LevelDetail": {
+      "100": 2451588826
+    },
+    "Image": "UI_DungeonPic_Cubic_Cold_1"
+  },
+  "5123": {
+    "NameTextMapHash": 3585968376,
+    "DisplayNameTextMapHash": 1178519266,
+    "DescTextMapHash": 3088637453,
+    "ShowLevel": 90,
+    "AvatarLimitType": 81,
+    "LimitLevel": 45,
+    "LevelRevise": 89,
+    "PassCond": 59,
+    "RecommendElementTypes": [
+      "Fire",
+      "Electric",
+      "Rock",
+      "Wind"
+    ],
+    "CityID": 2,
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      400012,
+      400037,
+      400068,
+      400163,
+      400013,
+      400038,
+      400069,
+      400164
+    ],
+    "LevelDetail": {
+      "100": 2451588826
+    },
+    "Image": "UI_DungeonPic_Cubic_Cold_1"
+  },
+  "5210": {
+    "NameTextMapHash": 3645336920,
+    "DisplayNameTextMapHash": 1042229258,
+    "DescTextMapHash": 1885373221,
+    "ShowLevel": 15,
+    "AvatarLimitType": 6,
+    "LimitLevel": 1,
+    "LevelRevise": 14,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114013,
+      114017,
+      114021
+    ],
+    "LevelDetail": {
+      "100": 1015211514
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5211": {
+    "NameTextMapHash": 1581585240,
+    "DisplayNameTextMapHash": 2212831458,
+    "DescTextMapHash": 3156964645,
+    "ShowLevel": 36,
+    "AvatarLimitType": 27,
+    "LimitLevel": 21,
+    "LevelRevise": 35,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114013,
+      114017,
+      114021,
+      114014,
+      114018,
+      114022
+    ],
+    "LevelDetail": {
+      "100": 1015211514
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5212": {
+    "NameTextMapHash": 566461408,
+    "DisplayNameTextMapHash": 3049948946,
+    "DescTextMapHash": 3704290317,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114013,
+      114017,
+      114021,
+      114014,
+      114018,
+      114022,
+      114015,
+      114019,
+      114023
+    ],
+    "LevelDetail": {
+      "100": 3785968906
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5213": {
+    "NameTextMapHash": 1677849280,
+    "DisplayNameTextMapHash": 1230647170,
+    "DescTextMapHash": 2818509373,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114013,
+      114017,
+      114021,
+      114014,
+      114018,
+      114022,
+      114015,
+      114019,
+      114023,
+      114016,
+      114020,
+      114024
+    ],
+    "LevelDetail": {
+      "100": 3785968906
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5214": {
+    "NameTextMapHash": 69726792,
+    "DisplayNameTextMapHash": 2029559442,
+    "DescTextMapHash": 3038812525,
+    "ShowLevel": 15,
+    "AvatarLimitType": 6,
+    "LimitLevel": 1,
+    "LevelRevise": 14,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114013
+    ],
+    "LevelDetail": {
+      "100": 1015211514
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5215": {
+    "NameTextMapHash": 1011695904,
+    "DisplayNameTextMapHash": 2912794234,
+    "DescTextMapHash": 283463029,
+    "ShowLevel": 36,
+    "AvatarLimitType": 27,
+    "LimitLevel": 21,
+    "LevelRevise": 35,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114013,
+      114014
+    ],
+    "LevelDetail": {
+      "100": 1015211514
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5216": {
+    "NameTextMapHash": 3312408336,
+    "DisplayNameTextMapHash": 1947370658,
+    "DescTextMapHash": 3088382789,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114013,
+      114014,
+      114015
+    ],
+    "LevelDetail": {
+      "100": 3785968906
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5217": {
+    "NameTextMapHash": 1642332928,
+    "DisplayNameTextMapHash": 3888871282,
+    "DescTextMapHash": 2209917965,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114013,
+      114014,
+      114015,
+      114016
+    ],
+    "LevelDetail": {
+      "100": 3785968906
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5218": {
+    "NameTextMapHash": 2306535304,
+    "DisplayNameTextMapHash": 136265474,
+    "DescTextMapHash": 2563559381,
+    "ShowLevel": 15,
+    "AvatarLimitType": 6,
+    "LimitLevel": 1,
+    "LevelRevise": 14,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114017
+    ],
+    "LevelDetail": {
+      "100": 1015211514
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5219": {
+    "NameTextMapHash": 2797023392,
+    "DisplayNameTextMapHash": 1444588058,
+    "DescTextMapHash": 307958189,
+    "ShowLevel": 36,
+    "AvatarLimitType": 27,
+    "LimitLevel": 21,
+    "LevelRevise": 35,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114017,
+      114018
+    ],
+    "LevelDetail": {
+      "100": 1015211514
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5220": {
+    "NameTextMapHash": 3205919512,
+    "DisplayNameTextMapHash": 559498274,
+    "DescTextMapHash": 320573701,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114017,
+      114018,
+      114019
+    ],
+    "LevelDetail": {
+      "100": 3785968906
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5221": {
+    "NameTextMapHash": 807039656,
+    "DisplayNameTextMapHash": 786874778,
+    "DescTextMapHash": 2651074437,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114017,
+      114018,
+      114019,
+      114020
+    ],
+    "LevelDetail": {
+      "100": 3785968906
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5222": {
+    "NameTextMapHash": 1661934640,
+    "DisplayNameTextMapHash": 659138634,
+    "DescTextMapHash": 1810719125,
+    "ShowLevel": 15,
+    "AvatarLimitType": 6,
+    "LimitLevel": 1,
+    "LevelRevise": 14,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114021
+    ],
+    "LevelDetail": {
+      "100": 1015211514
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5223": {
+    "NameTextMapHash": 2994974536,
+    "DisplayNameTextMapHash": 3022412538,
+    "DescTextMapHash": 2339450453,
+    "ShowLevel": 36,
+    "AvatarLimitType": 27,
+    "LimitLevel": 21,
+    "LevelRevise": 35,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114021,
+      114022
+    ],
+    "LevelDetail": {
+      "100": 1015211514
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5224": {
+    "NameTextMapHash": 3771611952,
+    "DisplayNameTextMapHash": 1250919674,
+    "DescTextMapHash": 660993365,
+    "ShowLevel": 59,
+    "AvatarLimitType": 50,
+    "LimitLevel": 30,
+    "LevelRevise": 58,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114021,
+      114022,
+      114023
+    ],
+    "LevelDetail": {
+      "100": 3785968906
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5225": {
+    "NameTextMapHash": 3253569800,
+    "DisplayNameTextMapHash": 3744511010,
+    "DescTextMapHash": 1715147613,
+    "ShowLevel": 80,
+    "AvatarLimitType": 71,
+    "LimitLevel": 40,
+    "LevelRevise": 79,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Fire",
+      "Ice"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      114021,
+      114022,
+      114023,
+      114024
+    ],
+    "LevelDetail": {
+      "100": 3785968906
+    },
+    "Image": "UI_DungeonPic_Thunder"
+  },
+  "5250": {
+    "NameTextMapHash": 3358559584,
+    "DisplayNameTextMapHash": 3721883914,
+    "DescTextMapHash": 2727051117,
+    "ShowLevel": 38,
+    "AvatarLimitType": 29,
+    "LimitLevel": 1,
+    "LevelRevise": 37,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104310,
+      104313,
+      104316
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5251": {
+    "NameTextMapHash": 1746644656,
+    "DisplayNameTextMapHash": 749894474,
+    "DescTextMapHash": 2439796397,
+    "ShowLevel": 54,
+    "AvatarLimitType": 45,
+    "LimitLevel": 28,
+    "LevelRevise": 53,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104310,
+      104313,
+      104316,
+      104311,
+      104314,
+      104317
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5252": {
+    "NameTextMapHash": 1877050856,
+    "DisplayNameTextMapHash": 492164370,
+    "DescTextMapHash": 509268773,
+    "ShowLevel": 71,
+    "AvatarLimitType": 62,
+    "LimitLevel": 36,
+    "LevelRevise": 70,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104310,
+      104313,
+      104316,
+      104311,
+      104314,
+      104317
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5253": {
+    "NameTextMapHash": 2356271160,
+    "DisplayNameTextMapHash": 858538498,
+    "DescTextMapHash": 2621630933,
+    "ShowLevel": 88,
+    "AvatarLimitType": 79,
+    "LimitLevel": 45,
+    "LevelRevise": 87,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Sunday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104310,
+      104313,
+      104316,
+      104311,
+      104314,
+      104317,
+      104312,
+      104315,
+      104318
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5254": {
+    "NameTextMapHash": 3865809464,
+    "DisplayNameTextMapHash": 2624520642,
+    "DescTextMapHash": 3177837309,
+    "ShowLevel": 38,
+    "AvatarLimitType": 29,
+    "LimitLevel": 1,
+    "LevelRevise": 37,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104310
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5255": {
+    "NameTextMapHash": 3880233904,
+    "DisplayNameTextMapHash": 3963509298,
+    "DescTextMapHash": 3081329197,
+    "ShowLevel": 54,
+    "AvatarLimitType": 45,
+    "LimitLevel": 28,
+    "LevelRevise": 53,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104310,
+      104311
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5256": {
+    "NameTextMapHash": 2079021144,
+    "DisplayNameTextMapHash": 1220840450,
+    "DescTextMapHash": 1776834197,
+    "ShowLevel": 71,
+    "AvatarLimitType": 62,
+    "LimitLevel": 36,
+    "LevelRevise": 70,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104310,
+      104311
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5257": {
+    "NameTextMapHash": 1277540640,
+    "DisplayNameTextMapHash": 871799666,
+    "DescTextMapHash": 669961317,
+    "ShowLevel": 88,
+    "AvatarLimitType": 79,
+    "LimitLevel": 45,
+    "LevelRevise": 87,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Monday",
+      "Thursday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104310,
+      104311,
+      104312
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5258": {
+    "NameTextMapHash": 1941535944,
+    "DisplayNameTextMapHash": 736283682,
+    "DescTextMapHash": 593727061,
+    "ShowLevel": 38,
+    "AvatarLimitType": 29,
+    "LimitLevel": 1,
+    "LevelRevise": 37,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104313
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5259": {
+    "NameTextMapHash": 521274928,
+    "DisplayNameTextMapHash": 1528140978,
+    "DescTextMapHash": 1285309477,
+    "ShowLevel": 54,
+    "AvatarLimitType": 45,
+    "LimitLevel": 28,
+    "LevelRevise": 53,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104313,
+      104314
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5260": {
+    "NameTextMapHash": 4156691752,
+    "DisplayNameTextMapHash": 1711896122,
+    "DescTextMapHash": 31514557,
+    "ShowLevel": 71,
+    "AvatarLimitType": 62,
+    "LimitLevel": 36,
+    "LevelRevise": 70,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104313,
+      104314
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5261": {
+    "NameTextMapHash": 3112952152,
+    "DisplayNameTextMapHash": 4138246946,
+    "DescTextMapHash": 3347605525,
+    "ShowLevel": 88,
+    "AvatarLimitType": 79,
+    "LimitLevel": 45,
+    "LevelRevise": 87,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Tuesday",
+      "Friday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104313,
+      104314,
+      104315
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5262": {
+    "NameTextMapHash": 210248768,
+    "DisplayNameTextMapHash": 485197066,
+    "DescTextMapHash": 3580085725,
+    "ShowLevel": 38,
+    "AvatarLimitType": 29,
+    "LimitLevel": 1,
+    "LevelRevise": 37,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104316
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5263": {
+    "NameTextMapHash": 1723244808,
+    "DisplayNameTextMapHash": 2068036154,
+    "DescTextMapHash": 1034435749,
+    "ShowLevel": 54,
+    "AvatarLimitType": 45,
+    "LimitLevel": 28,
+    "LevelRevise": 53,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104316,
+      104317
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5264": {
+    "NameTextMapHash": 62023824,
+    "DisplayNameTextMapHash": 2877639298,
+    "DescTextMapHash": 828536197,
+    "ShowLevel": 71,
+    "AvatarLimitType": 62,
+    "LimitLevel": 36,
+    "LevelRevise": 70,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104316,
+      104317
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  },
+  "5265": {
+    "NameTextMapHash": 3840571792,
+    "DisplayNameTextMapHash": 471310386,
+    "DescTextMapHash": 781063965,
+    "ShowLevel": 88,
+    "AvatarLimitType": 79,
+    "LimitLevel": 45,
+    "LevelRevise": 87,
+    "PassCond": 51,
+    "RecommendElementTypes": [
+      "Water",
+      "Ice",
+      "Electric"
+    ],
+    "CityID": 1,
+    "DaysOpen": [
+      "Wednesday",
+      "Saturday"
+    ],
+    "MaterialId_DisplayItemId": [
+      102,
+      202,
+      105,
+      104316,
+      104317,
+      104318
+    ],
+    "LevelDetail": {
+      "100": 1363988730
+    },
+    "Image": "UI_DungeonPic_Fire"
+  }
+}

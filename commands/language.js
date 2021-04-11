@@ -1,7 +1,7 @@
 let lang=['vi', 'en'];
 module.exports={
     description: "Set your language",
-    usage: "language [region:{vi, en}]",
+    usage: "language [vi, en, chs, cht, de, es, fr, id, ja, ko, pt, ru, th]",
     delay: 5000,
     op: true,
     alias: ['lang'],

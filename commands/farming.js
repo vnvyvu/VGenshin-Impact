@@ -1,6 +1,6 @@
 module.exports={
-    description: "Add farming target-[Coding...]",
-    usage: "farming [value:{character, weapon}] [hint:String]",
+    description: "Add farming target (Coding...)",
+    usage: "farming [character, weapon] {a hint string}",
     delay: 10000,
     op: false,
     alias: [],

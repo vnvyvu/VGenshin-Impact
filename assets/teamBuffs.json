@@ -1,0 +1,43 @@
+{
+  "10101": {
+    "TeamResonanceGroupId": 101,
+    "FireAvatarCount": 2,
+    "NameTextMapHash": 2012776706,
+    "DescTextMapHash": 3981421851
+  },
+  "10201": {
+    "TeamResonanceGroupId": 102,
+    "WaterAvatarCount": 2,
+    "NameTextMapHash": 2733620714,
+    "DescTextMapHash": 740980787
+  },
+  "10301": {
+    "TeamResonanceGroupId": 103,
+    "WindAvatarCount": 2,
+    "NameTextMapHash": 166087994,
+    "DescTextMapHash": 170982675
+  },
+  "10401": {
+    "TeamResonanceGroupId": 104,
+    "ElectricAvatarCount": 2,
+    "NameTextMapHash": 2331327954,
+    "DescTextMapHash": 1982396323
+  },
+  "10601": {
+    "TeamResonanceGroupId": 106,
+    "IceAvatarCount": 2,
+    "NameTextMapHash": 1853529306,
+    "DescTextMapHash": 2601161539
+  },
+  "10701": {
+    "TeamResonanceGroupId": 107,
+    "RockAvatarCount": 2,
+    "NameTextMapHash": 3018382842,
+    "DescTextMapHash": 1707021043
+  },
+  "10801": {
+    "TeamResonanceGroupId": 108,
+    "NameTextMapHash": 2109006394,
+    "DescTextMapHash": 3556079627
+  }
+}

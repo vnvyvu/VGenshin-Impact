@@ -1,13 +1,13 @@
 let DataTracer = require('../modules/DataTracer.js');
 module.exports={
     description: "Get character's information",
-    usage: "character [characterName:1-word]",
+    usage: "character {a hint string}",
     delay: 5000,
     op: false,
     alias: ['nv', 'char'],
     execute: async function(msg, args, guild) {
         if(args[0]!==undefined){
-            let result=await DataTracer.read('characters', args[0], guild.language);
+            let result=await DataTracer.readCharacter(args[0], guild.language);
             if(result) return {
                 data: result,
                 type: 'character'

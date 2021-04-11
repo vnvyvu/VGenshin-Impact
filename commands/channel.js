@@ -1,6 +1,6 @@
 module.exports={
     description: "",
-    usage: "channel [value:{farming, event}]",
+    usage: "channel [farming, event]",
     delay: 5000,
     op: true,
     alias: [],

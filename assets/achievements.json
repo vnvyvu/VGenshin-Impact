@@ -1,0 +1,1824 @@
+{
+  "80001": {
+    "TitleTextMapHash": 3553917084,
+    "DescTextMapHash": 3168952541,
+    "Progress": 1,
+    "CategoryId": 1
+  },
+  "80002": {
+    "TitleTextMapHash": 2757665716,
+    "DescTextMapHash": 3276827341,
+    "Progress": 1,
+    "CategoryId": 1
+  },
+  "80003": {
+    "TitleTextMapHash": 1901531884,
+    "DescTextMapHash": 2029125413,
+    "Progress": 1,
+    "CategoryId": 1
+  },
+  "80004": {
+    "TitleTextMapHash": 1982275052,
+    "DescTextMapHash": 3288260365,
+    "Progress": 1,
+    "CategoryId": 1
+  },
+  "80005": {
+    "TitleTextMapHash": 3905825756,
+    "DescTextMapHash": 94280997,
+    "Progress": 1,
+    "CategoryId": 1
+  },
+  "80006": {
+    "TitleTextMapHash": 2812611548,
+    "DescTextMapHash": 875999853,
+    "Progress": 1,
+    "CategoryId": 1
+  },
+  "80007": {
+    "TitleTextMapHash": 665393052,
+    "DescTextMapHash": 1328969213,
+    "Progress": 1,
+    "CategoryId": 2
+  },
+  "80008": {
+    "TitleTextMapHash": 2971692180,
+    "DescTextMapHash": 967498613,
+    "Progress": 10,
+    "CategoryId": 2
+  },
+  "80009": {
+    "PreStageAchievementId": 80008,
+    "TitleTextMapHash": 860950324,
+    "DescTextMapHash": 2968939013,
+    "Progress": 20,
+    "CategoryId": 2
+  },
+  "80010": {
+    "PreStageAchievementId": 80009,
+    "TitleTextMapHash": 707907940,
+    "DescTextMapHash": 3578460757,
+    "Progress": 40,
+    "CategoryId": 2
+  },
+  "80011": {
+    "TitleTextMapHash": 352090716,
+    "DescTextMapHash": 3337566365,
+    "Progress": 10,
+    "CategoryId": 2
+  },
+  "80012": {
+    "PreStageAchievementId": 80011,
+    "TitleTextMapHash": 2923791356,
+    "DescTextMapHash": 1552533613,
+    "Progress": 20,
+    "CategoryId": 2
+  },
+  "80013": {
+    "PreStageAchievementId": 80012,
+    "TitleTextMapHash": 2747916052,
+    "DescTextMapHash": 3033475645,
+    "Progress": 40,
+    "CategoryId": 2
+  },
+  "80014": {
+    "TitleTextMapHash": 4151556788,
+    "DescTextMapHash": 3099055181,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80015": {
+    "PreStageAchievementId": 80014,
+    "TitleTextMapHash": 3245980188,
+    "DescTextMapHash": 1578221533,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80016": {
+    "PreStageAchievementId": 80015,
+    "TitleTextMapHash": 2093115316,
+    "DescTextMapHash": 716373789,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80017": {
+    "TitleTextMapHash": 1368378292,
+    "DescTextMapHash": 1995322589,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80018": {
+    "PreStageAchievementId": 80017,
+    "TitleTextMapHash": 2644659076,
+    "DescTextMapHash": 743014325,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80019": {
+    "PreStageAchievementId": 80018,
+    "TitleTextMapHash": 2469785548,
+    "DescTextMapHash": 936349373,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80020": {
+    "TitleTextMapHash": 958528436,
+    "DescTextMapHash": 211503653,
+    "Progress": 4,
+    "CategoryId": 3
+  },
+  "80021": {
+    "PreStageAchievementId": 80020,
+    "TitleTextMapHash": 659610564,
+    "DescTextMapHash": 4072095277,
+    "Progress": 8,
+    "CategoryId": 3
+  },
+  "80022": {
+    "PreStageAchievementId": 80021,
+    "TitleTextMapHash": 2065059220,
+    "DescTextMapHash": 2462637325,
+    "Progress": 16,
+    "CategoryId": 3
+  },
+  "80023": {
+    "TitleTextMapHash": 911358220,
+    "DescTextMapHash": 35022253,
+    "Progress": 200,
+    "CategoryId": 3
+  },
+  "80024": {
+    "PreStageAchievementId": 80023,
+    "TitleTextMapHash": 190464060,
+    "DescTextMapHash": 1032819429,
+    "Progress": 400,
+    "CategoryId": 3
+  },
+  "80025": {
+    "PreStageAchievementId": 80024,
+    "TitleTextMapHash": 1854564012,
+    "DescTextMapHash": 1481421397,
+    "Progress": 800,
+    "CategoryId": 3
+  },
+  "80026": {
+    "TitleTextMapHash": 1799771684,
+    "DescTextMapHash": 1885395173,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80027": {
+    "TitleTextMapHash": 1754094044,
+    "DescTextMapHash": 599470277,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80028": {
+    "TitleTextMapHash": 3172635100,
+    "DescTextMapHash": 2335506741,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80029": {
+    "TitleTextMapHash": 3685638476,
+    "DescTextMapHash": 3112551317,
+    "Progress": 1,
+    "CategoryId": 3
+  },
+  "80030": {
+    "TitleTextMapHash": 1569519740,
+    "DescTextMapHash": 3654475021,
+    "Progress": 1,
+    "CategoryId": 4
+  },
+  "80031": {
+    "TitleTextMapHash": 360547444,
+    "DescTextMapHash": 562968333,
+    "Progress": 22,
+    "CategoryId": 4
+  },
+  "80032": {
+    "TitleTextMapHash": 2541833012,
+    "DescTextMapHash": 1906564885,
+    "Progress": 1,
+    "CategoryId": 4
+  },
+  "80033": {
+    "TitleTextMapHash": 3502402356,
+    "DescTextMapHash": 3407906333,
+    "Progress": 10,
+    "CategoryId": 4
+  },
+  "80034": {
+    "TitleTextMapHash": 2604260268,
+    "DescTextMapHash": 2078207917,
+    "Progress": 10,
+    "CategoryId": 4
+  },
+  "80035": {
+    "PreStageAchievementId": 80034,
+    "TitleTextMapHash": 2829929276,
+    "DescTextMapHash": 3179345125,
+    "Progress": 20,
+    "CategoryId": 4
+  },
+  "80036": {
+    "PreStageAchievementId": 80035,
+    "TitleTextMapHash": 1298517452,
+    "DescTextMapHash": 322205237,
+    "Progress": 40,
+    "CategoryId": 4
+  },
+  "80037": {
+    "TitleTextMapHash": 1237086348,
+    "DescTextMapHash": 933473061,
+    "Progress": 100,
+    "CategoryId": 4
+  },
+  "80038": {
+    "PreStageAchievementId": 80037,
+    "TitleTextMapHash": 1654396252,
+    "DescTextMapHash": 1371438669,
+    "Progress": 200,
+    "CategoryId": 4
+  },
+  "80039": {
+    "PreStageAchievementId": 80038,
+    "TitleTextMapHash": 3893463916,
+    "DescTextMapHash": 1839097565,
+    "Progress": 400,
+    "CategoryId": 4
+  },
+  "80040": {
+    "TitleTextMapHash": 1402685132,
+    "DescTextMapHash": 3583890925,
+    "Progress": 5,
+    "CategoryId": 4
+  },
+  "80041": {
+    "PreStageAchievementId": 80040,
+    "TitleTextMapHash": 1949939436,
+    "DescTextMapHash": 2861056709,
+    "Progress": 10,
+    "CategoryId": 4
+  },
+  "80042": {
+    "PreStageAchievementId": 80041,
+    "TitleTextMapHash": 3427762220,
+    "DescTextMapHash": 3568299797,
+    "Progress": 15,
+    "CategoryId": 4
+  },
+  "80043": {
+    "TitleTextMapHash": 4198189356,
+    "DescTextMapHash": 4223630341,
+    "Progress": 1,
+    "CategoryId": 5
+  },
+  "80044": {
+    "TitleTextMapHash": 384291476,
+    "DescTextMapHash": 3426292589,
+    "Progress": 40,
+    "CategoryId": 5
+  },
+  "80045": {
+    "TitleTextMapHash": 2920183508,
+    "DescTextMapHash": 255662725,
+    "Progress": 1,
+    "CategoryId": 5
+  },
+  "80046": {
+    "TitleTextMapHash": 2727412436,
+    "DescTextMapHash": 1529387165,
+    "Progress": 10,
+    "CategoryId": 5
+  },
+  "80047": {
+    "TitleTextMapHash": 139520284,
+    "DescTextMapHash": 2690069333,
+    "Progress": 20,
+    "CategoryId": 5
+  },
+  "80048": {
+    "PreStageAchievementId": 80047,
+    "TitleTextMapHash": 3947216412,
+    "DescTextMapHash": 2944582773,
+    "Progress": 40,
+    "CategoryId": 5
+  },
+  "80049": {
+    "PreStageAchievementId": 80048,
+    "TitleTextMapHash": 2653473684,
+    "DescTextMapHash": 2490815277,
+    "Progress": 60,
+    "CategoryId": 5
+  },
+  "80050": {
+    "TitleTextMapHash": 1257415940,
+    "DescTextMapHash": 4209052685,
+    "Progress": 200,
+    "CategoryId": 5
+  },
+  "80051": {
+    "PreStageAchievementId": 80050,
+    "TitleTextMapHash": 4179681020,
+    "DescTextMapHash": 2280953373,
+    "Progress": 400,
+    "CategoryId": 5
+  },
+  "80052": {
+    "PreStageAchievementId": 80051,
+    "TitleTextMapHash": 851377516,
+    "DescTextMapHash": 3807138829,
+    "Progress": 800,
+    "CategoryId": 5
+  },
+  "80053": {
+    "TitleTextMapHash": 4144175044,
+    "DescTextMapHash": 1850685293,
+    "Progress": 10,
+    "CategoryId": 5
+  },
+  "80054": {
+    "PreStageAchievementId": 80053,
+    "TitleTextMapHash": 11840092,
+    "DescTextMapHash": 3336351917,
+    "Progress": 20,
+    "CategoryId": 5
+  },
+  "80055": {
+    "PreStageAchievementId": 80054,
+    "TitleTextMapHash": 3415423228,
+    "DescTextMapHash": 2752209213,
+    "Progress": 40,
+    "CategoryId": 5
+  },
+  "80056": {
+    "TitleTextMapHash": 2211498308,
+    "DescTextMapHash": 949941501,
+    "Progress": 1,
+    "CategoryId": 16
+  },
+  "80057": {
+    "TitleTextMapHash": 931837980,
+    "DescTextMapHash": 3666835453,
+    "Progress": 11,
+    "CategoryId": 16
+  },
+  "80058": {
+    "TitleTextMapHash": 1088222556,
+    "DescTextMapHash": 1873076805,
+    "Progress": 5,
+    "CategoryId": 16
+  },
+  "80059": {
+    "PreStageAchievementId": 80058,
+    "TitleTextMapHash": 2541137324,
+    "DescTextMapHash": 1845949165,
+    "Progress": 10,
+    "CategoryId": 16
+  },
+  "80060": {
+    "PreStageAchievementId": 80059,
+    "TitleTextMapHash": 3107475212,
+    "DescTextMapHash": 745636477,
+    "Progress": 20,
+    "CategoryId": 16
+  },
+  "80061": {
+    "TitleTextMapHash": 2958864396,
+    "DescTextMapHash": 2140793669,
+    "Progress": 40,
+    "CategoryId": 16
+  },
+  "80062": {
+    "PreStageAchievementId": 80061,
+    "TitleTextMapHash": 424422124,
+    "DescTextMapHash": 228464213,
+    "Progress": 80,
+    "CategoryId": 16
+  },
+  "80063": {
+    "PreStageAchievementId": 80062,
+    "TitleTextMapHash": 2666090996,
+    "DescTextMapHash": 600076741,
+    "Progress": 160,
+    "CategoryId": 16
+  },
+  "80064": {
+    "TitleTextMapHash": 2473670636,
+    "DescTextMapHash": 3827779805,
+    "Progress": 1,
+    "CategoryId": 16
+  },
+  "80065": {
+    "PreStageAchievementId": 80064,
+    "TitleTextMapHash": 2107533020,
+    "DescTextMapHash": 1282861189,
+    "Progress": 1,
+    "CategoryId": 16
+  },
+  "80066": {
+    "PreStageAchievementId": 80065,
+    "TitleTextMapHash": 3885554452,
+    "DescTextMapHash": 1273148893,
+    "Progress": 1,
+    "CategoryId": 16
+  },
+  "80067": {
+    "TitleTextMapHash": 3703695908,
+    "DescTextMapHash": 2281097269,
+    "Progress": 1,
+    "CategoryId": 16
+  },
+  "80068": {
+    "TitleTextMapHash": 1657884484,
+    "DescTextMapHash": 2351033373,
+    "Progress": 1,
+    "CategoryId": 16
+  },
+  "81000": {
+    "TitleTextMapHash": 2647451916,
+    "DescTextMapHash": 2815553477,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81001": {
+    "TitleTextMapHash": 25269844,
+    "DescTextMapHash": 474647173,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81002": {
+    "TitleTextMapHash": 89116812,
+    "DescTextMapHash": 1101926013,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81003": {
+    "TitleTextMapHash": 2960640356,
+    "DescTextMapHash": 899835861,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81004": {
+    "TitleTextMapHash": 2470719852,
+    "DescTextMapHash": 3366787285,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81005": {
+    "TitleTextMapHash": 3794877756,
+    "DescTextMapHash": 748458029,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81006": {
+    "TitleTextMapHash": 2778320284,
+    "DescTextMapHash": 3730985517,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "81007": {
+    "TitleTextMapHash": 847315684,
+    "DescTextMapHash": 1859227613,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "81008": {
+    "TitleTextMapHash": 1067643012,
+    "DescTextMapHash": 3937251805,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "81009": {
+    "TitleTextMapHash": 2097835300,
+    "DescTextMapHash": 3296490485,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "81010": {
+    "TitleTextMapHash": 1659152388,
+    "DescTextMapHash": 302283309,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81011": {
+    "TitleTextMapHash": 1852163828,
+    "DescTextMapHash": 3060106613,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "81012": {
+    "TitleTextMapHash": 2512623860,
+    "DescTextMapHash": 1080497901,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "81013": {
+    "TitleTextMapHash": 453983356,
+    "DescTextMapHash": 1757579805,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "81014": {
+    "TitleTextMapHash": 2902088484,
+    "DescTextMapHash": 3345975029,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81015": {
+    "TitleTextMapHash": 500593220,
+    "DescTextMapHash": 854730853,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81016": {
+    "TitleTextMapHash": 1708075572,
+    "DescTextMapHash": 4234458637,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81017": {
+    "TitleTextMapHash": 192310612,
+    "DescTextMapHash": 1024006941,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81018": {
+    "TitleTextMapHash": 386939468,
+    "DescTextMapHash": 573251821,
+    "IsShow": "HIDE",
+    "Progress": 10
+  },
+  "81019": {
+    "TitleTextMapHash": 1038316212,
+    "DescTextMapHash": 3243061293,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81020": {
+    "TitleTextMapHash": 3241461092,
+    "DescTextMapHash": 1690061733,
+    "IsShow": "HIDE",
+    "ProgressShowType": "PROGRESSTYPE_FINISH",
+    "Progress": 500
+  },
+  "81021": {
+    "TitleTextMapHash": 323598732,
+    "DescTextMapHash": 3698198181,
+    "IsShow": "HIDE",
+    "ProgressShowType": "PROGRESSTYPE_THOUSAND_TO_ONE",
+    "Progress": 80000
+  },
+  "81022": {
+    "TitleTextMapHash": 3591840716,
+    "DescTextMapHash": 3328540069,
+    "IsShow": "HIDE",
+    "ProgressShowType": "PROGRESSTYPE_THOUSAND_TO_ONE",
+    "Progress": 15000
+  },
+  "81023": {
+    "TitleTextMapHash": 1637482540,
+    "DescTextMapHash": 3850399501,
+    "IsShow": "HIDE",
+    "ProgressShowType": "PROGRESSTYPE_FINISH",
+    "Progress": 10000
+  },
+  "81024": {
+    "TitleTextMapHash": 3844540420,
+    "DescTextMapHash": 1427574237,
+    "Progress": 1
+  },
+  "81025": {
+    "TitleTextMapHash": 2742396020,
+    "DescTextMapHash": 4142644461,
+    "Progress": 1
+  },
+  "81026": {
+    "TitleTextMapHash": 2274571828,
+    "DescTextMapHash": 4037405053,
+    "Progress": 10
+  },
+  "81027": {
+    "PreStageAchievementId": 81026,
+    "TitleTextMapHash": 428687636,
+    "DescTextMapHash": 46592405,
+    "Progress": 20
+  },
+  "81028": {
+    "PreStageAchievementId": 81027,
+    "TitleTextMapHash": 2126715500,
+    "DescTextMapHash": 857717221,
+    "Progress": 30
+  },
+  "81029": {
+    "TitleTextMapHash": 2619533444,
+    "DescTextMapHash": 3140671309,
+    "Progress": 10
+  },
+  "81030": {
+    "PreStageAchievementId": 81029,
+    "TitleTextMapHash": 3441855604,
+    "DescTextMapHash": 1750553045,
+    "Progress": 20
+  },
+  "81031": {
+    "PreStageAchievementId": 81030,
+    "TitleTextMapHash": 2278592604,
+    "DescTextMapHash": 1674896437,
+    "Progress": 30
+  },
+  "81032": {
+    "TitleTextMapHash": 4155057532,
+    "DescTextMapHash": 1174085221,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81033": {
+    "TitleTextMapHash": 499499668,
+    "DescTextMapHash": 1209146941,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81034": {
+    "TitleTextMapHash": 2763950196,
+    "DescTextMapHash": 2686729069,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81035": {
+    "TitleTextMapHash": 713896220,
+    "DescTextMapHash": 270443789,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81036": {
+    "TitleTextMapHash": 521254876,
+    "DescTextMapHash": 1995653853,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81037": {
+    "TitleTextMapHash": 3275047996,
+    "DescTextMapHash": 1291938045,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81038": {
+    "TitleTextMapHash": 3404047028,
+    "DescTextMapHash": 1412429205,
+    "IsShow": "HIDE",
+    "Progress": 9
+  },
+  "81039": {
+    "TitleTextMapHash": 4187342940,
+    "DescTextMapHash": 1098538885,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81040": {
+    "TitleTextMapHash": 4202907796,
+    "DescTextMapHash": 3386490949,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81041": {
+    "TitleTextMapHash": 1031752796,
+    "DescTextMapHash": 2025728749,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81042": {
+    "TitleTextMapHash": 2335733748,
+    "DescTextMapHash": 2601016317,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81043": {
+    "TitleTextMapHash": 1215440932,
+    "DescTextMapHash": 1629949677,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81044": {
+    "TitleTextMapHash": 3841527468,
+    "DescTextMapHash": 2194698173,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81045": {
+    "TitleTextMapHash": 3803622164,
+    "DescTextMapHash": 989312069,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81046": {
+    "TitleTextMapHash": 2576644796,
+    "DescTextMapHash": 4236793157,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "81047": {
+    "TitleTextMapHash": 1719335292,
+    "DescTextMapHash": 1745743197,
+    "Progress": 1
+  },
+  "81048": {
+    "TitleTextMapHash": 1605809932,
+    "DescTextMapHash": 4013211333,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82001": {
+    "TitleTextMapHash": 2573353356,
+    "DescTextMapHash": 1090320637,
+    "Progress": 1,
+    "CategoryId": 7
+  },
+  "82002": {
+    "TitleTextMapHash": 576654116,
+    "DescTextMapHash": 3664032533,
+    "Progress": 1,
+    "CategoryId": 7
+  },
+  "82003": {
+    "TitleTextMapHash": 2274746132,
+    "DescTextMapHash": 3028176141,
+    "Progress": 1,
+    "CategoryId": 7
+  },
+  "82004": {
+    "TitleTextMapHash": 3242512804,
+    "DescTextMapHash": 348215653,
+    "Progress": 1,
+    "CategoryId": 8
+  },
+  "82005": {
+    "TitleTextMapHash": 2988885740,
+    "DescTextMapHash": 1321764845,
+    "Progress": 1,
+    "CategoryId": 8
+  },
+  "82006": {
+    "TitleTextMapHash": 472115540,
+    "DescTextMapHash": 2353067605,
+    "Progress": 1,
+    "CategoryId": 8
+  },
+  "82007": {
+    "TitleTextMapHash": 510741284,
+    "DescTextMapHash": 2835557221,
+    "Progress": 1,
+    "CategoryId": 8
+  },
+  "82008": {
+    "TitleTextMapHash": 1274971428,
+    "DescTextMapHash": 3692585061,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82009": {
+    "TitleTextMapHash": 3382009748,
+    "DescTextMapHash": 2241802189,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82010": {
+    "TitleTextMapHash": 4134879460,
+    "DescTextMapHash": 1793427949,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82011": {
+    "TitleTextMapHash": 2746711540,
+    "DescTextMapHash": 1798063557,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "82012": {
+    "TitleTextMapHash": 3521757268,
+    "DescTextMapHash": 898683253,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82013": {
+    "TitleTextMapHash": 882537796,
+    "DescTextMapHash": 4274192597,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82014": {
+    "TitleTextMapHash": 595562532,
+    "DescTextMapHash": 2122367189,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82015": {
+    "TitleTextMapHash": 621221308,
+    "DescTextMapHash": 1341598733,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82016": {
+    "TitleTextMapHash": 2939542412,
+    "DescTextMapHash": 1144727941,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "82017": {
+    "TitleTextMapHash": 2338346228,
+    "DescTextMapHash": 484813733,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82018": {
+    "TitleTextMapHash": 2535934748,
+    "DescTextMapHash": 150276709,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "82019": {
+    "TitleTextMapHash": 2827822132,
+    "DescTextMapHash": 1702510093,
+    "Progress": 1,
+    "CategoryId": 6
+  },
+  "82020": {
+    "PreStageAchievementId": 82019,
+    "TitleTextMapHash": 4184857748,
+    "DescTextMapHash": 2607421445,
+    "Progress": 5,
+    "CategoryId": 6
+  },
+  "82021": {
+    "PreStageAchievementId": 82020,
+    "TitleTextMapHash": 1953080660,
+    "DescTextMapHash": 3751300453,
+    "Progress": 10,
+    "CategoryId": 6
+  },
+  "82022": {
+    "TitleTextMapHash": 4038863740,
+    "DescTextMapHash": 2497711557,
+    "Progress": 1,
+    "CategoryId": 6
+  },
+  "82023": {
+    "PreStageAchievementId": 82022,
+    "TitleTextMapHash": 1369097700,
+    "DescTextMapHash": 2518971933,
+    "Progress": 5,
+    "CategoryId": 6
+  },
+  "82024": {
+    "PreStageAchievementId": 82023,
+    "TitleTextMapHash": 1471902396,
+    "DescTextMapHash": 1237706613,
+    "Progress": 10,
+    "CategoryId": 6
+  },
+  "82025": {
+    "TitleTextMapHash": 134489828,
+    "DescTextMapHash": 4188620789,
+    "Progress": 1,
+    "CategoryId": 6
+  },
+  "82026": {
+    "PreStageAchievementId": 82025,
+    "TitleTextMapHash": 1074277788,
+    "DescTextMapHash": 3605731181,
+    "Progress": 5,
+    "CategoryId": 6
+  },
+  "82027": {
+    "PreStageAchievementId": 82026,
+    "TitleTextMapHash": 863668156,
+    "DescTextMapHash": 3779936869,
+    "Progress": 10,
+    "CategoryId": 6
+  },
+  "82028": {
+    "TitleTextMapHash": 1281069436,
+    "DescTextMapHash": 1045145957,
+    "Progress": 1,
+    "CategoryId": 6
+  },
+  "82029": {
+    "PreStageAchievementId": 82028,
+    "TitleTextMapHash": 2474901380,
+    "DescTextMapHash": 3609588157,
+    "Progress": 5,
+    "CategoryId": 6
+  },
+  "82030": {
+    "PreStageAchievementId": 82029,
+    "TitleTextMapHash": 2769491540,
+    "DescTextMapHash": 4198145245,
+    "Progress": 10,
+    "CategoryId": 6
+  },
+  "82031": {
+    "TitleTextMapHash": 4241081860,
+    "DescTextMapHash": 1010990029,
+    "Progress": 1,
+    "CategoryId": 6
+  },
+  "82032": {
+    "PreStageAchievementId": 82031,
+    "TitleTextMapHash": 2111216140,
+    "DescTextMapHash": 3136599325,
+    "Progress": 5,
+    "CategoryId": 6
+  },
+  "82033": {
+    "PreStageAchievementId": 82032,
+    "TitleTextMapHash": 2632220308,
+    "DescTextMapHash": 513570381,
+    "Progress": 10,
+    "CategoryId": 6
+  },
+  "82034": {
+    "TitleTextMapHash": 1348638068,
+    "DescTextMapHash": 2084958717,
+    "Progress": 1,
+    "CategoryId": 6
+  },
+  "82035": {
+    "PreStageAchievementId": 82034,
+    "TitleTextMapHash": 1999317100,
+    "DescTextMapHash": 2533518997,
+    "Progress": 5,
+    "CategoryId": 6
+  },
+  "82036": {
+    "PreStageAchievementId": 82035,
+    "TitleTextMapHash": 1320800268,
+    "DescTextMapHash": 1781636645,
+    "Progress": 10,
+    "CategoryId": 6
+  },
+  "82037": {
+    "TitleTextMapHash": 2273914484,
+    "DescTextMapHash": 4006987189,
+    "Progress": 1,
+    "CategoryId": 6
+  },
+  "82038": {
+    "PreStageAchievementId": 82037,
+    "TitleTextMapHash": 629920916,
+    "DescTextMapHash": 2414216445,
+    "Progress": 5,
+    "CategoryId": 6
+  },
+  "82039": {
+    "PreStageAchievementId": 82038,
+    "TitleTextMapHash": 4017916764,
+    "DescTextMapHash": 2238045,
+    "Progress": 10,
+    "CategoryId": 6
+  },
+  "82040": {
+    "TitleTextMapHash": 1134739220,
+    "DescTextMapHash": 1935708589,
+    "IsShow": "HIDE",
+    "ProgressShowType": "PROGRESSTYPE_FINISH",
+    "Progress": 4
+  },
+  "82041": {
+    "TitleTextMapHash": 1660897604,
+    "DescTextMapHash": 4092400245,
+    "IsShow": "HIDE",
+    "Progress": 5000
+  },
+  "82042": {
+    "PreStageAchievementId": 82041,
+    "TitleTextMapHash": 1167149668,
+    "DescTextMapHash": 3494878037,
+    "IsShow": "HIDE",
+    "Progress": 20000
+  },
+  "82043": {
+    "PreStageAchievementId": 82042,
+    "TitleTextMapHash": 723420764,
+    "DescTextMapHash": 1531132869,
+    "IsShow": "HIDE",
+    "Progress": 50000
+  },
+  "82044": {
+    "TitleTextMapHash": 3670517876,
+    "DescTextMapHash": 25425973,
+    "Progress": 1,
+    "CategoryId": 9
+  },
+  "82045": {
+    "PreStageAchievementId": 82044,
+    "TitleTextMapHash": 1704363060,
+    "DescTextMapHash": 2772041085,
+    "Progress": 1,
+    "CategoryId": 9
+  },
+  "82046": {
+    "PreStageAchievementId": 82045,
+    "TitleTextMapHash": 1604342916,
+    "DescTextMapHash": 2472292213,
+    "Progress": 1,
+    "CategoryId": 9
+  },
+  "82047": {
+    "TitleTextMapHash": 156944212,
+    "DescTextMapHash": 1752841173,
+    "Progress": 1,
+    "CategoryId": 9
+  },
+  "82048": {
+    "PreStageAchievementId": 82047,
+    "TitleTextMapHash": 4154776220,
+    "DescTextMapHash": 2331883213,
+    "Progress": 1,
+    "CategoryId": 9
+  },
+  "82049": {
+    "PreStageAchievementId": 82048,
+    "TitleTextMapHash": 2691974228,
+    "DescTextMapHash": 2820689805,
+    "Progress": 1,
+    "CategoryId": 9
+  },
+  "82050": {
+    "TitleTextMapHash": 630016764,
+    "DescTextMapHash": 2656674149,
+    "Progress": 1,
+    "CategoryId": 9
+  },
+  "82051": {
+    "TitleTextMapHash": 3995994148,
+    "DescTextMapHash": 306648477,
+    "Progress": 72,
+    "CategoryId": 9
+  },
+  "82052": {
+    "TitleTextMapHash": 2405277044,
+    "DescTextMapHash": 1925474669,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82053": {
+    "TitleTextMapHash": 995938052,
+    "DescTextMapHash": 805943413,
+    "Progress": 1,
+    "CategoryId": 14
+  },
+  "82054": {
+    "TitleTextMapHash": 3422894564,
+    "DescTextMapHash": 2233559597,
+    "Progress": 1,
+    "CategoryId": 14
+  },
+  "82055": {
+    "TitleTextMapHash": 3155228324,
+    "DescTextMapHash": 311193685,
+    "Progress": 1,
+    "CategoryId": 14
+  },
+  "82056": {
+    "PreStageAchievementId": 82055,
+    "TitleTextMapHash": 54756348,
+    "DescTextMapHash": 1061062845,
+    "Progress": 20,
+    "CategoryId": 14
+  },
+  "82057": {
+    "PreStageAchievementId": 82056,
+    "TitleTextMapHash": 707181276,
+    "DescTextMapHash": 334888365,
+    "Progress": 50,
+    "CategoryId": 14
+  },
+  "82058": {
+    "TitleTextMapHash": 3204734660,
+    "DescTextMapHash": 1852609533,
+    "Progress": 1,
+    "CategoryId": 14
+  },
+  "82059": {
+    "TitleTextMapHash": 3251422156,
+    "DescTextMapHash": 352640869,
+    "Progress": 1,
+    "CategoryId": 14
+  },
+  "82060": {
+    "TitleTextMapHash": 3788638948,
+    "DescTextMapHash": 3381412333,
+    "Progress": 1,
+    "CategoryId": 14
+  },
+  "82061": {
+    "TitleTextMapHash": 1761712316,
+    "DescTextMapHash": 3570140789,
+    "Progress": 1,
+    "CategoryId": 14
+  },
+  "82062": {
+    "TitleTextMapHash": 1676073956,
+    "DescTextMapHash": 1647369917,
+    "Progress": 1,
+    "CategoryId": 14
+  },
+  "82063": {
+    "TitleTextMapHash": 3155331436,
+    "DescTextMapHash": 4176403605,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82064": {
+    "TitleTextMapHash": 1083488204,
+    "DescTextMapHash": 1970286765,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82065": {
+    "TitleTextMapHash": 3362552052,
+    "DescTextMapHash": 2906384653,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82066": {
+    "TitleTextMapHash": 4048898460,
+    "DescTextMapHash": 3432315821,
+    "Progress": 1,
+    "CategoryId": 15
+  },
+  "82067": {
+    "TitleTextMapHash": 244547692,
+    "DescTextMapHash": 634673541,
+    "Progress": 1,
+    "CategoryId": 15
+  },
+  "82068": {
+    "TitleTextMapHash": 3942329212,
+    "DescTextMapHash": 2871610245,
+    "Progress": 1,
+    "CategoryId": 15
+  },
+  "82069": {
+    "TitleTextMapHash": 409289820,
+    "DescTextMapHash": 3141606261,
+    "Progress": 1,
+    "CategoryId": 15
+  },
+  "82070": {
+    "TitleTextMapHash": 3389806332,
+    "DescTextMapHash": 2786864885,
+    "Progress": 1,
+    "CategoryId": 15
+  },
+  "82071": {
+    "TitleTextMapHash": 763748596,
+    "DescTextMapHash": 1846969797,
+    "Progress": 1,
+    "CategoryId": 15
+  },
+  "82072": {
+    "TitleTextMapHash": 1557305612,
+    "DescTextMapHash": 4106283533,
+    "Progress": 1,
+    "CategoryId": 15
+  },
+  "82073": {
+    "TitleTextMapHash": 1206581908,
+    "DescTextMapHash": 1309532613,
+    "Progress": 1,
+    "CategoryId": 15
+  },
+  "82074": {
+    "TitleTextMapHash": 4152286668,
+    "DescTextMapHash": 4102956893,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82075": {
+    "TitleTextMapHash": 873919780,
+    "DescTextMapHash": 1143994197,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82076": {
+    "TitleTextMapHash": 3090225684,
+    "DescTextMapHash": 3691189277,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82077": {
+    "TitleTextMapHash": 4294184636,
+    "DescTextMapHash": 1375835061,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82078": {
+    "TitleTextMapHash": 1849966660,
+    "DescTextMapHash": 2467603157,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82079": {
+    "TitleTextMapHash": 3993541556,
+    "DescTextMapHash": 1917642157,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82080": {
+    "TitleTextMapHash": 3632714556,
+    "DescTextMapHash": 963975293,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82081": {
+    "TitleTextMapHash": 88921716,
+    "DescTextMapHash": 3521305253,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82082": {
+    "TitleTextMapHash": 1430119196,
+    "DescTextMapHash": 2329878165,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82083": {
+    "TitleTextMapHash": 1585309532,
+    "DescTextMapHash": 1278881989,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82084": {
+    "TitleTextMapHash": 1830848588,
+    "DescTextMapHash": 1657797109,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82085": {
+    "TitleTextMapHash": 881288700,
+    "DescTextMapHash": 1969261661,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82086": {
+    "TitleTextMapHash": 1278981364,
+    "DescTextMapHash": 3006263349,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "82087": {
+    "TitleTextMapHash": 1864667084,
+    "DescTextMapHash": 1954445541,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84000": {
+    "TitleTextMapHash": 3552480844,
+    "DescTextMapHash": 3065216325,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84001": {
+    "TitleTextMapHash": 3590550460,
+    "DescTextMapHash": 3334935981,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84002": {
+    "TitleTextMapHash": 4140738436,
+    "DescTextMapHash": 2488340901,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84003": {
+    "TitleTextMapHash": 963955764,
+    "DescTextMapHash": 1981855621,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84004": {
+    "TitleTextMapHash": 2344996148,
+    "DescTextMapHash": 3114468093,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84005": {
+    "TitleTextMapHash": 394144012,
+    "DescTextMapHash": 2857171421,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84006": {
+    "TitleTextMapHash": 1438338612,
+    "DescTextMapHash": 2201748957,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84007": {
+    "TitleTextMapHash": 1751183356,
+    "DescTextMapHash": 67344749,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84008": {
+    "TitleTextMapHash": 274471500,
+    "DescTextMapHash": 3092930885,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84009": {
+    "TitleTextMapHash": 2020322772,
+    "DescTextMapHash": 1724949637,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84010": {
+    "TitleTextMapHash": 3154925444,
+    "DescTextMapHash": 74024885,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84011": {
+    "TitleTextMapHash": 1407298716,
+    "DescTextMapHash": 1938856797,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84012": {
+    "TitleTextMapHash": 2445236564,
+    "DescTextMapHash": 2548310765,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84013": {
+    "TitleTextMapHash": 138736732,
+    "DescTextMapHash": 402429221,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84014": {
+    "TitleTextMapHash": 1878290580,
+    "DescTextMapHash": 949349957,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84015": {
+    "TitleTextMapHash": 3661190300,
+    "DescTextMapHash": 2896633925,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84016": {
+    "TitleTextMapHash": 3411447500,
+    "DescTextMapHash": 3344556981,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84017": {
+    "TitleTextMapHash": 393043844,
+    "DescTextMapHash": 3612395709,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84018": {
+    "TitleTextMapHash": 2113935852,
+    "DescTextMapHash": 879678709,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84019": {
+    "TitleTextMapHash": 3490814836,
+    "DescTextMapHash": 1439406053,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84020": {
+    "TitleTextMapHash": 2413729716,
+    "DescTextMapHash": 2457740797,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84021": {
+    "TitleTextMapHash": 383112796,
+    "DescTextMapHash": 2155401285,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84022": {
+    "TitleTextMapHash": 2481743556,
+    "DescTextMapHash": 313029485,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84023": {
+    "TitleTextMapHash": 137602676,
+    "DescTextMapHash": 3917727941,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84024": {
+    "TitleTextMapHash": 3775721068,
+    "DescTextMapHash": 1902589821,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84025": {
+    "TitleTextMapHash": 4008598052,
+    "DescTextMapHash": 2145898669,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84026": {
+    "TitleTextMapHash": 3581365316,
+    "DescTextMapHash": 118328549,
+    "Progress": 1
+  },
+  "84027": {
+    "TitleTextMapHash": 946067892,
+    "DescTextMapHash": 592084981,
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "84028": {
+    "TitleTextMapHash": 3488312996,
+    "DescTextMapHash": 1286174517,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84029": {
+    "TitleTextMapHash": 50922004,
+    "DescTextMapHash": 3654074853,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84030": {
+    "TitleTextMapHash": 514482052,
+    "DescTextMapHash": 2192721021,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84031": {
+    "TitleTextMapHash": 269255372,
+    "DescTextMapHash": 4048632541,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84032": {
+    "TitleTextMapHash": 846611868,
+    "DescTextMapHash": 3518128469,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84033": {
+    "TitleTextMapHash": 2073652084,
+    "DescTextMapHash": 3184188661,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84100": {
+    "TitleTextMapHash": 620492212,
+    "DescTextMapHash": 718294045,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84101": {
+    "TitleTextMapHash": 2574479300,
+    "DescTextMapHash": 4084809325,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84102": {
+    "TitleTextMapHash": 3878953540,
+    "DescTextMapHash": 805459381,
+    "Progress": 1
+  },
+  "84103": {
+    "TitleTextMapHash": 2670138900,
+    "DescTextMapHash": 1300459685,
+    "Progress": 1
+  },
+  "84104": {
+    "TitleTextMapHash": 3825566668,
+    "DescTextMapHash": 1266712341,
+    "Progress": 1
+  },
+  "84105": {
+    "TitleTextMapHash": 4024021980,
+    "DescTextMapHash": 2017478853,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84106": {
+    "TitleTextMapHash": 1716387836,
+    "DescTextMapHash": 2297716781,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84107": {
+    "TitleTextMapHash": 1462054188,
+    "DescTextMapHash": 2887831533,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84108": {
+    "TitleTextMapHash": 1147342772,
+    "DescTextMapHash": 1226586469,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84109": {
+    "TitleTextMapHash": 1590794932,
+    "DescTextMapHash": 4178831693,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84501": {
+    "TitleTextMapHash": 1121354708,
+    "DescTextMapHash": 3248889837,
+    "Progress": 1,
+    "CategoryId": 10
+  },
+  "84502": {
+    "TitleTextMapHash": 1614534868,
+    "DescTextMapHash": 717089037,
+    "Progress": 1,
+    "CategoryId": 10
+  },
+  "84503": {
+    "TitleTextMapHash": 2747325300,
+    "DescTextMapHash": 2366952037,
+    "Progress": 1,
+    "CategoryId": 11
+  },
+  "84504": {
+    "TitleTextMapHash": 106874788,
+    "DescTextMapHash": 2564065997,
+    "Progress": 1,
+    "CategoryId": 11
+  },
+  "84505": {
+    "TitleTextMapHash": 1643299292,
+    "DescTextMapHash": 1854241453,
+    "Progress": 1,
+    "CategoryId": 12
+  },
+  "84506": {
+    "TitleTextMapHash": 820544380,
+    "DescTextMapHash": 4129022117,
+    "Progress": 1,
+    "CategoryId": 12
+  },
+  "84507": {
+    "TitleTextMapHash": 4058207908,
+    "DescTextMapHash": 1759563061,
+    "Progress": 1,
+    "CategoryId": 12
+  },
+  "84508": {
+    "TitleTextMapHash": 3864365996,
+    "DescTextMapHash": 3339182573,
+    "Progress": 1
+  },
+  "84509": {
+    "TitleTextMapHash": 3712765428,
+    "DescTextMapHash": 3267825941,
+    "Progress": 1
+  },
+  "84510": {
+    "TitleTextMapHash": 2123075228,
+    "DescTextMapHash": 1731023949,
+    "Progress": 1
+  },
+  "84512": {
+    "TitleTextMapHash": 1705820,
+    "DescTextMapHash": 2772017725,
+    "Progress": 5
+  },
+  "84513": {
+    "TitleTextMapHash": 367156900,
+    "DescTextMapHash": 4274468821,
+    "Progress": 1
+  },
+  "84514": {
+    "TitleTextMapHash": 2132495052,
+    "DescTextMapHash": 696025957,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84515": {
+    "TitleTextMapHash": 1500822476,
+    "DescTextMapHash": 4246702389,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84516": {
+    "TitleTextMapHash": 881310820,
+    "DescTextMapHash": 1893109165,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84517": {
+    "TitleTextMapHash": 2149765316,
+    "DescTextMapHash": 1026570861,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84518": {
+    "TitleTextMapHash": 3208767444,
+    "DescTextMapHash": 2619781325,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84519": {
+    "TitleTextMapHash": 3000798484,
+    "DescTextMapHash": 3752371893,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84520": {
+    "TitleTextMapHash": 1650484508,
+    "DescTextMapHash": 3425442165,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84521": {
+    "TitleTextMapHash": 163821724,
+    "DescTextMapHash": 1718739349,
+    "IsShow": "HIDE",
+    "Progress": 1,
+    "IsDisuse": true
+  },
+  "84522": {
+    "TitleTextMapHash": 1958636308,
+    "DescTextMapHash": 2282981181,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84523": {
+    "TitleTextMapHash": 3942032004,
+    "DescTextMapHash": 1667851149,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84524": {
+    "TitleTextMapHash": 3959328364,
+    "DescTextMapHash": 2563341621,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84525": {
+    "TitleTextMapHash": 993231812,
+    "DescTextMapHash": 2082965325,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84526": {
+    "TitleTextMapHash": 895536604,
+    "DescTextMapHash": 3695008989,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "84527": {
+    "TitleTextMapHash": 2442652996,
+    "DescTextMapHash": 3357469901,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "85000": {
+    "TitleTextMapHash": 453295668,
+    "DescTextMapHash": 3263447285,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "85001": {
+    "TitleTextMapHash": 4021179076,
+    "DescTextMapHash": 1337865381,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "85002": {
+    "TitleTextMapHash": 2853389636,
+    "DescTextMapHash": 3899077461,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "85003": {
+    "TitleTextMapHash": 2118985108,
+    "DescTextMapHash": 2816791725,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "85004": {
+    "TitleTextMapHash": 2833915764,
+    "DescTextMapHash": 3523985685,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "85005": {
+    "TitleTextMapHash": 595273444,
+    "DescTextMapHash": 2595199781,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "85006": {
+    "TitleTextMapHash": 954568884,
+    "DescTextMapHash": 3485199605,
+    "IsShow": "HIDE",
+    "Progress": 1
+  },
+  "86001": {
+    "TitleTextMapHash": 3202871364,
+    "DescTextMapHash": 1613578453,
+    "Progress": 5,
+    "CategoryId": 13
+  },
+  "86002": {
+    "PreStageAchievementId": 86001,
+    "TitleTextMapHash": 3584088396,
+    "DescTextMapHash": 3009445965,
+    "Progress": 20,
+    "CategoryId": 13
+  },
+  "86003": {
+    "PreStageAchievementId": 86002,
+    "TitleTextMapHash": 610414644,
+    "DescTextMapHash": 2470518317,
+    "Progress": 100,
+    "CategoryId": 13
+  },
+  "86004": {
+    "TitleTextMapHash": 1896568516,
+    "DescTextMapHash": 2421469741,
+    "Progress": 5,
+    "CategoryId": 13
+  },
+  "86005": {
+    "PreStageAchievementId": 86004,
+    "TitleTextMapHash": 3761644724,
+    "DescTextMapHash": 1812257957,
+    "Progress": 20,
+    "CategoryId": 13
+  },
+  "86006": {
+    "PreStageAchievementId": 86005,
+    "TitleTextMapHash": 839096468,
+    "DescTextMapHash": 676668213,
+    "Progress": 50,
+    "CategoryId": 13
+  },
+  "86007": {
+    "TitleTextMapHash": 3264393588,
+    "DescTextMapHash": 2973765525,
+    "Progress": 1,
+    "CategoryId": 13
+  },
+  "86008": {
+    "TitleTextMapHash": 3369224292,
+    "DescTextMapHash": 2392527669,
+    "Progress": 1,
+    "CategoryId": 13
+  },
+  "86009": {
+    "TitleTextMapHash": 2472657740,
+    "DescTextMapHash": 1019376917,
+    "Progress": 1,
+    "CategoryId": 13
+  },
+  "86010": {
+    "TitleTextMapHash": 3173094820,
+    "DescTextMapHash": 431312413,
+    "Progress": 1,
+    "CategoryId": 13
+  },
+  "86011": {
+    "TitleTextMapHash": 3810405300,
+    "DescTextMapHash": 1372315141,
+    "Progress": 1,
+    "CategoryId": 13
+  },
+  "86012": {
+    "TitleTextMapHash": 1267354892,
+    "DescTextMapHash": 3403372797,
+    "Progress": 1,
+    "CategoryId": 13
+  },
+  "86013": {
+    "TitleTextMapHash": 1655126284,
+    "DescTextMapHash": 394113125,
+    "Progress": 1,
+    "CategoryId": 13
+  }
+}

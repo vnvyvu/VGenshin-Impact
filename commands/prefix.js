@@ -1,6 +1,6 @@
 module.exports={
     description: "Change bot's prefix",
-    usage: "prefix [newPrefix]",
+    usage: "prefix {new prefix}",
     delay: 10000,
     op: true,
     alias: [],

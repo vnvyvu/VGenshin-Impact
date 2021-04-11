@@ -1,0 +1,4879 @@
+{
+  "11101": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 1,
+    "WeaponBaseExp": 600,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 23.2450008392334,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 2410593283,
+    "DescTextMapHash": 3807468957,
+    "Icon": "UI_EquipIcon_Sword_Blunt",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 11101,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11101.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11101.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11101_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11101_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11101_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11101_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11101_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11101_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11101_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11101_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11101_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11101_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11101_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11101_DE.txt"
+    }
+  },
+  "11201": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 2,
+    "WeaponBaseExp": 1200,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 32.93000030517578,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11201,
+    "NameTextMapHash": 2125206395,
+    "DescTextMapHash": 2342805333,
+    "Icon": "UI_EquipIcon_Sword_Silver",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 11201,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11201.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11201.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11201_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11201_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11201_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11201_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11201_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11201_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11201_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11201_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11201_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11201_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11201_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11201_DE.txt"
+    }
+  },
+  "11301": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.07660000026226044,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11301,
+    "NameTextMapHash": 479076483,
+    "DescTextMapHash": 1214777829,
+    "Icon": "UI_EquipIcon_Sword_Steel",
+    "Affix": [
+      111301,
+      0
+    ],
+    "PromoteId": 11301,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11301.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11301.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11301_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11301_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11301_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11301_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11301_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11301_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11301_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11301_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11301_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11301_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11301_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11301_DE.txt"
+    }
+  },
+  "11302": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.10199999809265137,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11302,
+    "NameTextMapHash": 1608953539,
+    "DescTextMapHash": 1716657229,
+    "Icon": "UI_EquipIcon_Sword_Dawn",
+    "Affix": [
+      111302,
+      0
+    ],
+    "PromoteId": 11302,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11302.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11302.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11302_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11302_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11302_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11302_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11302_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11302_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11302_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11302_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11302_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11302_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11302_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11302_DE.txt"
+    }
+  },
+  "11303": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 39.875099182128906,
+        "Type": "GROW_CURVE_ATTACK_102"
+      },
+      {
+        "PropType": 527947494,
+        "InitValue": 0.06373299658298492,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11303,
+    "NameTextMapHash": 3673792067,
+    "DescTextMapHash": 2969158189,
+    "Icon": "UI_EquipIcon_Sword_Traveler",
+    "Affix": [
+      111303,
+      0
+    ],
+    "PromoteId": 11303,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11303.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11303.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11303_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11303_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11303_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11303_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11303_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11303_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11303_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11303_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11303_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11303_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11303_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11303_DE.txt"
+    }
+  },
+  "11304": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 30.600000381469727,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11304,
+    "NameTextMapHash": 160493219,
+    "DescTextMapHash": 4211009349,
+    "Icon": "UI_EquipIcon_Sword_Darker",
+    "Affix": [
+      111304,
+      0
+    ],
+    "PromoteId": 11304,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11304.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11304.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11304_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11304_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11304_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11304_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11304_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11304_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11304_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11304_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11304_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11304_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11304_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11304_DE.txt"
+    }
+  },
+  "11305": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.07660000026226044,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11305,
+    "NameTextMapHash": 3421967235,
+    "DescTextMapHash": 2798582285,
+    "Icon": "UI_EquipIcon_Sword_Sashimi",
+    "Affix": [
+      111305,
+      0
+    ],
+    "PromoteId": 11305,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11305.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11305.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11305_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11305_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11305_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11305_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11305_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11305_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11305_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11305_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11305_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11305_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11305_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11305_DE.txt"
+    }
+  },
+  "11306": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 37.60749816894531,
+        "Type": "GROW_CURVE_ATTACK_104"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.11333300173282623,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11306,
+    "NameTextMapHash": 1388004931,
+    "DescTextMapHash": 3086923557,
+    "Icon": "UI_EquipIcon_Sword_Mitsurugi",
+    "Affix": [
+      111306,
+      0
+    ],
+    "PromoteId": 11306,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11306.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11306.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11306_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11306_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11306_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11306_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11306_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11306_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11306_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11306_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11306_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11306_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11306_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11306_DE.txt"
+    }
+  },
+  "11401": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.1333329975605011,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11401,
+    "NameTextMapHash": 2474354867,
+    "DescTextMapHash": 1169620325,
+    "Icon": "UI_EquipIcon_Sword_Zephyrus",
+    "Affix": [
+      111401,
+      0
+    ],
+    "PromoteId": 11401,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11401.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11401.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11401_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11401_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11401_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11401_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11401_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11401_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11401_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11401_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11401_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11401_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11401_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11401_DE.txt"
+    }
+  },
+  "11402": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11402,
+    "NameTextMapHash": 3587621259,
+    "DescTextMapHash": 2174961477,
+    "Icon": "UI_EquipIcon_Sword_Troupe",
+    "Affix": [
+      111402,
+      0
+    ],
+    "PromoteId": 11402,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11402.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11402.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11402_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11402_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11402_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11402_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11402_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11402_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11402_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11402_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11402_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11402_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11402_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11402_DE.txt"
+    }
+  },
+  "11403": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.1333329975605011,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11403,
+    "NameTextMapHash": 1990641987,
+    "DescTextMapHash": 4131542477,
+    "Icon": "UI_EquipIcon_Sword_Fossil",
+    "Affix": [
+      111403,
+      0
+    ],
+    "PromoteId": 11403,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11403.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11403.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11403_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11403_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11403_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11403_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11403_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11403_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11403_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11403_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11403_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11403_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11403_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11403_DE.txt"
+    }
+  },
+  "11404": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11404,
+    "NameTextMapHash": 2375993851,
+    "DescTextMapHash": 1115870133,
+    "Icon": "UI_EquipIcon_Sword_Theocrat",
+    "Affix": [
+      111404,
+      0
+    ],
+    "PromoteId": 11404,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11404.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11404.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11404_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11404_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11404_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11404_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11404_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11404_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11404_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11404_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11404_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11404_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11404_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11404_DE.txt"
+    }
+  },
+  "11405": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11405,
+    "NameTextMapHash": 1321135667,
+    "DescTextMapHash": 750378765,
+    "Icon": "UI_EquipIcon_Sword_Rockkiller",
+    "Affix": [
+      111405,
+      0
+    ],
+    "PromoteId": 11405,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11405.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11405.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11405_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11405_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11405_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11405_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11405_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11405_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11405_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11405_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11405_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11405_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11405_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11405_DE.txt"
+    }
+  },
+  "11406": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 3763864883,
+        "InitValue": 0.07506699860095978,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11406,
+    "NameTextMapHash": 1991707099,
+    "DescTextMapHash": 626666981,
+    "Icon": "UI_EquipIcon_Sword_Proto",
+    "Affix": [
+      111406,
+      0
+    ],
+    "PromoteId": 11406,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11406.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11406.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11406_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11406_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11406_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11406_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11406_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11406_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11406_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11406_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11406_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11406_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11406_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11406_DE.txt"
+    }
+  },
+  "11407": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 36,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11407,
+    "NameTextMapHash": 4103022435,
+    "DescTextMapHash": 904885541,
+    "Icon": "UI_EquipIcon_Sword_Exotic",
+    "Affix": [
+      111407,
+      0
+    ],
+    "PromoteId": 11407,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11407.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11407.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11407_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11407_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11407_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11407_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11407_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11407_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11407_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11407_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11407_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11407_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11407_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11407_DE.txt"
+    }
+  },
+  "11408": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.07999999821186066,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11408,
+    "NameTextMapHash": 3378007475,
+    "DescTextMapHash": 2690715037,
+    "Icon": "UI_EquipIcon_Sword_Blackrock",
+    "Affix": [
+      111408,
+      0
+    ],
+    "PromoteId": 11408,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11408.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11408.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11408_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11408_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11408_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11408_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11408_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11408_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11408_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11408_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11408_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11408_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11408_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11408_DE.txt"
+    }
+  },
+  "11409": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11409,
+    "NameTextMapHash": 3796905611,
+    "DescTextMapHash": 1253880813,
+    "Icon": "UI_EquipIcon_Sword_Bloodstained",
+    "Affix": [
+      111409,
+      0
+    ],
+    "PromoteId": 11409,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11409.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11409.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11409_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11409_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11409_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11409_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11409_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11409_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11409_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11409_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11409_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11409_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11409_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11409_DE.txt"
+    }
+  },
+  "11410": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.06869888305664,
+        "Type": "GROW_CURVE_ATTACK_203"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 11.999987602233887,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11410,
+    "NameTextMapHash": 2947140987,
+    "DescTextMapHash": 3674581941,
+    "Icon": "UI_EquipIcon_Sword_Outlaw",
+    "Affix": [
+      111410,
+      0
+    ],
+    "PromoteId": 11410,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11410.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11410.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11410_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11410_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11410_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11410_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11410_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11410_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11410_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11410_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11410_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11410_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11410_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11410_DE.txt"
+    }
+  },
+  "11412": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.07660000026226044,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11412,
+    "NameTextMapHash": 1773425155,
+    "DescTextMapHash": 3798627613,
+    "Icon": "UI_EquipIcon_Sword_Psalmus",
+    "Affix": [
+      111412,
+      0
+    ],
+    "PromoteId": 11412,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11412.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11412.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11412_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11412_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11412_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11412_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11412_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11412_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11412_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11412_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11412_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11412_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11412_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11412_DE.txt"
+    }
+  },
+  "11413": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "AwakenMaterial": 200103,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.10000000149011612,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 11413,
+    "EnhanceRule": 1,
+    "NameTextMapHash": 2749853923,
+    "DescTextMapHash": 279012485,
+    "Icon": "UI_EquipIcon_Sword_Magnum",
+    "Affix": [
+      111413,
+      0
+    ],
+    "PromoteId": 11413,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11413.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11413.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11413_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11413_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11413_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11413_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11413_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11413_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11413_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11413_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11413_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11413_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11413_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11413_DE.txt"
+    }
+  },
+  "11501": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 47.5369987487793,
+        "Type": "GROW_CURVE_ATTACK_302"
+      },
+      {
+        "PropType": 3763864883,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 11501,
+    "NameTextMapHash": 902264035,
+    "DescTextMapHash": 291327109,
+    "Icon": "UI_EquipIcon_Sword_Falcon",
+    "Affix": [
+      111501,
+      0
+    ],
+    "PromoteId": 11501,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11501.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11501.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11501_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11501_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11501_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11501_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11501_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11501_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11501_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11501_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11501_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11501_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11501_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11501_DE.txt"
+    }
+  },
+  "11502": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.11999999731779099,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 11502,
+    "NameTextMapHash": 4055003299,
+    "DescTextMapHash": 3627658141,
+    "Icon": "UI_EquipIcon_Sword_Dvalin",
+    "Affix": [
+      111502,
+      0
+    ],
+    "PromoteId": 11502,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11502.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11502.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11502_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11502_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11502_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11502_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11502_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11502_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11502_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11502_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11502_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11502_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11502_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11502_DE.txt"
+    }
+  },
+  "11503": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 23.2450008392334,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 2949448555,
+    "DescTextMapHash": 1179976749,
+    "Icon": "UI_EquipIcon_Sword_Blunt",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 11503
+  },
+  "11504": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.1080000028014183,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 11504,
+    "NameTextMapHash": 944332883,
+    "DescTextMapHash": 1389297045,
+    "Icon": "UI_EquipIcon_Sword_Kunwu",
+    "Affix": [
+      111504,
+      0
+    ],
+    "PromoteId": 11504,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11504.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11504.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11504_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11504_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11504_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11504_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11504_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11504_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11504_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11504_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11504_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11504_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11504_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11504_DE.txt"
+    }
+  },
+  "11505": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 44.33580017089844,
+        "Type": "GROW_CURVE_ATTACK_304"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.09600000083446503,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 11505,
+    "NameTextMapHash": 1345343763,
+    "DescTextMapHash": 1273837837,
+    "Icon": "UI_EquipIcon_Sword_Morax",
+    "Affix": [
+      111505,
+      0
+    ],
+    "PromoteId": 11505,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon11505.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon11505.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon11505_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon11505_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon11505_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon11505_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon11505_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon11505_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon11505_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon11505_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon11505_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon11505_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon11505_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon11505_DE.txt"
+    }
+  },
+  "11506": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 23.2450008392334,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 231836963,
+    "DescTextMapHash": 224422549,
+    "Icon": "UI_EquipIcon_Sword_Blunt",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 11506
+  },
+  "11507": {
+    "WeaponType": "WEAPON_SWORD_ONE_HAND",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 23.2450008392334,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 3780343147,
+    "DescTextMapHash": 1210667381,
+    "Icon": "UI_EquipIcon_Sword_Blunt",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 11507
+  },
+  "12101": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 1,
+    "WeaponBaseExp": 600,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 23.2450008392334,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 12101,
+    "NameTextMapHash": 2666951267,
+    "DescTextMapHash": 2490958125,
+    "Icon": "UI_EquipIcon_Claymore_Aniki",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 12101,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12101.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12101.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12101_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12101_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12101_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12101_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12101_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12101_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12101_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12101_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12101_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12101_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12101_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12101_DE.txt"
+    }
+  },
+  "12201": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 2,
+    "WeaponBaseExp": 1200,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 32.93000030517578,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 12201,
+    "NameTextMapHash": 1182966603,
+    "DescTextMapHash": 169605981,
+    "Icon": "UI_EquipIcon_Claymore_Oyaji",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 12201,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12201.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12201.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12201_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12201_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12201_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12201_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12201_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12201_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12201_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12201_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12201_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12201_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12201_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12201_DE.txt"
+    }
+  },
+  "12301": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 2404061249,
+        "InitValue": 0.07660000026226044,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 12301,
+    "NameTextMapHash": 1479961579,
+    "DescTextMapHash": 1887050717,
+    "Icon": "UI_EquipIcon_Claymore_Glaive",
+    "Affix": [
+      112301,
+      0
+    ],
+    "PromoteId": 12301,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12301.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12301.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12301_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12301_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12301_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12301_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12301_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12301_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12301_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12301_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12301_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12301_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12301_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12301_DE.txt"
+    }
+  },
+  "12302": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 37.60749816894531,
+        "Type": "GROW_CURVE_ATTACK_104"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 40.79999923706055,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 12302,
+    "NameTextMapHash": 4090429643,
+    "DescTextMapHash": 3230364157,
+    "Icon": "UI_EquipIcon_Claymore_Siegfry",
+    "Affix": [
+      112302,
+      0
+    ],
+    "PromoteId": 12302,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12302.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12302.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12302_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12302_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12302_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12302_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12302_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12302_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12302_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12302_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12302_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12302_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12302_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12302_DE.txt"
+    }
+  },
+  "12303": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 527947494,
+        "InitValue": 0.09560000151395798,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 12303,
+    "NameTextMapHash": 850802171,
+    "DescTextMapHash": 2243594437,
+    "Icon": "UI_EquipIcon_Claymore_Tin",
+    "Affix": [
+      112303,
+      0
+    ],
+    "PromoteId": 12303,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12303.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12303.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12303_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12303_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12303_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12303_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12303_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12303_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12303_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12303_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12303_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12303_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12303_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12303_DE.txt"
+    }
+  },
+  "12304": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 30.600000381469727,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 12304,
+    "NameTextMapHash": 1516554699,
+    "DescTextMapHash": 3918253109,
+    "Icon": "UI_EquipIcon_Claymore_Quartz",
+    "Affix": [
+      112304,
+      0
+    ],
+    "PromoteId": 12304,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12304.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12304.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12304_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12304_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12304_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12304_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12304_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12304_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12304_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12304_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12304_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12304_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12304_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12304_DE.txt"
+    }
+  },
+  "12305": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.07660000026226044,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 12305,
+    "NameTextMapHash": 3097441915,
+    "DescTextMapHash": 2797040229,
+    "Icon": "UI_EquipIcon_Claymore_Reasoning",
+    "Affix": [
+      112305,
+      0
+    ],
+    "PromoteId": 12305,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12305.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12305.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12305_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12305_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12305_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12305_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12305_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12305_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12305_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12305_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12305_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12305_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12305_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12305_DE.txt"
+    }
+  },
+  "12306": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 3763864883,
+        "InitValue": 0.09560000151395798,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 12306,
+    "NameTextMapHash": 2614170427,
+    "DescTextMapHash": 599093453,
+    "Icon": "UI_EquipIcon_Claymore_Mitsurugi",
+    "Affix": [
+      112306,
+      0
+    ],
+    "PromoteId": 12306,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12306.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12306.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12306_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12306_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12306_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12306_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12306_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12306_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12306_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12306_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12306_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12306_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12306_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12306_DE.txt"
+    }
+  },
+  "12401": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.1333329975605011,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12401,
+    "NameTextMapHash": 735056795,
+    "DescTextMapHash": 4068970301,
+    "Icon": "UI_EquipIcon_Claymore_Zephyrus",
+    "Affix": [
+      112401,
+      0
+    ],
+    "PromoteId": 12401,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12401.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12401.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12401_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12401_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12401_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12401_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12401_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12401_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12401_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12401_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12401_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12401_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12401_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12401_DE.txt"
+    }
+  },
+  "12402": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 2404061249,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12402,
+    "NameTextMapHash": 930640955,
+    "DescTextMapHash": 2055764669,
+    "Icon": "UI_EquipIcon_Claymore_Troupe",
+    "Affix": [
+      112402,
+      0
+    ],
+    "PromoteId": 12402,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12402.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12402.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12402_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12402_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12402_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12402_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12402_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12402_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12402_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12402_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12402_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12402_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12402_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12402_DE.txt"
+    }
+  },
+  "12403": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.06666699796915054,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12403,
+    "NameTextMapHash": 1675686363,
+    "DescTextMapHash": 3985911901,
+    "Icon": "UI_EquipIcon_Claymore_Fossil",
+    "Affix": [
+      112403,
+      0
+    ],
+    "PromoteId": 12403,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12403.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12403.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12403_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12403_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12403_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12403_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12403_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12403_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12403_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12403_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12403_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12403_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12403_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12403_DE.txt"
+    }
+  },
+  "12404": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12404,
+    "NameTextMapHash": 877751435,
+    "DescTextMapHash": 205162989,
+    "Icon": "UI_EquipIcon_Claymore_Theocrat",
+    "Affix": [
+      112404,
+      0
+    ],
+    "PromoteId": 12404,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12404.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12404.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12404_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12404_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12404_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12404_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12404_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12404_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12404_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12404_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12404_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12404_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12404_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12404_DE.txt"
+    }
+  },
+  "12405": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 36,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12405,
+    "NameTextMapHash": 3684723963,
+    "DescTextMapHash": 2688397213,
+    "Icon": "UI_EquipIcon_Claymore_Perdue",
+    "Affix": [
+      112405,
+      0
+    ],
+    "PromoteId": 12405,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12405.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12405.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12405_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12405_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12405_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12405_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12405_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12405_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12405_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12405_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12405_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12405_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12405_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12405_DE.txt"
+    }
+  },
+  "12406": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12406,
+    "NameTextMapHash": 3722933411,
+    "DescTextMapHash": 356356197,
+    "Icon": "UI_EquipIcon_Claymore_Proto",
+    "Affix": [
+      112406,
+      0
+    ],
+    "PromoteId": 12406,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12406.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12406.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12406_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12406_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12406_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12406_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12406_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12406_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12406_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12406_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12406_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12406_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12406_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12406_DE.txt"
+    }
+  },
+  "12407": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 527947494,
+        "InitValue": 0.11259999871253967,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12407,
+    "NameTextMapHash": 680510411,
+    "DescTextMapHash": 1683286045,
+    "Icon": "UI_EquipIcon_Claymore_Exotic",
+    "Affix": [
+      112407,
+      0
+    ],
+    "PromoteId": 12407,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12407.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12407.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12407_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12407_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12407_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12407_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12407_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12407_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12407_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12407_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12407_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12407_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12407_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12407_DE.txt"
+    }
+  },
+  "12408": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.11999999731779099,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12408,
+    "NameTextMapHash": 20848859,
+    "DescTextMapHash": 4287559013,
+    "Icon": "UI_EquipIcon_Claymore_Blackrock",
+    "Affix": [
+      112408,
+      0
+    ],
+    "PromoteId": 12408,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12408.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12408.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12408_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12408_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12408_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12408_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12408_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12408_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12408_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12408_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12408_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12408_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12408_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12408_DE.txt"
+    }
+  },
+  "12409": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12409,
+    "NameTextMapHash": 1437658243,
+    "DescTextMapHash": 4199357237,
+    "Icon": "UI_EquipIcon_Claymore_Kione",
+    "Affix": [
+      112409,
+      0
+    ],
+    "PromoteId": 12409,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12409.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12409.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12409_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12409_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12409_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12409_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12409_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12409_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12409_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12409_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12409_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12409_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12409_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12409_DE.txt"
+    }
+  },
+  "12410": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12410,
+    "NameTextMapHash": 2006422931,
+    "DescTextMapHash": 3110406349,
+    "Icon": "UI_EquipIcon_Claymore_Lapis",
+    "Affix": [
+      112410,
+      0
+    ],
+    "PromoteId": 12410,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12410.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12410.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12410_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12410_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12410_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12410_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12410_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12410_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12410_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12410_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12410_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12410_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12410_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12410_DE.txt"
+    }
+  },
+  "12411": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 3763864883,
+        "InitValue": 0.07506699860095978,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 12411,
+    "NameTextMapHash": 2753539619,
+    "DescTextMapHash": 2688837757,
+    "Icon": "UI_EquipIcon_Claymore_Dragonfell",
+    "Affix": [
+      112411,
+      0
+    ],
+    "PromoteId": 12411,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12411.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12411.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12411_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12411_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12411_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12411_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12411_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12411_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12411_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12411_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12411_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12411_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12411_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12411_DE.txt"
+    }
+  },
+  "12501": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 47.5369987487793,
+        "Type": "GROW_CURVE_ATTACK_302"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.07999999821186066,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 12501,
+    "NameTextMapHash": 1089950259,
+    "DescTextMapHash": 2724154045,
+    "Icon": "UI_EquipIcon_Claymore_Dvalin",
+    "Affix": [
+      112501,
+      0
+    ],
+    "PromoteId": 12501,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12501.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12501.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12501_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12501_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12501_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12501_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12501_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12501_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12501_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12501_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12501_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12501_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12501_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12501_DE.txt"
+    }
+  },
+  "12502": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.1080000028014183,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 12502,
+    "NameTextMapHash": 3995710363,
+    "DescTextMapHash": 401408237,
+    "Icon": "UI_EquipIcon_Claymore_Wolfmound",
+    "Affix": [
+      112502,
+      0
+    ],
+    "PromoteId": 12502,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12502.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12502.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12502_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12502_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12502_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12502_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12502_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12502_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12502_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12502_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12502_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12502_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12502_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12502_DE.txt"
+    }
+  },
+  "12503": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 47.5369987487793,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 1075647299,
+    "DescTextMapHash": 3478455989,
+    "Icon": "UI_EquipIcon_Claymore_Aniki",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 12503
+  },
+  "12504": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.1080000028014183,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 12504,
+    "NameTextMapHash": 2792766467,
+    "DescTextMapHash": 3341255373,
+    "Icon": "UI_EquipIcon_Claymore_Kunwu",
+    "Affix": [
+      112504,
+      0
+    ],
+    "PromoteId": 12504,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon12504.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon12504.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon12504_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon12504_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon12504_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon12504_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon12504_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon12504_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon12504_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon12504_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon12504_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon12504_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon12504_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon12504_DE.txt"
+    }
+  },
+  "12506": {
+    "WeaponType": "WEAPON_CLAYMORE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 47.5369987487793,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 2597527627,
+    "DescTextMapHash": 1872955621,
+    "Icon": "UI_EquipIcon_Claymore_Aniki",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 12506
+  },
+  "13101": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 1,
+    "WeaponBaseExp": 600,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 23.2450008392334,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 13101,
+    "NameTextMapHash": 2796697027,
+    "DescTextMapHash": 1707406541,
+    "Icon": "UI_EquipIcon_Pole_Gewalt",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 13101,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13101.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13101.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13101_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13101_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13101_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13101_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13101_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13101_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13101_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13101_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13101_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13101_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13101_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13101_DE.txt"
+    }
+  },
+  "13201": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 2,
+    "WeaponBaseExp": 1200,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 32.93000030517578,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 13201,
+    "NameTextMapHash": 3070169307,
+    "DescTextMapHash": 1460440477,
+    "Icon": "UI_EquipIcon_Pole_Rod",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 13201,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13201.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13201.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13201_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13201_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13201_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13201_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13201_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13201_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13201_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13201_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13201_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13201_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13201_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13201_DE.txt"
+    }
+  },
+  "13301": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.050999999046325684,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 13301,
+    "NameTextMapHash": 1390797107,
+    "DescTextMapHash": 3496480741,
+    "Icon": "UI_EquipIcon_Pole_Ruby",
+    "Affix": [
+      113301,
+      0
+    ],
+    "PromoteId": 13301,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13301.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13301.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13301_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13301_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13301_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13301_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13301_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13301_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13301_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13301_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13301_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13301_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13301_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13301_DE.txt"
+    }
+  },
+  "13302": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 39.875099182128906,
+        "Type": "GROW_CURVE_ATTACK_102"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.05106699839234352,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 13302,
+    "NameTextMapHash": 618786571,
+    "DescTextMapHash": 4218316925,
+    "Icon": "UI_EquipIcon_Pole_Halberd",
+    "Affix": [
+      113302,
+      0
+    ],
+    "PromoteId": 13302,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13302.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13302.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13302_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13302_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13302_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13302_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13302_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13302_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13302_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13302_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13302_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13302_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13302_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13302_DE.txt"
+    }
+  },
+  "13303": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 37.60749816894531,
+        "Type": "GROW_CURVE_ATTACK_104"
+      },
+      {
+        "PropType": 2404061249,
+        "InitValue": 0.10213299840688705,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 13303,
+    "NameTextMapHash": 4103766499,
+    "DescTextMapHash": 2692633181,
+    "Icon": "UI_EquipIcon_Pole_Noire",
+    "Affix": [
+      113303,
+      0
+    ],
+    "PromoteId": 13303,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13303.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13303.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13303_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13303_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13303_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13303_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13303_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13303_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13303_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13303_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13303_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13303_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13303_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13303_DE.txt"
+    }
+  },
+  "13304": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 9.899999618530273,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 13304,
+    "NameTextMapHash": 500612819,
+    "DescTextMapHash": 3767447885,
+    "Icon": "UI_EquipIcon_Pole_Flagpole",
+    "Affix": [
+      113304,
+      0
+    ],
+    "PromoteId": 13304
+  },
+  "13401": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 48,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 13401,
+    "NameTextMapHash": 2664629131,
+    "DescTextMapHash": 1575094381,
+    "Icon": "UI_EquipIcon_Pole_Stardust",
+    "Affix": [
+      113401,
+      0
+    ],
+    "PromoteId": 13401,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13401.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13401.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13401_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13401_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13401_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13401_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13401_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13401_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13401_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13401_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13401_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13401_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13401_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13401_DE.txt"
+    }
+  },
+  "13402": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.10000000149011612,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 13402,
+    "NameTextMapHash": 1154009435,
+    "DescTextMapHash": 2616355533,
+    "Icon": "UI_EquipIcon_Pole_Proto",
+    "Affix": [
+      113402,
+      0
+    ],
+    "PromoteId": 13402,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13402.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13402.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13402_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13402_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13402_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13402_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13402_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13402_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13402_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13402_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13402_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13402_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13402_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13402_DE.txt"
+    }
+  },
+  "13403": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 3763864883,
+        "InitValue": 0.07506699860095978,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 13403,
+    "NameTextMapHash": 578575283,
+    "DescTextMapHash": 4181232573,
+    "Icon": "UI_EquipIcon_Pole_Exotic",
+    "Affix": [
+      113403,
+      0
+    ],
+    "PromoteId": 13403,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13403.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13403.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13403_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13403_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13403_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13403_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13403_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13403_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13403_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13403_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13403_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13403_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13403_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13403_DE.txt"
+    }
+  },
+  "13404": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.11999999731779099,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 13404,
+    "NameTextMapHash": 481755219,
+    "DescTextMapHash": 2074162709,
+    "Icon": "UI_EquipIcon_Pole_Blackrock",
+    "Affix": [
+      113404,
+      0
+    ],
+    "PromoteId": 13404,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13404.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13404.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13404_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13404_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13404_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13404_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13404_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13404_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13404_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13404_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13404_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13404_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13404_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13404_DE.txt"
+    }
+  },
+  "13405": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.07999999821186066,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 13405,
+    "NameTextMapHash": 4049410651,
+    "DescTextMapHash": 885061045,
+    "Icon": "UI_EquipIcon_Pole_Gladiator",
+    "Affix": [
+      113405,
+      0
+    ],
+    "PromoteId": 13405,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13405.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13405.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13405_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13405_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13405_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13405_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13405_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13405_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13405_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13405_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13405_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13405_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13405_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13405_DE.txt"
+    }
+  },
+  "13406": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 13406,
+    "NameTextMapHash": 716252627,
+    "DescTextMapHash": 366604621,
+    "Icon": "UI_EquipIcon_Pole_Lapis",
+    "Affix": [
+      113406,
+      0
+    ],
+    "PromoteId": 13406,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13406.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13406.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13406_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13406_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13406_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13406_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13406_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13406_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13406_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13406_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13406_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13406_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13406_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13406_DE.txt"
+    }
+  },
+  "13407": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.06666699796915054,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 13407,
+    "NameTextMapHash": 3755004051,
+    "DescTextMapHash": 2331820333,
+    "Icon": "UI_EquipIcon_Pole_Zephyrus",
+    "Affix": [
+      113407,
+      0
+    ],
+    "PromoteId": 13407,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13407.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13407.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13407_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13407_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13407_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13407_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13407_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13407_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13407_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13407_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13407_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13407_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13407_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13407_DE.txt"
+    }
+  },
+  "13408": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 13408,
+    "NameTextMapHash": 2935286715,
+    "DescTextMapHash": 219606109,
+    "Icon": "UI_EquipIcon_Pole_Theocrat",
+    "Affix": [
+      113408,
+      0
+    ],
+    "PromoteId": 13408,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13408.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13408.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13408_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13408_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13408_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13408_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13408_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13408_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13408_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13408_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13408_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13408_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13408_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13408_DE.txt"
+    }
+  },
+  "13409": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 3763864883,
+        "InitValue": 0.15013299882411957,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 13409,
+    "NameTextMapHash": 3443142923,
+    "DescTextMapHash": 3283185533,
+    "Icon": "UI_EquipIcon_Pole_Everfrost",
+    "Affix": [
+      113409,
+      0
+    ],
+    "PromoteId": 13409,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13409.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13409.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13409_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13409_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13409_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13409_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13409_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13409_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13409_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13409_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13409_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13409_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13409_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13409_DE.txt"
+    }
+  },
+  "13501": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.14399999380111694,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 13501,
+    "NameTextMapHash": 3235324891,
+    "DescTextMapHash": 3487544829,
+    "Icon": "UI_EquipIcon_Pole_Homa",
+    "Affix": [
+      113501,
+      0
+    ],
+    "PromoteId": 13501,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13501.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13501.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13501_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13501_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13501_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13501_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13501_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13501_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13501_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13501_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13501_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13501_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13501_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13501_DE.txt"
+    }
+  },
+  "13502": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 47.5369987487793,
+        "Type": "GROW_CURVE_ATTACK_302"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.07999999821186066,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 13502,
+    "NameTextMapHash": 4158505619,
+    "DescTextMapHash": 2400004301,
+    "Icon": "UI_EquipIcon_Pole_Dvalin",
+    "Affix": [
+      113502,
+      0
+    ],
+    "PromoteId": 13502,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13502.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13502.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13502_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13502_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13502_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13502_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13502_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13502_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13502_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13502_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13502_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13502_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13502_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13502_DE.txt"
+    }
+  },
+  "13504": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.1080000028014183,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 13504,
+    "NameTextMapHash": 197755235,
+    "DescTextMapHash": 786121517,
+    "Icon": "UI_EquipIcon_Pole_Kunwu",
+    "Affix": [
+      113504,
+      0
+    ],
+    "PromoteId": 13504,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13504.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13504.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13504_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13504_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13504_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13504_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13504_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13504_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13504_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13504_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13504_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13504_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13504_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13504_DE.txt"
+    }
+  },
+  "13505": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 47.5369987487793,
+        "Type": "GROW_CURVE_ATTACK_302"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.04800000041723251,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 13505,
+    "NameTextMapHash": 1997709467,
+    "DescTextMapHash": 1074834109,
+    "Icon": "UI_EquipIcon_Pole_Morax",
+    "Affix": [
+      113505,
+      0
+    ],
+    "PromoteId": 13505,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon13505.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon13505.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon13505_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon13505_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon13505_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon13505_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon13505_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon13505_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon13505_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon13505_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon13505_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon13505_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon13505_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon13505_DE.txt"
+    }
+  },
+  "13506": {
+    "WeaponType": "WEAPON_POLE",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 3532343811,
+    "DescTextMapHash": 1699329373,
+    "Icon": "UI_EquipIcon_Pole_Gewalt",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 13506
+  },
+  "14101": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 1,
+    "WeaponBaseExp": 600,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 23.2450008392334,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 14101,
+    "NameTextMapHash": 3584825427,
+    "DescTextMapHash": 62211301,
+    "Icon": "UI_EquipIcon_Catalyst_Apprentice",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 14101,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14101.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14101.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14101_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14101_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14101_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14101_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14101_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14101_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14101_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14101_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14101_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14101_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14101_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14101_DE.txt"
+    }
+  },
+  "14201": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 2,
+    "WeaponBaseExp": 1200,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 32.93000030517578,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 14201,
+    "NameTextMapHash": 2705029563,
+    "DescTextMapHash": 728247149,
+    "Icon": "UI_EquipIcon_Catalyst_Pocket",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 14201,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14201.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14201.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14201_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14201_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14201_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14201_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14201_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14201_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14201_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14201_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14201_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14201_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14201_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14201_DE.txt"
+    }
+  },
+  "14301": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 37.60749816894531,
+        "Type": "GROW_CURVE_ATTACK_104"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 40.79999923706055,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 14301,
+    "NameTextMapHash": 2279290283,
+    "DescTextMapHash": 1128957,
+    "Icon": "UI_EquipIcon_Catalyst_Intro",
+    "Affix": [
+      114301,
+      0
+    ],
+    "PromoteId": 14301,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14301.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14301.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14301_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14301_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14301_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14301_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14301_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14301_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14301_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14301_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14301_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14301_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14301_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14301_DE.txt"
+    }
+  },
+  "14302": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 2404061249,
+        "InitValue": 0.07660000026226044,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 14302,
+    "NameTextMapHash": 3500935003,
+    "DescTextMapHash": 4081562589,
+    "Icon": "UI_EquipIcon_Catalyst_Pulpfic",
+    "Affix": [
+      114302,
+      0
+    ],
+    "PromoteId": 14302,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14302.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14302.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14302_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14302_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14302_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14302_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14302_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14302_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14302_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14302_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14302_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14302_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14302_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14302_DE.txt"
+    }
+  },
+  "14303": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.08500000089406967,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 14303,
+    "NameTextMapHash": 1406746947,
+    "DescTextMapHash": 201204037,
+    "Icon": "UI_EquipIcon_Catalyst_Lightnov",
+    "Affix": [
+      114303,
+      0
+    ],
+    "PromoteId": 14303,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14303.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14303.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14303_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14303_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14303_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14303_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14303_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14303_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14303_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14303_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14303_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14303_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14303_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14303_DE.txt"
+    }
+  },
+  "14304": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 39.875099182128906,
+        "Type": "GROW_CURVE_ATTACK_102"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 20.399999618530273,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "UnRotate": true,
+    "WeaponPromoteId": 14304,
+    "NameTextMapHash": 2963220587,
+    "DescTextMapHash": 4004013141,
+    "Icon": "UI_EquipIcon_Catalyst_Jade",
+    "Affix": [
+      114304,
+      0
+    ],
+    "PromoteId": 14304,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14304.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14304.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14304_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14304_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14304_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14304_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14304_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14304_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14304_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14304_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14304_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14304_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14304_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14304_DE.txt"
+    }
+  },
+  "14305": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 39.875099182128906,
+        "Type": "GROW_CURVE_ATTACK_102"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.03400000184774399,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "UnRotate": true,
+    "WeaponPromoteId": 14305,
+    "NameTextMapHash": 3719372715,
+    "DescTextMapHash": 2737744437,
+    "Icon": "UI_EquipIcon_Catalyst_Phoney",
+    "Affix": [
+      114305,
+      0
+    ],
+    "PromoteId": 14305,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14305.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14305.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14305_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14305_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14305_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14305_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14305_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14305_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14305_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14305_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14305_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14305_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14305_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14305_DE.txt"
+    }
+  },
+  "14306": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 30.600000381469727,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "UnRotate": true,
+    "WeaponPromoteId": 14306,
+    "NameTextMapHash": 302691299,
+    "DescTextMapHash": 3867432845,
+    "Icon": "UI_EquipIcon_Catalyst_Amber",
+    "Affix": [
+      114306,
+      0
+    ],
+    "PromoteId": 14306,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14306.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14306.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14306_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14306_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14306_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14306_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14306_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14306_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14306_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14306_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14306_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14306_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14306_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14306_DE.txt"
+    }
+  },
+  "14401": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.10000000149011612,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 14401,
+    "NameTextMapHash": 623534363,
+    "DescTextMapHash": 311411373,
+    "Icon": "UI_EquipIcon_Catalyst_Zephyrus",
+    "Affix": [
+      114401,
+      0
+    ],
+    "PromoteId": 14401,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14401.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14401.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14401_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14401_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14401_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14401_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14401_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14401_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14401_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14401_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14401_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14401_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14401_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14401_DE.txt"
+    }
+  },
+  "14402": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.11999999731779099,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 14402,
+    "NameTextMapHash": 1163263227,
+    "DescTextMapHash": 3079323733,
+    "Icon": "UI_EquipIcon_Catalyst_Troupe",
+    "Affix": [
+      114402,
+      0
+    ],
+    "PromoteId": 14402,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14402.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14402.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14402_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14402_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14402_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14402_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14402_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14402_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14402_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14402_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14402_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14402_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14402_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14402_DE.txt"
+    }
+  },
+  "14403": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 48,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 14403,
+    "NameTextMapHash": 2195665683,
+    "DescTextMapHash": 789905885,
+    "Icon": "UI_EquipIcon_Catalyst_Fossil",
+    "Affix": [
+      114403,
+      0
+    ],
+    "PromoteId": 14403,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14403.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14403.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14403_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14403_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14403_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14403_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14403_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14403_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14403_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14403_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14403_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14403_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14403_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14403_DE.txt"
+    }
+  },
+  "14404": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 14404,
+    "NameTextMapHash": 3827789435,
+    "DescTextMapHash": 2717009405,
+    "Icon": "UI_EquipIcon_Catalyst_Theocrat",
+    "Affix": [
+      114404,
+      0
+    ],
+    "PromoteId": 14404,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14404.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14404.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14404_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14404_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14404_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14404_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14404_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14404_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14404_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14404_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14404_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14404_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14404_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14404_DE.txt"
+    }
+  },
+  "14405": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "UnRotate": true,
+    "WeaponPromoteId": 14405,
+    "NameTextMapHash": 37147251,
+    "DescTextMapHash": 3980674549,
+    "Icon": "UI_EquipIcon_Catalyst_Resurrection",
+    "Affix": [
+      114405,
+      0
+    ],
+    "PromoteId": 14405,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14405.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14405.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14405_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14405_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14405_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14405_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14405_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14405_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14405_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14405_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14405_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14405_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14405_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14405_DE.txt"
+    }
+  },
+  "14406": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 2404061249,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "UnRotate": true,
+    "WeaponPromoteId": 14406,
+    "NameTextMapHash": 2521338131,
+    "DescTextMapHash": 1207804933,
+    "Icon": "UI_EquipIcon_Catalyst_Proto",
+    "Affix": [
+      114406,
+      0
+    ],
+    "PromoteId": 14406,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14406.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14406.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14406_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14406_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14406_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14406_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14406_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14406_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14406_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14406_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14406_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14406_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14406_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14406_DE.txt"
+    }
+  },
+  "14407": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 24,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 14407,
+    "NameTextMapHash": 1072884907,
+    "DescTextMapHash": 727794477,
+    "Icon": "UI_EquipIcon_Catalyst_Exotic",
+    "Affix": [
+      114407,
+      0
+    ],
+    "PromoteId": 14407,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14407.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14407.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14407_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14407_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14407_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14407_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14407_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14407_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14407_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14407_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14407_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14407_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14407_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14407_DE.txt"
+    }
+  },
+  "14408": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.11999999731779099,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "UnRotate": true,
+    "WeaponPromoteId": 14408,
+    "NameTextMapHash": 3273999011,
+    "DescTextMapHash": 3555971517,
+    "Icon": "UI_EquipIcon_Catalyst_Blackrock",
+    "Affix": [
+      114408,
+      0
+    ],
+    "PromoteId": 14408,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14408.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14408.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14408_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14408_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14408_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14408_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14408_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14408_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14408_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14408_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14408_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14408_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14408_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14408_DE.txt"
+    }
+  },
+  "14409": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.11999999731779099,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "UnRotate": true,
+    "WeaponPromoteId": 14409,
+    "NameTextMapHash": 3156385731,
+    "DescTextMapHash": 2055966237,
+    "Icon": "UI_EquipIcon_Catalyst_Truelens",
+    "Affix": [
+      114409,
+      0
+    ],
+    "PromoteId": 14409,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14409.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14409.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14409_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14409_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14409_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14409_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14409_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14409_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14409_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14409_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14409_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14409_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14409_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14409_DE.txt"
+    }
+  },
+  "14410": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.06666699796915054,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 14410,
+    "NameTextMapHash": 3090373787,
+    "DescTextMapHash": 2844428397,
+    "Icon": "UI_EquipIcon_Catalyst_Outlaw",
+    "Affix": [
+      114410,
+      0
+    ],
+    "PromoteId": 14410,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14410.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14410.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14410_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14410_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14410_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14410_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14410_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14410_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14410_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14410_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14410_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14410_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14410_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14410_DE.txt"
+    }
+  },
+  "14412": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "UnRotate": true,
+    "WeaponPromoteId": 14412,
+    "NameTextMapHash": 2587614459,
+    "DescTextMapHash": 234405637,
+    "Icon": "UI_EquipIcon_Catalyst_Everfrost",
+    "Affix": [
+      114412,
+      0
+    ],
+    "PromoteId": 14412,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14412.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14412.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14412_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14412_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14412_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14412_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14412_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14412_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14412_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14412_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14412_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14412_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14412_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14412_DE.txt"
+    }
+  },
+  "14501": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 47.5369987487793,
+        "Type": "GROW_CURVE_ATTACK_302"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.07199999690055847,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 14501,
+    "NameTextMapHash": 807607555,
+    "DescTextMapHash": 929689749,
+    "Icon": "UI_EquipIcon_Catalyst_Dvalin",
+    "Affix": [
+      114501,
+      0
+    ],
+    "PromoteId": 14501,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14501.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14501.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14501_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14501_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14501_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14501_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14501_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14501_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14501_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14501_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14501_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14501_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14501_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14501_DE.txt"
+    }
+  },
+  "14502": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.07199999690055847,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 14502,
+    "NameTextMapHash": 1455107995,
+    "DescTextMapHash": 2188385645,
+    "Icon": "UI_EquipIcon_Catalyst_Fourwinds",
+    "Affix": [
+      114502,
+      0
+    ],
+    "PromoteId": 14502,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14502.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14502.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14502_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14502_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14502_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14502_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14502_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14502_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14502_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14502_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14502_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14502_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14502_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14502_DE.txt"
+    }
+  },
+  "14503": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 452043283,
+    "DescTextMapHash": 3761771325,
+    "Icon": "UI_EquipIcon_Catalyst_Apprentice",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 14503
+  },
+  "14504": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.1080000028014183,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "UnRotate": true,
+    "WeaponPromoteId": 14504,
+    "NameTextMapHash": 693354267,
+    "DescTextMapHash": 1610195525,
+    "Icon": "UI_EquipIcon_Catalyst_Kunwu",
+    "Affix": [
+      114504,
+      0
+    ],
+    "PromoteId": 14504,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon14504.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon14504.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon14504_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon14504_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon14504_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon14504_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon14504_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon14504_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon14504_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon14504_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon14504_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon14504_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon14504_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon14504_DE.txt"
+    }
+  },
+  "14506": {
+    "WeaponType": "WEAPON_CATALYST",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 44.33580017089844,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 1890163363,
+    "DescTextMapHash": 1589431549,
+    "Icon": "UI_EquipIcon_Catalyst_Apprentice",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 14506
+  },
+  "15101": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 1,
+    "WeaponBaseExp": 600,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 23.2450008392334,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 15101,
+    "NameTextMapHash": 3600623979,
+    "DescTextMapHash": 2408955477,
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 15101,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15101.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15101.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15101_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15101_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15101_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15101_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15101_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15101_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15101_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15101_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15101_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15101_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15101_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15101_DE.txt"
+    }
+  },
+  "15201": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 2,
+    "WeaponBaseExp": 1200,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 32.93000030517578,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 15201,
+    "NameTextMapHash": 2340970067,
+    "DescTextMapHash": 905810789,
+    "Icon": "UI_EquipIcon_Bow_Old",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 15201,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15201.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15201.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15201_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15201_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15201_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15201_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15201_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15201_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15201_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15201_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15201_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15201_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15201_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15201_DE.txt"
+    }
+  },
+  "15301": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 39.875099182128906,
+        "Type": "GROW_CURVE_ATTACK_102"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 20.399999618530273,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 15301,
+    "NameTextMapHash": 3975746731,
+    "DescTextMapHash": 367902357,
+    "Icon": "UI_EquipIcon_Bow_Crowfeather",
+    "Affix": [
+      115301,
+      0
+    ],
+    "PromoteId": 15301,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15301.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15301.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15301_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15301_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15301_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15301_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15301_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15301_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15301_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15301_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15301_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15301_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15301_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15301_DE.txt"
+    }
+  },
+  "15302": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.10199999809265137,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 15302,
+    "NameTextMapHash": 656120259,
+    "DescTextMapHash": 894007269,
+    "Icon": "UI_EquipIcon_Bow_Arjuna",
+    "Affix": [
+      115302,
+      0
+    ],
+    "PromoteId": 15302,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15302.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15302.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15302_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15302_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15302_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15302_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15302_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15302_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15302_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15302_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15302_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15302_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15302_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15302_DE.txt"
+    }
+  },
+  "15303": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 37.60749816894531,
+        "Type": "GROW_CURVE_ATTACK_104"
+      },
+      {
+        "PropType": 2404061249,
+        "InitValue": 0.10213299840688705,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 15303,
+    "NameTextMapHash": 4267718859,
+    "DescTextMapHash": 851960253,
+    "Icon": "UI_EquipIcon_Bow_Curve",
+    "Affix": [
+      115303,
+      0
+    ],
+    "PromoteId": 15303,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15303.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15303.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15303_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15303_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15303_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15303_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15303_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15303_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15303_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15303_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15303_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15303_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15303_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15303_DE.txt"
+    }
+  },
+  "15304": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 37.60749816894531,
+        "Type": "GROW_CURVE_ATTACK_104"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.06800000369548798,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 15304,
+    "NameTextMapHash": 1021898539,
+    "DescTextMapHash": 2260945613,
+    "Icon": "UI_EquipIcon_Bow_Sling",
+    "Affix": [
+      115304,
+      0
+    ],
+    "PromoteId": 15304,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15304.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15304.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15304_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15304_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15304_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15304_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15304_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15304_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15304_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15304_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15304_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15304_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15304_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15304_DE.txt"
+    }
+  },
+  "15305": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 39.875099182128906,
+        "Type": "GROW_CURVE_ATTACK_102"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.06800000369548798,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 15305,
+    "NameTextMapHash": 4139294531,
+    "DescTextMapHash": 2838701821,
+    "Icon": "UI_EquipIcon_Bow_Msg",
+    "Affix": [
+      115305,
+      0
+    ],
+    "PromoteId": 15305,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15305.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15305.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15305_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15305_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15305_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15305_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15305_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15305_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15305_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15305_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15305_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15305_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15305_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15305_DE.txt"
+    }
+  },
+  "15306": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 3,
+    "WeaponBaseExp": 1800,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 38.74129867553711,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.07660000026226044,
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 15306,
+    "NameTextMapHash": 2242027395,
+    "DescTextMapHash": 2789017349,
+    "Icon": "UI_EquipIcon_Bow_Hardwood",
+    "Affix": [
+      115306,
+      0
+    ],
+    "PromoteId": 15306,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15306.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15306.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15306_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15306_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15306_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15306_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15306_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15306_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15306_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15306_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15306_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15306_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15306_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15306_DE.txt"
+    }
+  },
+  "15401": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.1333329975605011,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15401,
+    "NameTextMapHash": 1240067179,
+    "DescTextMapHash": 2697551509,
+    "Icon": "UI_EquipIcon_Bow_Zephyrus",
+    "Affix": [
+      115401,
+      0
+    ],
+    "PromoteId": 15401,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15401.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15401.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15401_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15401_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15401_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15401_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15401_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15401_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15401_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15401_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15401_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15401_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15401_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15401_DE.txt"
+    }
+  },
+  "15402": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 36,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15402,
+    "NameTextMapHash": 2556914683,
+    "DescTextMapHash": 1284213621,
+    "Icon": "UI_EquipIcon_Bow_Troupe",
+    "Affix": [
+      115402,
+      0
+    ],
+    "PromoteId": 15402,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15402.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15402.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15402_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15402_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15402_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15402_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15402_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15402_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15402_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15402_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15402_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15402_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15402_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15402_DE.txt"
+    }
+  },
+  "15403": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.06666699796915054,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15403,
+    "NameTextMapHash": 2400012995,
+    "DescTextMapHash": 59873837,
+    "Icon": "UI_EquipIcon_Bow_Fossil",
+    "Affix": [
+      115403,
+      0
+    ],
+    "PromoteId": 15403,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15403.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15403.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15403_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15403_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15403_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15403_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15403_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15403_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15403_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15403_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15403_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15403_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15403_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15403_DE.txt"
+    }
+  },
+  "15404": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15404,
+    "NameTextMapHash": 2832648187,
+    "DescTextMapHash": 1025771861,
+    "Icon": "UI_EquipIcon_Bow_Theocrat",
+    "Affix": [
+      115404,
+      0
+    ],
+    "PromoteId": 15404,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15404.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15404.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15404_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15404_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15404_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15404_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15404_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15404_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15404_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15404_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15404_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15404_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15404_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15404_DE.txt"
+    }
+  },
+  "15405": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15405,
+    "NameTextMapHash": 3169209451,
+    "DescTextMapHash": 3931321797,
+    "Icon": "UI_EquipIcon_Bow_Recluse",
+    "Affix": [
+      115405,
+      0
+    ],
+    "PromoteId": 15405,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15405.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15405.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15405_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15405_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15405_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15405_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15405_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15405_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15405_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15405_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15405_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15405_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15405_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15405_DE.txt"
+    }
+  },
+  "15406": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.09000000357627869,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15406,
+    "NameTextMapHash": 3625393819,
+    "DescTextMapHash": 2174225037,
+    "Icon": "UI_EquipIcon_Bow_Proto",
+    "Affix": [
+      115406,
+      0
+    ],
+    "PromoteId": 15406,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15406.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15406.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15406_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15406_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15406_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15406_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15406_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15406_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15406_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15406_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15406_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15406_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15406_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15406_DE.txt"
+    }
+  },
+  "15407": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 41.067100524902344,
+        "Type": "GROW_CURVE_ATTACK_204"
+      },
+      {
+        "PropType": 3763864883,
+        "InitValue": 0.15013299882411957,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15407,
+    "NameTextMapHash": 411685275,
+    "DescTextMapHash": 1166197037,
+    "Icon": "UI_EquipIcon_Bow_Exotic",
+    "Affix": [
+      115407,
+      0
+    ],
+    "PromoteId": 15407,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15407.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15407.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15407_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15407_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15407_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15407_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15407_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15407_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15407_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15407_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15407_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15407_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15407_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15407_DE.txt"
+    }
+  },
+  "15408": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 4137936461,
+        "InitValue": 0.07999999821186066,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15408,
+    "NameTextMapHash": 3447737235,
+    "DescTextMapHash": 1032617965,
+    "Icon": "UI_EquipIcon_Bow_Blackrock",
+    "Affix": [
+      115408,
+      0
+    ],
+    "PromoteId": 15408,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15408.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15408.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15408_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15408_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15408_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15408_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15408_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15408_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15408_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15408_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15408_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15408_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15408_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15408_DE.txt"
+    }
+  },
+  "15409": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15409,
+    "NameTextMapHash": 3439749859,
+    "DescTextMapHash": 3378934725,
+    "Icon": "UI_EquipIcon_Bow_Viridescent",
+    "Affix": [
+      115409,
+      0
+    ],
+    "PromoteId": 15409,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15409.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15409.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15409_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15409_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15409_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15409_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15409_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15409_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15409_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15409_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15409_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15409_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15409_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15409_DE.txt"
+    }
+  },
+  "15410": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 43.734901428222656,
+        "Type": "GROW_CURVE_ATTACK_202"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.05999999865889549,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15410,
+    "NameTextMapHash": 2417717595,
+    "DescTextMapHash": 726318957,
+    "Icon": "UI_EquipIcon_Bow_Outlaw",
+    "Affix": [
+      115410,
+      0
+    ],
+    "PromoteId": 15410,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15410.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15410.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15410_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15410_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15410_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15410_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15410_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15410_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15410_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15410_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15410_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15410_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15410_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15410_DE.txt"
+    }
+  },
+  "15413": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 4,
+    "WeaponBaseExp": 50000,
+    "AwakenMaterial": 200104,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.4010009765625,
+        "Type": "GROW_CURVE_ATTACK_201"
+      },
+      {
+        "PropType": 3421163681,
+        "InitValue": 36,
+        "Type": "GROW_CURVE_CRITICAL_201"
+      }
+    ],
+    "WeaponPromoteId": 15413,
+    "EnhanceRule": 1,
+    "NameTextMapHash": 650049651,
+    "DescTextMapHash": 1031521493,
+    "Icon": "UI_EquipIcon_Bow_Fleurfair",
+    "Affix": [
+      115413,
+      0
+    ],
+    "PromoteId": 15413,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15413.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15413.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15413_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15413_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15413_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15413_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15413_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15413_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15413_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15413_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15413_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15413_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15413_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15413_DE.txt"
+    }
+  },
+  "15501": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 47.5369987487793,
+        "Type": "GROW_CURVE_ATTACK_302"
+      },
+      {
+        "PropType": 1916797986,
+        "InitValue": 0.04800000041723251,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 15501,
+    "NameTextMapHash": 3933622347,
+    "DescTextMapHash": 1491045405,
+    "Icon": "UI_EquipIcon_Bow_Dvalin",
+    "Affix": [
+      115501,
+      0
+    ],
+    "PromoteId": 15501,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15501.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15501.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15501_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15501_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15501_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15501_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15501_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15501_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15501_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15501_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15501_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15501_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15501_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15501_DE.txt"
+    }
+  },
+  "15502": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 4097315912,
+        "InitValue": 0.1080000028014183,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 15502,
+    "NameTextMapHash": 828711395,
+    "DescTextMapHash": 2543630901,
+    "Icon": "UI_EquipIcon_Bow_Amos",
+    "Affix": [
+      115502,
+      0
+    ],
+    "PromoteId": 15502,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15502.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15502.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15502_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15502_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15502_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15502_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15502_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15502_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15502_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15502_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15502_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15502_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15502_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15502_DE.txt"
+    }
+  },
+  "15503": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 45.9364013671875,
+        "Type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "PropType": 1735465728,
+        "InitValue": 0.11999999731779099,
+        "Type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "WeaponPromoteId": 15503,
+    "NameTextMapHash": 3112679155,
+    "DescTextMapHash": 1305978565,
+    "Icon": "UI_EquipIcon_Bow_Widsith",
+    "Affix": [
+      115503,
+      0
+    ],
+    "PromoteId": 15503,
+    "Story": {
+      "AssetType": "LOC_TEXT.txt",
+      "DefaultPath": "./GenshinData-main/Readable/CHS/Weapon15503.txt",
+      "ScPath": "./GenshinData-main/Readable/CHS/Weapon15503.txt",
+      "TcPath": "./GenshinData-main/Readable/CHT/Weapon15503_CHT.txt",
+      "EnPath": "./GenshinData-main/Readable/EN/Weapon15503_EN.txt",
+      "KrPath": "./GenshinData-main/Readable/KR/Weapon15503_KR.txt",
+      "JpPath": "./GenshinData-main/Readable/JP/Weapon15503_JP.txt",
+      "EsPath": "./GenshinData-main/Readable/ES/Weapon15503_ES.txt",
+      "FrPath": "./GenshinData-main/Readable/FR/Weapon15503_FR.txt",
+      "IdPath": "./GenshinData-main/Readable/ID/Weapon15503_ID.txt",
+      "PtPath": "./GenshinData-main/Readable/PT/Weapon15503_PT.txt",
+      "RuPath": "./GenshinData-main/Readable/RU/Weapon15503_RU.txt",
+      "ThPath": "./GenshinData-main/Readable/TH/Weapon15503_TH.txt",
+      "ViPath": "./GenshinData-main/Readable/VI/Weapon15503_VI.txt",
+      "DePath": "./GenshinData-main/Readable/DE/Weapon15503_DE.txt"
+    }
+  },
+  "15506": {
+    "WeaponType": "WEAPON_BOW",
+    "RankLevel": 5,
+    "WeaponBaseExp": 300000,
+    "WeaponProp": [
+      {
+        "PropType": 2334963823,
+        "InitValue": 42.73509979248047,
+        "Type": "GROW_CURVE_ATTACK_101"
+      },
+      {
+        "Type": "GROW_CURVE_CRITICAL_101"
+      }
+    ],
+    "WeaponPromoteId": 11101,
+    "NameTextMapHash": 2824690859,
+    "DescTextMapHash": 1315071109,
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "Affix": [
+      0,
+      0
+    ],
+    "PromoteId": 15506
+  }
+}

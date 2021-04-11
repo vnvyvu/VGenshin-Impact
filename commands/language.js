@@ -1,4 +1,4 @@
-let lang=['vi', 'en'];
+let lang=['vi', 'en', 'chs', 'cht', 'de', 'es', 'fr', 'id', 'ja', 'ko', 'pt', 'ru', 'th'];
 module.exports={
     description: "Set your language",
     usage: "language [vi, en, chs, cht, de, es, fr, id, ja, ko, pt, ru, th]",

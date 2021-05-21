@@ -2,48 +2,74 @@
   "80001": {
     "TitleTextMapHash": 3553917084,
     "DescTextMapHash": 3168952541,
+    "Ps5TitleTextMapHash": 2983871191,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 1
   },
   "80002": {
     "TitleTextMapHash": 2757665716,
     "DescTextMapHash": 3276827341,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 1197073647,
+    "Ps4TrophyId": "0",
+    "Ps5TrophyId": "1",
     "Progress": 1,
     "CategoryId": 1
   },
   "80003": {
     "TitleTextMapHash": 1901531884,
     "DescTextMapHash": 2029125413,
+    "Ps5TitleTextMapHash": 2328870855,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 1
   },
   "80004": {
     "TitleTextMapHash": 1982275052,
     "DescTextMapHash": 3288260365,
+    "Ps5TitleTextMapHash": 3022346439,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 1
   },
   "80005": {
     "TitleTextMapHash": 3905825756,
     "DescTextMapHash": 94280997,
+    "Ps5TitleTextMapHash": 2210291079,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 1
   },
   "80006": {
     "TitleTextMapHash": 2812611548,
     "DescTextMapHash": 875999853,
+    "Ps5TitleTextMapHash": 3882147799,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 1
   },
   "80007": {
     "TitleTextMapHash": 665393052,
     "DescTextMapHash": 1328969213,
+    "Ps5TitleTextMapHash": 2539873623,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 2
   },
   "80008": {
     "TitleTextMapHash": 2971692180,
     "DescTextMapHash": 967498613,
+    "Ps5TitleTextMapHash": 4027608559,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 2
   },
@@ -51,6 +77,9 @@
     "PreStageAchievementId": 80008,
     "TitleTextMapHash": 860950324,
     "DescTextMapHash": 2968939013,
+    "Ps5TitleTextMapHash": 528467023,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20,
     "CategoryId": 2
   },
@@ -58,12 +87,18 @@
     "PreStageAchievementId": 80009,
     "TitleTextMapHash": 707907940,
     "DescTextMapHash": 3578460757,
+    "Ps5TitleTextMapHash": 3103435439,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 40,
     "CategoryId": 2
   },
   "80011": {
     "TitleTextMapHash": 352090716,
     "DescTextMapHash": 3337566365,
+    "Ps5TitleTextMapHash": 3026789103,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 2
   },
@@ -71,6 +106,9 @@
     "PreStageAchievementId": 80011,
     "TitleTextMapHash": 2923791356,
     "DescTextMapHash": 1552533613,
+    "Ps5TitleTextMapHash": 1359214359,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20,
     "CategoryId": 2
   },
@@ -78,12 +116,20 @@
     "PreStageAchievementId": 80012,
     "TitleTextMapHash": 2747916052,
     "DescTextMapHash": 3033475645,
+    "Ps5TitleTextMapHash": 1443227183,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 40,
     "CategoryId": 2
   },
   "80014": {
     "TitleTextMapHash": 4151556788,
     "DescTextMapHash": 3099055181,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 556770055,
+    "Ps4TrophyId": "1",
+    "Ps5TrophyId": "2",
     "Progress": 1,
     "CategoryId": 3
   },
@@ -91,6 +137,11 @@
     "PreStageAchievementId": 80014,
     "TitleTextMapHash": 3245980188,
     "DescTextMapHash": 1578221533,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 209727111,
+    "Ps4TrophyId": "2",
+    "Ps5TrophyId": "3",
     "Progress": 1,
     "CategoryId": 3
   },
@@ -98,12 +149,22 @@
     "PreStageAchievementId": 80015,
     "TitleTextMapHash": 2093115316,
     "DescTextMapHash": 716373789,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 4047236135,
+    "Ps4TrophyId": "3",
+    "Ps5TrophyId": "4",
     "Progress": 1,
     "CategoryId": 3
   },
   "80017": {
     "TitleTextMapHash": 1368378292,
     "DescTextMapHash": 1995322589,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 2178924639,
+    "Ps4TrophyId": "4",
+    "Ps5TrophyId": "5",
     "Progress": 1,
     "CategoryId": 3
   },
@@ -111,6 +172,11 @@
     "PreStageAchievementId": 80017,
     "TitleTextMapHash": 2644659076,
     "DescTextMapHash": 743014325,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 641602319,
+    "Ps4TrophyId": "5",
+    "Ps5TrophyId": "6",
     "Progress": 1,
     "CategoryId": 3
   },
@@ -118,12 +184,20 @@
     "PreStageAchievementId": 80018,
     "TitleTextMapHash": 2469785548,
     "DescTextMapHash": 936349373,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 709561151,
+    "Ps4TrophyId": "6",
+    "Ps5TrophyId": "7",
     "Progress": 1,
     "CategoryId": 3
   },
   "80020": {
     "TitleTextMapHash": 958528436,
     "DescTextMapHash": 211503653,
+    "Ps5TitleTextMapHash": 2826089199,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 4,
     "CategoryId": 3
   },
@@ -131,6 +205,9 @@
     "PreStageAchievementId": 80020,
     "TitleTextMapHash": 659610564,
     "DescTextMapHash": 4072095277,
+    "Ps5TitleTextMapHash": 1811823263,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 8,
     "CategoryId": 3
   },
@@ -138,12 +215,18 @@
     "PreStageAchievementId": 80021,
     "TitleTextMapHash": 2065059220,
     "DescTextMapHash": 2462637325,
+    "Ps5TitleTextMapHash": 3268240167,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 16,
     "CategoryId": 3
   },
   "80023": {
     "TitleTextMapHash": 911358220,
     "DescTextMapHash": 35022253,
+    "Ps5TitleTextMapHash": 3429235255,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 200,
     "CategoryId": 3
   },
@@ -151,6 +234,9 @@
     "PreStageAchievementId": 80023,
     "TitleTextMapHash": 190464060,
     "DescTextMapHash": 1032819429,
+    "Ps5TitleTextMapHash": 2293364703,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 400,
     "CategoryId": 3
   },
@@ -158,60 +244,96 @@
     "PreStageAchievementId": 80024,
     "TitleTextMapHash": 1854564012,
     "DescTextMapHash": 1481421397,
+    "Ps5TitleTextMapHash": 3470646143,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 800,
     "CategoryId": 3
   },
   "80026": {
     "TitleTextMapHash": 1799771684,
     "DescTextMapHash": 1885395173,
+    "Ps5TitleTextMapHash": 3949094527,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 3
   },
   "80027": {
     "TitleTextMapHash": 1754094044,
     "DescTextMapHash": 599470277,
+    "Ps5TitleTextMapHash": 1129493391,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 3
   },
   "80028": {
     "TitleTextMapHash": 3172635100,
     "DescTextMapHash": 2335506741,
+    "Ps5TitleTextMapHash": 2709658863,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 3
   },
   "80029": {
     "TitleTextMapHash": 3685638476,
     "DescTextMapHash": 3112551317,
+    "Ps5TitleTextMapHash": 3615374007,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 3
   },
   "80030": {
     "TitleTextMapHash": 1569519740,
     "DescTextMapHash": 3654475021,
+    "Ps4GroupId": 3,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 3084673855,
+    "Ps4TrophyId": "24",
+    "Ps5TrophyId": "25",
     "Progress": 1,
     "CategoryId": 4
   },
   "80031": {
     "TitleTextMapHash": 360547444,
     "DescTextMapHash": 562968333,
+    "Ps4GroupId": 3,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 549748847,
+    "Ps4TrophyId": "25",
+    "Ps5TrophyId": "26",
     "Progress": 22,
     "CategoryId": 4
   },
   "80032": {
     "TitleTextMapHash": 2541833012,
     "DescTextMapHash": 1906564885,
+    "Ps4GroupId": 3,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 1311443743,
+    "Ps4TrophyId": "26",
+    "Ps5TrophyId": "27",
     "Progress": 1,
     "CategoryId": 4
   },
   "80033": {
     "TitleTextMapHash": 3502402356,
     "DescTextMapHash": 3407906333,
+    "Ps5TitleTextMapHash": 1612599359,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 4
   },
   "80034": {
     "TitleTextMapHash": 2604260268,
     "DescTextMapHash": 2078207917,
+    "Ps5TitleTextMapHash": 358867359,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 4
   },
@@ -219,6 +341,9 @@
     "PreStageAchievementId": 80034,
     "TitleTextMapHash": 2829929276,
     "DescTextMapHash": 3179345125,
+    "Ps5TitleTextMapHash": 2126385935,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20,
     "CategoryId": 4
   },
@@ -226,12 +351,20 @@
     "PreStageAchievementId": 80035,
     "TitleTextMapHash": 1298517452,
     "DescTextMapHash": 322205237,
+    "Ps5TitleTextMapHash": 1422848087,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 40,
     "CategoryId": 4
   },
   "80037": {
     "TitleTextMapHash": 1237086348,
     "DescTextMapHash": 933473061,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 872742543,
+    "Ps4TrophyId": "7",
+    "Ps5TrophyId": "8",
     "Progress": 100,
     "CategoryId": 4
   },
@@ -239,6 +372,11 @@
     "PreStageAchievementId": 80037,
     "TitleTextMapHash": 1654396252,
     "DescTextMapHash": 1371438669,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 849587095,
+    "Ps4TrophyId": "8",
+    "Ps5TrophyId": "9",
     "Progress": 200,
     "CategoryId": 4
   },
@@ -246,12 +384,20 @@
     "PreStageAchievementId": 80038,
     "TitleTextMapHash": 3893463916,
     "DescTextMapHash": 1839097565,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 89066647,
+    "Ps4TrophyId": "9",
+    "Ps5TrophyId": "10",
     "Progress": 400,
     "CategoryId": 4
   },
   "80040": {
     "TitleTextMapHash": 1402685132,
     "DescTextMapHash": 3583890925,
+    "Ps5TitleTextMapHash": 1224633935,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 4
   },
@@ -259,6 +405,9 @@
     "PreStageAchievementId": 80040,
     "TitleTextMapHash": 1949939436,
     "DescTextMapHash": 2861056709,
+    "Ps5TitleTextMapHash": 3308541903,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 4
   },
@@ -266,36 +415,60 @@
     "PreStageAchievementId": 80041,
     "TitleTextMapHash": 3427762220,
     "DescTextMapHash": 3568299797,
+    "Ps5TitleTextMapHash": 2826017559,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 15,
     "CategoryId": 4
   },
   "80043": {
     "TitleTextMapHash": 4198189356,
     "DescTextMapHash": 4223630341,
+    "Ps4GroupId": 4,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 2075717015,
+    "Ps4TrophyId": "29",
+    "Ps5TrophyId": "30",
     "Progress": 1,
     "CategoryId": 5
   },
   "80044": {
     "TitleTextMapHash": 384291476,
     "DescTextMapHash": 3426292589,
+    "Ps4GroupId": 4,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 3953373343,
+    "Ps4TrophyId": "30",
+    "Ps5TrophyId": "31",
     "Progress": 40,
     "CategoryId": 5
   },
   "80045": {
     "TitleTextMapHash": 2920183508,
     "DescTextMapHash": 255662725,
+    "Ps4GroupId": 4,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 2833615895,
+    "Ps4TrophyId": "31",
+    "Ps5TrophyId": "32",
     "Progress": 1,
     "CategoryId": 5
   },
   "80046": {
     "TitleTextMapHash": 2727412436,
     "DescTextMapHash": 1529387165,
+    "Ps5TitleTextMapHash": 4083160199,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 5
   },
   "80047": {
     "TitleTextMapHash": 139520284,
     "DescTextMapHash": 2690069333,
+    "Ps5TitleTextMapHash": 2711615391,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20,
     "CategoryId": 5
   },
@@ -303,6 +476,9 @@
     "PreStageAchievementId": 80047,
     "TitleTextMapHash": 3947216412,
     "DescTextMapHash": 2944582773,
+    "Ps5TitleTextMapHash": 3359244263,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 40,
     "CategoryId": 5
   },
@@ -310,12 +486,20 @@
     "PreStageAchievementId": 80048,
     "TitleTextMapHash": 2653473684,
     "DescTextMapHash": 2490815277,
+    "Ps5TitleTextMapHash": 3705891911,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 60,
     "CategoryId": 5
   },
   "80050": {
     "TitleTextMapHash": 1257415940,
     "DescTextMapHash": 4209052685,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 1131342607,
+    "Ps4TrophyId": "10",
+    "Ps5TrophyId": "11",
     "Progress": 200,
     "CategoryId": 5
   },
@@ -323,6 +507,11 @@
     "PreStageAchievementId": 80050,
     "TitleTextMapHash": 4179681020,
     "DescTextMapHash": 2280953373,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 1646765647,
+    "Ps4TrophyId": "11",
+    "Ps5TrophyId": "12",
     "Progress": 400,
     "CategoryId": 5
   },
@@ -330,12 +519,20 @@
     "PreStageAchievementId": 80051,
     "TitleTextMapHash": 851377516,
     "DescTextMapHash": 3807138829,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 3882764183,
+    "Ps4TrophyId": "12",
+    "Ps5TrophyId": "13",
     "Progress": 800,
     "CategoryId": 5
   },
   "80053": {
     "TitleTextMapHash": 4144175044,
     "DescTextMapHash": 1850685293,
+    "Ps5TitleTextMapHash": 1897387407,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 5
   },
@@ -343,6 +540,9 @@
     "PreStageAchievementId": 80053,
     "TitleTextMapHash": 11840092,
     "DescTextMapHash": 3336351917,
+    "Ps5TitleTextMapHash": 545608815,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20,
     "CategoryId": 5
   },
@@ -350,24 +550,36 @@
     "PreStageAchievementId": 80054,
     "TitleTextMapHash": 3415423228,
     "DescTextMapHash": 2752209213,
+    "Ps5TitleTextMapHash": 2216070623,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 40,
     "CategoryId": 5
   },
   "80056": {
     "TitleTextMapHash": 2211498308,
     "DescTextMapHash": 949941501,
+    "Ps5TitleTextMapHash": 2188775415,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 16
   },
   "80057": {
     "TitleTextMapHash": 931837980,
     "DescTextMapHash": 3666835453,
+    "Ps5TitleTextMapHash": 3747495743,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 11,
     "CategoryId": 16
   },
   "80058": {
     "TitleTextMapHash": 1088222556,
     "DescTextMapHash": 1873076805,
+    "Ps5TitleTextMapHash": 2580072487,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 16
   },
@@ -375,6 +587,9 @@
     "PreStageAchievementId": 80058,
     "TitleTextMapHash": 2541137324,
     "DescTextMapHash": 1845949165,
+    "Ps5TitleTextMapHash": 2797794847,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 16
   },
@@ -382,12 +597,20 @@
     "PreStageAchievementId": 80059,
     "TitleTextMapHash": 3107475212,
     "DescTextMapHash": 745636477,
+    "Ps5TitleTextMapHash": 1942732527,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20,
     "CategoryId": 16
   },
   "80061": {
     "TitleTextMapHash": 2958864396,
     "DescTextMapHash": 2140793669,
+    "Ps4GroupId": 2,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 881507039,
+    "Ps4TrophyId": "17",
+    "Ps5TrophyId": "18",
     "Progress": 40,
     "CategoryId": 16
   },
@@ -395,6 +618,11 @@
     "PreStageAchievementId": 80061,
     "TitleTextMapHash": 424422124,
     "DescTextMapHash": 228464213,
+    "Ps4GroupId": 2,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 3223340527,
+    "Ps4TrophyId": "18",
+    "Ps5TrophyId": "19",
     "Progress": 80,
     "CategoryId": 16
   },
@@ -402,12 +630,22 @@
     "PreStageAchievementId": 80062,
     "TitleTextMapHash": 2666090996,
     "DescTextMapHash": 600076741,
+    "Ps4GroupId": 2,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 952012479,
+    "Ps4TrophyId": "19",
+    "Ps5TrophyId": "20",
     "Progress": 160,
     "CategoryId": 16
   },
   "80064": {
     "TitleTextMapHash": 2473670636,
     "DescTextMapHash": 3827779805,
+    "Ps4GroupId": 2,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 588898959,
+    "Ps4TrophyId": "20",
+    "Ps5TrophyId": "21",
     "Progress": 1,
     "CategoryId": 16
   },
@@ -415,6 +653,11 @@
     "PreStageAchievementId": 80064,
     "TitleTextMapHash": 2107533020,
     "DescTextMapHash": 1282861189,
+    "Ps4GroupId": 2,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 3009439311,
+    "Ps4TrophyId": "21",
+    "Ps5TrophyId": "22",
     "Progress": 1,
     "CategoryId": 16
   },
@@ -422,18 +665,31 @@
     "PreStageAchievementId": 80065,
     "TitleTextMapHash": 3885554452,
     "DescTextMapHash": 1273148893,
+    "Ps4GroupId": 2,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 1999611511,
+    "Ps4TrophyId": "22",
+    "Ps5TrophyId": "23",
     "Progress": 1,
     "CategoryId": 16
   },
   "80067": {
     "TitleTextMapHash": 3703695908,
     "DescTextMapHash": 2281097269,
+    "Ps4GroupId": 3,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 1163337775,
+    "Ps4TrophyId": "27",
+    "Ps5TrophyId": "28",
     "Progress": 1,
     "CategoryId": 16
   },
   "80068": {
     "TitleTextMapHash": 1657884484,
     "DescTextMapHash": 2351033373,
+    "Ps5TitleTextMapHash": 266954295,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 16
   },
@@ -441,42 +697,67 @@
     "TitleTextMapHash": 2647451916,
     "DescTextMapHash": 2815553477,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2687565615,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81001": {
     "TitleTextMapHash": 25269844,
     "DescTextMapHash": 474647173,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1417906311,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81002": {
     "TitleTextMapHash": 89116812,
     "DescTextMapHash": 1101926013,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2934394935,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81003": {
     "TitleTextMapHash": 2960640356,
     "DescTextMapHash": 899835861,
     "IsShow": "HIDE",
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 3923826287,
+    "Ps4TrophyId": "13",
+    "Ps5TrophyId": "14",
     "Progress": 1
   },
   "81004": {
     "TitleTextMapHash": 2470719852,
     "DescTextMapHash": 3366787285,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2381265447,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81005": {
     "TitleTextMapHash": 3794877756,
     "DescTextMapHash": 748458029,
     "IsShow": "HIDE",
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 3347745295,
+    "Ps4TrophyId": "14",
+    "Ps5TrophyId": "15",
     "Progress": 1
   },
   "81006": {
     "TitleTextMapHash": 2778320284,
     "DescTextMapHash": 3730985517,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1310637447,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -484,6 +765,9 @@
     "TitleTextMapHash": 847315684,
     "DescTextMapHash": 1859227613,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 302793359,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -491,6 +775,9 @@
     "TitleTextMapHash": 1067643012,
     "DescTextMapHash": 3937251805,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1360940967,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -498,6 +785,9 @@
     "TitleTextMapHash": 2097835300,
     "DescTextMapHash": 3296490485,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1741944839,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -505,12 +795,18 @@
     "TitleTextMapHash": 1659152388,
     "DescTextMapHash": 302283309,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2132600927,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81011": {
     "TitleTextMapHash": 1852163828,
     "DescTextMapHash": 3060106613,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3913125343,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -518,6 +814,9 @@
     "TitleTextMapHash": 2512623860,
     "DescTextMapHash": 1080497901,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2261193431,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -525,6 +824,9 @@
     "TitleTextMapHash": 453983356,
     "DescTextMapHash": 1757579805,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 206992111,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -532,42 +834,63 @@
     "TitleTextMapHash": 2902088484,
     "DescTextMapHash": 3345975029,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 289795039,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81015": {
     "TitleTextMapHash": 500593220,
     "DescTextMapHash": 854730853,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2150945535,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81016": {
     "TitleTextMapHash": 1708075572,
     "DescTextMapHash": 4234458637,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3171977935,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81017": {
     "TitleTextMapHash": 192310612,
     "DescTextMapHash": 1024006941,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 922089383,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81018": {
     "TitleTextMapHash": 386939468,
     "DescTextMapHash": 573251821,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2829341687,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10
   },
   "81019": {
     "TitleTextMapHash": 1038316212,
     "DescTextMapHash": 3243061293,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3236186687,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81020": {
     "TitleTextMapHash": 3241461092,
     "DescTextMapHash": 1690061733,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 896998663,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "ProgressShowType": "PROGRESSTYPE_FINISH",
     "Progress": 500
   },
@@ -575,6 +898,9 @@
     "TitleTextMapHash": 323598732,
     "DescTextMapHash": 3698198181,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1834544815,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "ProgressShowType": "PROGRESSTYPE_THOUSAND_TO_ONE",
     "Progress": 80000
   },
@@ -582,6 +908,9 @@
     "TitleTextMapHash": 3591840716,
     "DescTextMapHash": 3328540069,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 356533551,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "ProgressShowType": "PROGRESSTYPE_THOUSAND_TO_ONE",
     "Progress": 15000
   },
@@ -589,193 +918,540 @@
     "TitleTextMapHash": 1637482540,
     "DescTextMapHash": 3850399501,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2506302575,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "ProgressShowType": "PROGRESSTYPE_FINISH",
     "Progress": 10000
   },
   "81024": {
     "TitleTextMapHash": 3844540420,
     "DescTextMapHash": 1427574237,
+    "Ps4GroupId": 3,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 4084171311,
+    "Ps4TrophyId": "28",
+    "Ps5TrophyId": "29",
     "Progress": 1
   },
   "81025": {
     "TitleTextMapHash": 2742396020,
     "DescTextMapHash": 4142644461,
+    "Ps4GroupId": 4,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 2487561055,
+    "Ps4TrophyId": "32",
+    "Ps5TrophyId": "33",
     "Progress": 1
   },
   "81026": {
     "TitleTextMapHash": 2274571828,
     "DescTextMapHash": 4037405053,
+    "Ps5TitleTextMapHash": 1747550255,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10
   },
   "81027": {
     "PreStageAchievementId": 81026,
     "TitleTextMapHash": 428687636,
     "DescTextMapHash": 46592405,
+    "Ps5TitleTextMapHash": 1437522247,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20
   },
   "81028": {
     "PreStageAchievementId": 81027,
     "TitleTextMapHash": 2126715500,
     "DescTextMapHash": 857717221,
+    "Ps5TitleTextMapHash": 1098647103,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 30
   },
   "81029": {
     "TitleTextMapHash": 2619533444,
     "DescTextMapHash": 3140671309,
+    "Ps5TitleTextMapHash": 1263119255,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10
   },
   "81030": {
     "PreStageAchievementId": 81029,
     "TitleTextMapHash": 3441855604,
     "DescTextMapHash": 1750553045,
+    "Ps5TitleTextMapHash": 3513916927,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20
   },
   "81031": {
     "PreStageAchievementId": 81030,
     "TitleTextMapHash": 2278592604,
     "DescTextMapHash": 1674896437,
+    "Ps5TitleTextMapHash": 1612829751,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 30
   },
   "81032": {
     "TitleTextMapHash": 4155057532,
     "DescTextMapHash": 1174085221,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3177269991,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81033": {
     "TitleTextMapHash": 499499668,
     "DescTextMapHash": 1209146941,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2876633975,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81034": {
     "TitleTextMapHash": 2763950196,
     "DescTextMapHash": 2686729069,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2937115671,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81035": {
     "TitleTextMapHash": 713896220,
     "DescTextMapHash": 270443789,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2602953215,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81036": {
     "TitleTextMapHash": 521254876,
     "DescTextMapHash": 1995653853,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1058152079,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81037": {
     "TitleTextMapHash": 3275047996,
     "DescTextMapHash": 1291938045,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 794952335,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81038": {
     "TitleTextMapHash": 3404047028,
     "DescTextMapHash": 1412429205,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1809222263,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 9
   },
   "81039": {
     "TitleTextMapHash": 4187342940,
     "DescTextMapHash": 1098538885,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 329373519,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81040": {
     "TitleTextMapHash": 4202907796,
     "DescTextMapHash": 3386490949,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4028939991,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81041": {
     "TitleTextMapHash": 1031752796,
     "DescTextMapHash": 2025728749,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 480901239,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81042": {
     "TitleTextMapHash": 2335733748,
     "DescTextMapHash": 2601016317,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3489241543,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81043": {
     "TitleTextMapHash": 1215440932,
     "DescTextMapHash": 1629949677,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 251612311,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81044": {
     "TitleTextMapHash": 3841527468,
     "DescTextMapHash": 2194698173,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3630152015,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81045": {
     "TitleTextMapHash": 3803622164,
     "DescTextMapHash": 989312069,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 53774007,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81046": {
     "TitleTextMapHash": 2576644796,
     "DescTextMapHash": 4236793157,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2321152615,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81047": {
     "TitleTextMapHash": 1719335292,
     "DescTextMapHash": 1745743197,
+    "Ps5TitleTextMapHash": 153575239,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "81048": {
     "TitleTextMapHash": 1605809932,
     "DescTextMapHash": 4013211333,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1270736015,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
+  },
+  "81049": {
+    "TitleTextMapHash": 832849924,
+    "DescTextMapHash": 3533363269,
+    "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1098525631,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 18
+  },
+  "81050": {
+    "TitleTextMapHash": 1914657668,
+    "DescTextMapHash": 2419806789,
+    "Ps5TitleTextMapHash": 963406335,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 18
+  },
+  "81051": {
+    "PreStageAchievementId": 81050,
+    "TitleTextMapHash": 3712906988,
+    "DescTextMapHash": 1310499901,
+    "Ps5TitleTextMapHash": 3159935335,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 2,
+    "CategoryId": 18
+  },
+  "81052": {
+    "PreStageAchievementId": 81051,
+    "TitleTextMapHash": 4076258276,
+    "DescTextMapHash": 3686566485,
+    "Ps5TitleTextMapHash": 2481748807,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 3,
+    "CategoryId": 18
+  },
+  "81053": {
+    "TitleTextMapHash": 67578468,
+    "DescTextMapHash": 2188475101,
+    "Ps5TitleTextMapHash": 1017499191,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 18
+  },
+  "81054": {
+    "PreStageAchievementId": 81053,
+    "TitleTextMapHash": 4066526916,
+    "DescTextMapHash": 2725037413,
+    "Ps5TitleTextMapHash": 3212368087,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 18
+  },
+  "81055": {
+    "PreStageAchievementId": 81054,
+    "TitleTextMapHash": 2848337692,
+    "DescTextMapHash": 43321013,
+    "Ps5TitleTextMapHash": 72641495,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 18
+  },
+  "81056": {
+    "TitleTextMapHash": 3984480332,
+    "DescTextMapHash": 2279165893,
+    "Ps5TitleTextMapHash": 3516248935,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 100,
+    "CategoryId": 18
+  },
+  "81057": {
+    "PreStageAchievementId": 81056,
+    "TitleTextMapHash": 839549452,
+    "DescTextMapHash": 3048488125,
+    "Ps5TitleTextMapHash": 3557383527,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 600,
+    "CategoryId": 18
+  },
+  "81058": {
+    "PreStageAchievementId": 81057,
+    "TitleTextMapHash": 933055236,
+    "DescTextMapHash": 3061682917,
+    "Ps5TitleTextMapHash": 2918471327,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 2000,
+    "CategoryId": 18
+  },
+  "81059": {
+    "TitleTextMapHash": 2121519316,
+    "DescTextMapHash": 2768834085,
+    "Ps5TitleTextMapHash": 3507135743,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 2000,
+    "CategoryId": 18
+  },
+  "81060": {
+    "PreStageAchievementId": 81059,
+    "TitleTextMapHash": 2109038844,
+    "DescTextMapHash": 189430173,
+    "Ps5TitleTextMapHash": 358253399,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 10000,
+    "CategoryId": 18
+  },
+  "81061": {
+    "PreStageAchievementId": 81060,
+    "TitleTextMapHash": 956238852,
+    "DescTextMapHash": 3766420557,
+    "Ps5TitleTextMapHash": 3859062887,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 50000,
+    "CategoryId": 18
+  },
+  "81062": {
+    "TitleTextMapHash": 193496692,
+    "DescTextMapHash": 1309565797,
+    "Ps5TitleTextMapHash": 1772828927,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 120,
+    "CategoryId": 18
+  },
+  "81063": {
+    "PreStageAchievementId": 81062,
+    "TitleTextMapHash": 93852804,
+    "DescTextMapHash": 689129901,
+    "Ps5TitleTextMapHash": 1679449967,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 300,
+    "CategoryId": 18
+  },
+  "81064": {
+    "PreStageAchievementId": 81063,
+    "TitleTextMapHash": 2709018828,
+    "DescTextMapHash": 3247627317,
+    "Ps5TitleTextMapHash": 4186481687,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 600,
+    "CategoryId": 18
+  },
+  "81065": {
+    "TitleTextMapHash": 2953189348,
+    "DescTextMapHash": 2103561541,
+    "Ps5TitleTextMapHash": 2175354759,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 50,
+    "CategoryId": 18
+  },
+  "81066": {
+    "PreStageAchievementId": 81065,
+    "TitleTextMapHash": 1863346564,
+    "DescTextMapHash": 3326565861,
+    "Ps5TitleTextMapHash": 1653415551,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 200,
+    "CategoryId": 18
+  },
+  "81067": {
+    "PreStageAchievementId": 81066,
+    "TitleTextMapHash": 2144293876,
+    "DescTextMapHash": 1678471541,
+    "Ps5TitleTextMapHash": 2656446791,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 600,
+    "CategoryId": 18
+  },
+  "81068": {
+    "TitleTextMapHash": 3051773308,
+    "DescTextMapHash": 2085066405,
+    "Ps5TitleTextMapHash": 2314853599,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 60,
+    "CategoryId": 18
+  },
+  "81069": {
+    "PreStageAchievementId": 81068,
+    "TitleTextMapHash": 1841119012,
+    "DescTextMapHash": 165328245,
+    "Ps5TitleTextMapHash": 3861953151,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 120,
+    "CategoryId": 18
+  },
+  "81070": {
+    "PreStageAchievementId": 81069,
+    "TitleTextMapHash": 83187180,
+    "DescTextMapHash": 662481901,
+    "Ps5TitleTextMapHash": 1153771199,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 180,
+    "CategoryId": 18
+  },
+  "81071": {
+    "TitleTextMapHash": 150735276,
+    "DescTextMapHash": 4091781765,
+    "Ps5TitleTextMapHash": 1887666543,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 50,
+    "CategoryId": 18
+  },
+  "81072": {
+    "PreStageAchievementId": 81071,
+    "TitleTextMapHash": 567181556,
+    "DescTextMapHash": 3829806453,
+    "Ps5TitleTextMapHash": 2912916399,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 150,
+    "CategoryId": 18
+  },
+  "81073": {
+    "PreStageAchievementId": 81072,
+    "TitleTextMapHash": 1921684748,
+    "DescTextMapHash": 2006303365,
+    "Ps5TitleTextMapHash": 3940416751,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 300,
+    "CategoryId": 18
   },
   "82001": {
     "TitleTextMapHash": 2573353356,
     "DescTextMapHash": 1090320637,
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 1559958703,
+    "Ps4TrophyId": "15",
+    "Ps5TrophyId": "16",
     "Progress": 1,
     "CategoryId": 7
   },
   "82002": {
     "TitleTextMapHash": 576654116,
     "DescTextMapHash": 3664032533,
+    "Ps5TitleTextMapHash": 873400511,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 7
   },
   "82003": {
     "TitleTextMapHash": 2274746132,
     "DescTextMapHash": 3028176141,
+    "Ps5TitleTextMapHash": 345672559,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 7
   },
   "82004": {
     "TitleTextMapHash": 3242512804,
     "DescTextMapHash": 348215653,
+    "Ps5TitleTextMapHash": 192325999,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 8
   },
   "82005": {
     "TitleTextMapHash": 2988885740,
     "DescTextMapHash": 1321764845,
+    "Ps5TitleTextMapHash": 220353903,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 8
   },
   "82006": {
     "TitleTextMapHash": 472115540,
     "DescTextMapHash": 2353067605,
+    "Ps5TitleTextMapHash": 1325776975,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 8
   },
   "82007": {
     "TitleTextMapHash": 510741284,
     "DescTextMapHash": 2835557221,
+    "Ps5TitleTextMapHash": 770934839,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 8
   },
@@ -783,24 +1459,36 @@
     "TitleTextMapHash": 1274971428,
     "DescTextMapHash": 3692585061,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2599048831,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82009": {
     "TitleTextMapHash": 3382009748,
     "DescTextMapHash": 2241802189,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3090704695,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82010": {
     "TitleTextMapHash": 4134879460,
     "DescTextMapHash": 1793427949,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4194180015,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82011": {
     "TitleTextMapHash": 2746711540,
     "DescTextMapHash": 1798063557,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 942454487,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -808,30 +1496,45 @@
     "TitleTextMapHash": 3521757268,
     "DescTextMapHash": 898683253,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 432147351,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82013": {
     "TitleTextMapHash": 882537796,
     "DescTextMapHash": 4274192597,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4107931239,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82014": {
     "TitleTextMapHash": 595562532,
     "DescTextMapHash": 2122367189,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2089435935,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82015": {
     "TitleTextMapHash": 621221308,
     "DescTextMapHash": 1341598733,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 203083295,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82016": {
     "TitleTextMapHash": 2939542412,
     "DescTextMapHash": 1144727941,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 291071279,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -839,18 +1542,27 @@
     "TitleTextMapHash": 2338346228,
     "DescTextMapHash": 484813733,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3279474295,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82018": {
     "TitleTextMapHash": 2535934748,
     "DescTextMapHash": 150276709,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1550533223,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
   "82019": {
     "TitleTextMapHash": 2827822132,
     "DescTextMapHash": 1702510093,
+    "Ps5TitleTextMapHash": 1308645071,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 6
   },
@@ -858,6 +1570,9 @@
     "PreStageAchievementId": 82019,
     "TitleTextMapHash": 4184857748,
     "DescTextMapHash": 2607421445,
+    "Ps5TitleTextMapHash": 765507775,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 6
   },
@@ -865,12 +1580,18 @@
     "PreStageAchievementId": 82020,
     "TitleTextMapHash": 1953080660,
     "DescTextMapHash": 3751300453,
+    "Ps5TitleTextMapHash": 4274729143,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 6
   },
   "82022": {
     "TitleTextMapHash": 4038863740,
     "DescTextMapHash": 2497711557,
+    "Ps5TitleTextMapHash": 3086717151,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 6
   },
@@ -878,6 +1599,9 @@
     "PreStageAchievementId": 82022,
     "TitleTextMapHash": 1369097700,
     "DescTextMapHash": 2518971933,
+    "Ps5TitleTextMapHash": 590326679,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 6
   },
@@ -885,12 +1609,18 @@
     "PreStageAchievementId": 82023,
     "TitleTextMapHash": 1471902396,
     "DescTextMapHash": 1237706613,
+    "Ps5TitleTextMapHash": 3806236199,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 6
   },
   "82025": {
     "TitleTextMapHash": 134489828,
     "DescTextMapHash": 4188620789,
+    "Ps5TitleTextMapHash": 1328111231,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 6
   },
@@ -898,6 +1628,9 @@
     "PreStageAchievementId": 82025,
     "TitleTextMapHash": 1074277788,
     "DescTextMapHash": 3605731181,
+    "Ps5TitleTextMapHash": 3327898759,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 6
   },
@@ -905,12 +1638,18 @@
     "PreStageAchievementId": 82026,
     "TitleTextMapHash": 863668156,
     "DescTextMapHash": 3779936869,
+    "Ps5TitleTextMapHash": 2253599623,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 6
   },
   "82028": {
     "TitleTextMapHash": 1281069436,
     "DescTextMapHash": 1045145957,
+    "Ps5TitleTextMapHash": 1157981079,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 6
   },
@@ -918,6 +1657,9 @@
     "PreStageAchievementId": 82028,
     "TitleTextMapHash": 2474901380,
     "DescTextMapHash": 3609588157,
+    "Ps5TitleTextMapHash": 4133616839,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 6
   },
@@ -925,12 +1667,18 @@
     "PreStageAchievementId": 82029,
     "TitleTextMapHash": 2769491540,
     "DescTextMapHash": 4198145245,
+    "Ps5TitleTextMapHash": 1225764023,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 6
   },
   "82031": {
     "TitleTextMapHash": 4241081860,
     "DescTextMapHash": 1010990029,
+    "Ps5TitleTextMapHash": 3805172503,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 6
   },
@@ -938,6 +1686,9 @@
     "PreStageAchievementId": 82031,
     "TitleTextMapHash": 2111216140,
     "DescTextMapHash": 3136599325,
+    "Ps5TitleTextMapHash": 1310386567,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 6
   },
@@ -945,12 +1696,18 @@
     "PreStageAchievementId": 82032,
     "TitleTextMapHash": 2632220308,
     "DescTextMapHash": 513570381,
+    "Ps5TitleTextMapHash": 417834623,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 6
   },
   "82034": {
     "TitleTextMapHash": 1348638068,
     "DescTextMapHash": 2084958717,
+    "Ps5TitleTextMapHash": 2615066239,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 6
   },
@@ -958,6 +1715,9 @@
     "PreStageAchievementId": 82034,
     "TitleTextMapHash": 1999317100,
     "DescTextMapHash": 2533518997,
+    "Ps5TitleTextMapHash": 8074031,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 6
   },
@@ -965,12 +1725,18 @@
     "PreStageAchievementId": 82035,
     "TitleTextMapHash": 1320800268,
     "DescTextMapHash": 1781636645,
+    "Ps5TitleTextMapHash": 1582462319,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 6
   },
   "82037": {
     "TitleTextMapHash": 2273914484,
     "DescTextMapHash": 4006987189,
+    "Ps5TitleTextMapHash": 4184934047,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 6
   },
@@ -978,6 +1744,9 @@
     "PreStageAchievementId": 82037,
     "TitleTextMapHash": 629920916,
     "DescTextMapHash": 2414216445,
+    "Ps5TitleTextMapHash": 2252164543,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 6
   },
@@ -985,6 +1754,9 @@
     "PreStageAchievementId": 82038,
     "TitleTextMapHash": 4017916764,
     "DescTextMapHash": 2238045,
+    "Ps5TitleTextMapHash": 3863501591,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 10,
     "CategoryId": 6
   },
@@ -992,6 +1764,9 @@
     "TitleTextMapHash": 1134739220,
     "DescTextMapHash": 1935708589,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 430322047,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "ProgressShowType": "PROGRESSTYPE_FINISH",
     "Progress": 4
   },
@@ -999,6 +1774,9 @@
     "TitleTextMapHash": 1660897604,
     "DescTextMapHash": 4092400245,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 131254415,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5000
   },
   "82042": {
@@ -1006,6 +1784,9 @@
     "TitleTextMapHash": 1167149668,
     "DescTextMapHash": 3494878037,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 346353823,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20000
   },
   "82043": {
@@ -1013,11 +1794,19 @@
     "TitleTextMapHash": 723420764,
     "DescTextMapHash": 1531132869,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3354935279,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 50000
   },
   "82044": {
     "TitleTextMapHash": 3670517876,
     "DescTextMapHash": 25425973,
+    "Ps4GroupId": 5,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 2264918775,
+    "Ps4TrophyId": "33",
+    "Ps5TrophyId": "34",
     "Progress": 1,
     "CategoryId": 9
   },
@@ -1025,6 +1814,11 @@
     "PreStageAchievementId": 82044,
     "TitleTextMapHash": 1704363060,
     "DescTextMapHash": 2772041085,
+    "Ps4GroupId": 5,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 3604150623,
+    "Ps4TrophyId": "34",
+    "Ps5TrophyId": "35",
     "Progress": 1,
     "CategoryId": 9
   },
@@ -1032,12 +1826,20 @@
     "PreStageAchievementId": 82045,
     "TitleTextMapHash": 1604342916,
     "DescTextMapHash": 2472292213,
+    "Ps4GroupId": 5,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 359193711,
+    "Ps4TrophyId": "35",
+    "Ps5TrophyId": "36",
     "Progress": 1,
     "CategoryId": 9
   },
   "82047": {
     "TitleTextMapHash": 156944212,
     "DescTextMapHash": 1752841173,
+    "Ps5TitleTextMapHash": 2983689575,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 9
   },
@@ -1045,6 +1847,9 @@
     "PreStageAchievementId": 82047,
     "TitleTextMapHash": 4154776220,
     "DescTextMapHash": 2331883213,
+    "Ps5TitleTextMapHash": 1466783703,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 9
   },
@@ -1052,18 +1857,29 @@
     "PreStageAchievementId": 82048,
     "TitleTextMapHash": 2691974228,
     "DescTextMapHash": 2820689805,
+    "Ps5TitleTextMapHash": 1998592983,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 9
   },
   "82050": {
     "TitleTextMapHash": 630016764,
     "DescTextMapHash": 2656674149,
+    "Ps5TitleTextMapHash": 1087816535,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 9
   },
   "82051": {
     "TitleTextMapHash": 3995994148,
     "DescTextMapHash": 306648477,
+    "Ps4GroupId": 5,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 1324086663,
+    "Ps4TrophyId": "36",
+    "Ps5TrophyId": "37",
     "Progress": 72,
     "CategoryId": 9
   },
@@ -1071,23 +1887,35 @@
     "TitleTextMapHash": 2405277044,
     "DescTextMapHash": 1925474669,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 407666439,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82053": {
     "TitleTextMapHash": 995938052,
     "DescTextMapHash": 805943413,
+    "Ps5TitleTextMapHash": 1202752415,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 14
   },
   "82054": {
     "TitleTextMapHash": 3422894564,
     "DescTextMapHash": 2233559597,
+    "Ps5TitleTextMapHash": 2177716975,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 14
   },
   "82055": {
     "TitleTextMapHash": 3155228324,
     "DescTextMapHash": 311193685,
+    "Ps5TitleTextMapHash": 3802292367,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 14
   },
@@ -1095,6 +1923,9 @@
     "PreStageAchievementId": 82055,
     "TitleTextMapHash": 54756348,
     "DescTextMapHash": 1061062845,
+    "Ps5TitleTextMapHash": 347370135,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20,
     "CategoryId": 14
   },
@@ -1102,36 +1933,54 @@
     "PreStageAchievementId": 82056,
     "TitleTextMapHash": 707181276,
     "DescTextMapHash": 334888365,
+    "Ps5TitleTextMapHash": 3502377175,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 50,
     "CategoryId": 14
   },
   "82058": {
     "TitleTextMapHash": 3204734660,
     "DescTextMapHash": 1852609533,
+    "Ps5TitleTextMapHash": 915064583,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 14
   },
   "82059": {
     "TitleTextMapHash": 3251422156,
     "DescTextMapHash": 352640869,
+    "Ps5TitleTextMapHash": 291756335,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 14
   },
   "82060": {
     "TitleTextMapHash": 3788638948,
     "DescTextMapHash": 3381412333,
+    "Ps5TitleTextMapHash": 976361863,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 14
   },
   "82061": {
     "TitleTextMapHash": 1761712316,
     "DescTextMapHash": 3570140789,
+    "Ps5TitleTextMapHash": 3254615535,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 14
   },
   "82062": {
     "TitleTextMapHash": 1676073956,
     "DescTextMapHash": 1647369917,
+    "Ps5TitleTextMapHash": 2409723519,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 14
   },
@@ -1139,65 +1988,98 @@
     "TitleTextMapHash": 3155331436,
     "DescTextMapHash": 4176403605,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3560603639,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82064": {
     "TitleTextMapHash": 1083488204,
     "DescTextMapHash": 1970286765,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3348952831,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82065": {
     "TitleTextMapHash": 3362552052,
     "DescTextMapHash": 2906384653,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2439773343,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82066": {
     "TitleTextMapHash": 4048898460,
     "DescTextMapHash": 3432315821,
+    "Ps5TitleTextMapHash": 2396786535,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 15
   },
   "82067": {
     "TitleTextMapHash": 244547692,
     "DescTextMapHash": 634673541,
+    "Ps5TitleTextMapHash": 3675388919,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 15
   },
   "82068": {
     "TitleTextMapHash": 3942329212,
     "DescTextMapHash": 2871610245,
+    "Ps5TitleTextMapHash": 3677877487,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 15
   },
   "82069": {
     "TitleTextMapHash": 409289820,
     "DescTextMapHash": 3141606261,
+    "Ps5TitleTextMapHash": 2142921023,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 15
   },
   "82070": {
     "TitleTextMapHash": 3389806332,
     "DescTextMapHash": 2786864885,
+    "Ps5TitleTextMapHash": 474332055,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 15
   },
   "82071": {
     "TitleTextMapHash": 763748596,
     "DescTextMapHash": 1846969797,
+    "Ps5TitleTextMapHash": 838894535,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 15
   },
   "82072": {
     "TitleTextMapHash": 1557305612,
     "DescTextMapHash": 4106283533,
+    "Ps5TitleTextMapHash": 1131391863,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 15
   },
   "82073": {
     "TitleTextMapHash": 1206581908,
     "DescTextMapHash": 1309532613,
+    "Ps5TitleTextMapHash": 1467696407,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 15
   },
@@ -1205,250 +2087,408 @@
     "TitleTextMapHash": 4152286668,
     "DescTextMapHash": 4102956893,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4108363455,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82075": {
     "TitleTextMapHash": 873919780,
     "DescTextMapHash": 1143994197,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2429012943,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82076": {
     "TitleTextMapHash": 3090225684,
     "DescTextMapHash": 3691189277,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 732746351,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82077": {
     "TitleTextMapHash": 4294184636,
     "DescTextMapHash": 1375835061,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3541045415,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82078": {
     "TitleTextMapHash": 1849966660,
     "DescTextMapHash": 2467603157,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 252783023,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82079": {
     "TitleTextMapHash": 3993541556,
     "DescTextMapHash": 1917642157,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 270026183,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82080": {
     "TitleTextMapHash": 3632714556,
     "DescTextMapHash": 963975293,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2889940183,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82081": {
     "TitleTextMapHash": 88921716,
     "DescTextMapHash": 3521305253,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 227637199,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82082": {
     "TitleTextMapHash": 1430119196,
     "DescTextMapHash": 2329878165,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4072594319,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82083": {
     "TitleTextMapHash": 1585309532,
     "DescTextMapHash": 1278881989,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1403069095,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82084": {
     "TitleTextMapHash": 1830848588,
     "DescTextMapHash": 1657797109,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3772154023,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82085": {
     "TitleTextMapHash": 881288700,
     "DescTextMapHash": 1969261661,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2862951799,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82086": {
     "TitleTextMapHash": 1278981364,
     "DescTextMapHash": 3006263349,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2873159111,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "82087": {
     "TitleTextMapHash": 1864667084,
     "DescTextMapHash": 1954445541,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2603668543,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1
+  },
+  "82088": {
+    "TitleTextMapHash": 2218594436,
+    "DescTextMapHash": 1213042509,
+    "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1806272207,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1
+  },
+  "82089": {
+    "TitleTextMapHash": 140539748,
+    "DescTextMapHash": 3797275445,
+    "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 730344951,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1
+  },
+  "82090": {
+    "TitleTextMapHash": 941803276,
+    "DescTextMapHash": 613741581,
+    "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 622686751,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84000": {
     "TitleTextMapHash": 3552480844,
     "DescTextMapHash": 3065216325,
     "IsShow": "HIDE",
+    "Ps4GroupId": 1,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 3529273495,
+    "Ps4TrophyId": "16",
+    "Ps5TrophyId": "17",
     "Progress": 1
   },
   "84001": {
     "TitleTextMapHash": 3590550460,
     "DescTextMapHash": 3334935981,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3904490575,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84002": {
     "TitleTextMapHash": 4140738436,
     "DescTextMapHash": 2488340901,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1789081199,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84003": {
     "TitleTextMapHash": 963955764,
     "DescTextMapHash": 1981855621,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3742494351,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84004": {
     "TitleTextMapHash": 2344996148,
     "DescTextMapHash": 3114468093,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2471971055,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84005": {
     "TitleTextMapHash": 394144012,
     "DescTextMapHash": 2857171421,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3279928191,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84006": {
     "TitleTextMapHash": 1438338612,
     "DescTextMapHash": 2201748957,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2087297039,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84007": {
     "TitleTextMapHash": 1751183356,
     "DescTextMapHash": 67344749,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1146651767,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84008": {
     "TitleTextMapHash": 274471500,
     "DescTextMapHash": 3092930885,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3384573287,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84009": {
     "TitleTextMapHash": 2020322772,
     "DescTextMapHash": 1724949637,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4127511151,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84010": {
     "TitleTextMapHash": 3154925444,
     "DescTextMapHash": 74024885,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4185103079,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84011": {
     "TitleTextMapHash": 1407298716,
     "DescTextMapHash": 1938856797,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 41756359,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84012": {
     "TitleTextMapHash": 2445236564,
     "DescTextMapHash": 2548310765,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4184866311,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84013": {
     "TitleTextMapHash": 138736732,
     "DescTextMapHash": 402429221,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1846255247,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84014": {
     "TitleTextMapHash": 1878290580,
     "DescTextMapHash": 949349957,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3038226759,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84015": {
     "TitleTextMapHash": 3661190300,
     "DescTextMapHash": 2896633925,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3411916071,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84016": {
     "TitleTextMapHash": 3411447500,
     "DescTextMapHash": 3344556981,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 270175615,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84017": {
     "TitleTextMapHash": 393043844,
     "DescTextMapHash": 3612395709,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2436900551,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84018": {
     "TitleTextMapHash": 2113935852,
     "DescTextMapHash": 879678709,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 273283087,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84019": {
     "TitleTextMapHash": 3490814836,
     "DescTextMapHash": 1439406053,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 954867743,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84020": {
     "TitleTextMapHash": 2413729716,
     "DescTextMapHash": 2457740797,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4039872143,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84021": {
     "TitleTextMapHash": 383112796,
     "DescTextMapHash": 2155401285,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 933185415,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84022": {
     "TitleTextMapHash": 2481743556,
     "DescTextMapHash": 313029485,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 394596935,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84023": {
     "TitleTextMapHash": 137602676,
     "DescTextMapHash": 3917727941,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3722169959,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84024": {
     "TitleTextMapHash": 3775721068,
     "DescTextMapHash": 1902589821,
     "IsShow": "HIDE",
+    "Ps4GroupId": 2,
+    "Ps5GroupId": 1,
+    "Ps5TitleTextMapHash": 2238507879,
+    "Ps4TrophyId": "23",
+    "Ps5TrophyId": "24",
     "Progress": 1
   },
   "84025": {
     "TitleTextMapHash": 4008598052,
     "DescTextMapHash": 2145898669,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2054846807,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84026": {
     "TitleTextMapHash": 3581365316,
     "DescTextMapHash": 118328549,
-    "Progress": 1
+    "Ps5TitleTextMapHash": 1868884087,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84027": {
     "TitleTextMapHash": 946067892,
     "DescTextMapHash": 592084981,
+    "Ps5TitleTextMapHash": 4023935487,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -1456,208 +2496,385 @@
     "TitleTextMapHash": 3488312996,
     "DescTextMapHash": 1286174517,
     "IsShow": "HIDE",
-    "Progress": 1
+    "Ps5TitleTextMapHash": 3735503727,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84029": {
     "TitleTextMapHash": 50922004,
     "DescTextMapHash": 3654074853,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2500282231,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84030": {
     "TitleTextMapHash": 514482052,
     "DescTextMapHash": 2192721021,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 806840143,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84031": {
     "TitleTextMapHash": 269255372,
     "DescTextMapHash": 4048632541,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1118374159,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84032": {
     "TitleTextMapHash": 846611868,
     "DescTextMapHash": 3518128469,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 777078663,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84033": {
     "TitleTextMapHash": 2073652084,
     "DescTextMapHash": 3184188661,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4164266439,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84100": {
     "TitleTextMapHash": 620492212,
     "DescTextMapHash": 718294045,
     "IsShow": "HIDE",
-    "Progress": 1
+    "Ps5TitleTextMapHash": 3391056799,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84101": {
     "TitleTextMapHash": 2574479300,
     "DescTextMapHash": 4084809325,
     "IsShow": "HIDE",
-    "Progress": 1
+    "Ps5TitleTextMapHash": 2736790655,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84102": {
     "TitleTextMapHash": 3878953540,
     "DescTextMapHash": 805459381,
-    "Progress": 1
+    "Ps5TitleTextMapHash": 2335268839,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84103": {
     "TitleTextMapHash": 2670138900,
     "DescTextMapHash": 1300459685,
-    "Progress": 1
+    "Ps5TitleTextMapHash": 2110422447,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84104": {
     "TitleTextMapHash": 3825566668,
     "DescTextMapHash": 1266712341,
-    "Progress": 1
+    "Ps5TitleTextMapHash": 1006530327,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84105": {
     "TitleTextMapHash": 4024021980,
     "DescTextMapHash": 2017478853,
     "IsShow": "HIDE",
-    "Progress": 1
+    "Ps5TitleTextMapHash": 1306495511,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84106": {
     "TitleTextMapHash": 1716387836,
     "DescTextMapHash": 2297716781,
     "IsShow": "HIDE",
-    "Progress": 1
+    "Ps5TitleTextMapHash": 618056879,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84107": {
     "TitleTextMapHash": 1462054188,
     "DescTextMapHash": 2887831533,
     "IsShow": "HIDE",
-    "Progress": 1
+    "Ps5TitleTextMapHash": 1924265967,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84108": {
     "TitleTextMapHash": 1147342772,
     "DescTextMapHash": 1226586469,
     "IsShow": "HIDE",
-    "Progress": 1
+    "Ps5TitleTextMapHash": 3192589151,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84109": {
     "TitleTextMapHash": 1590794932,
     "DescTextMapHash": 4178831693,
     "IsShow": "HIDE",
-    "Progress": 1
+    "Ps5TitleTextMapHash": 2492189695,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
+  },
+  "84110": {
+    "TitleTextMapHash": 1614343396,
+    "DescTextMapHash": 3366164349,
+    "Ps5TitleTextMapHash": 1670667135,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
+  },
+  "84111": {
+    "TitleTextMapHash": 3990932060,
+    "DescTextMapHash": 2350633205,
+    "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 214348895,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
+  },
+  "84112": {
+    "TitleTextMapHash": 3636161188,
+    "DescTextMapHash": 602731821,
+    "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3770995671,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
+  },
+  "84113": {
+    "TitleTextMapHash": 1892186532,
+    "DescTextMapHash": 2774171101,
+    "Ps5TitleTextMapHash": 2833901151,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
+  },
+  "84114": {
+    "TitleTextMapHash": 543722700,
+    "DescTextMapHash": 766315437,
+    "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 393805007,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
+  },
+  "84115": {
+    "TitleTextMapHash": 2086823620,
+    "DescTextMapHash": 1871739381,
+    "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1748859351,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
+    "Progress": 1,
+    "CategoryId": 17
   },
   "84501": {
     "TitleTextMapHash": 1121354708,
     "DescTextMapHash": 3248889837,
+    "Ps5TitleTextMapHash": 1849533415,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 10
   },
   "84502": {
     "TitleTextMapHash": 1614534868,
     "DescTextMapHash": 717089037,
+    "Ps5TitleTextMapHash": 1712521063,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 10
   },
   "84503": {
     "TitleTextMapHash": 2747325300,
     "DescTextMapHash": 2366952037,
+    "Ps5TitleTextMapHash": 3772602831,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 11
   },
   "84504": {
     "TitleTextMapHash": 106874788,
     "DescTextMapHash": 2564065997,
+    "Ps5TitleTextMapHash": 2418993639,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 11
   },
   "84505": {
     "TitleTextMapHash": 1643299292,
     "DescTextMapHash": 1854241453,
+    "Ps5TitleTextMapHash": 1340570199,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 12
   },
   "84506": {
     "TitleTextMapHash": 820544380,
     "DescTextMapHash": 4129022117,
+    "Ps5TitleTextMapHash": 1724371295,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 12
   },
   "84507": {
     "TitleTextMapHash": 4058207908,
     "DescTextMapHash": 1759563061,
+    "Ps5TitleTextMapHash": 3159278687,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 12
   },
   "84508": {
     "TitleTextMapHash": 3864365996,
     "DescTextMapHash": 3339182573,
+    "Ps5TitleTextMapHash": 2164095383,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84509": {
     "TitleTextMapHash": 3712765428,
     "DescTextMapHash": 3267825941,
+    "Ps5TitleTextMapHash": 754677463,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84510": {
     "TitleTextMapHash": 2123075228,
     "DescTextMapHash": 1731023949,
+    "Ps5TitleTextMapHash": 3909511839,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84512": {
     "TitleTextMapHash": 1705820,
     "DescTextMapHash": 2772017725,
+    "Ps5TitleTextMapHash": 3541084119,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5
   },
   "84513": {
     "TitleTextMapHash": 367156900,
     "DescTextMapHash": 4274468821,
+    "Ps5TitleTextMapHash": 598626831,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84514": {
     "TitleTextMapHash": 2132495052,
     "DescTextMapHash": 696025957,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2292664679,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84515": {
     "TitleTextMapHash": 1500822476,
     "DescTextMapHash": 4246702389,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3866863415,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84516": {
     "TitleTextMapHash": 881310820,
     "DescTextMapHash": 1893109165,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 4027996991,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84517": {
     "TitleTextMapHash": 2149765316,
     "DescTextMapHash": 1026570861,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 509773431,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84518": {
     "TitleTextMapHash": 3208767444,
     "DescTextMapHash": 2619781325,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2423359231,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84519": {
     "TitleTextMapHash": 3000798484,
     "DescTextMapHash": 3752371893,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1720948247,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84520": {
     "TitleTextMapHash": 1650484508,
     "DescTextMapHash": 3425442165,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3074709383,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84521": {
     "TitleTextMapHash": 163821724,
     "DescTextMapHash": 1718739349,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3825645191,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "IsDisuse": true
   },
@@ -1665,83 +2882,125 @@
     "TitleTextMapHash": 1958636308,
     "DescTextMapHash": 2282981181,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3247366479,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84523": {
     "TitleTextMapHash": 3942032004,
     "DescTextMapHash": 1667851149,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1188379159,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84524": {
     "TitleTextMapHash": 3959328364,
     "DescTextMapHash": 2563341621,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1767915959,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84525": {
     "TitleTextMapHash": 993231812,
     "DescTextMapHash": 2082965325,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3624208519,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84526": {
     "TitleTextMapHash": 895536604,
     "DescTextMapHash": 3695008989,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3724302991,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "84527": {
     "TitleTextMapHash": 2442652996,
     "DescTextMapHash": 3357469901,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1867871727,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "85000": {
     "TitleTextMapHash": 453295668,
     "DescTextMapHash": 3263447285,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3994912967,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "85001": {
     "TitleTextMapHash": 4021179076,
     "DescTextMapHash": 1337865381,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 1853649959,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "85002": {
     "TitleTextMapHash": 2853389636,
     "DescTextMapHash": 3899077461,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2422843735,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "85003": {
     "TitleTextMapHash": 2118985108,
     "DescTextMapHash": 2816791725,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3276120679,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "85004": {
     "TitleTextMapHash": 2833915764,
     "DescTextMapHash": 3523985685,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 720531527,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "85005": {
     "TitleTextMapHash": 595273444,
     "DescTextMapHash": 2595199781,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 3196070791,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "85006": {
     "TitleTextMapHash": 954568884,
     "DescTextMapHash": 3485199605,
     "IsShow": "HIDE",
+    "Ps5TitleTextMapHash": 2240415063,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1
   },
   "86001": {
     "TitleTextMapHash": 3202871364,
     "DescTextMapHash": 1613578453,
+    "Ps5TitleTextMapHash": 2070268551,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 13
   },
@@ -1749,6 +3008,9 @@
     "PreStageAchievementId": 86001,
     "TitleTextMapHash": 3584088396,
     "DescTextMapHash": 3009445965,
+    "Ps5TitleTextMapHash": 624261271,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20,
     "CategoryId": 13
   },
@@ -1756,12 +3018,18 @@
     "PreStageAchievementId": 86002,
     "TitleTextMapHash": 610414644,
     "DescTextMapHash": 2470518317,
+    "Ps5TitleTextMapHash": 3072107375,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 100,
     "CategoryId": 13
   },
   "86004": {
     "TitleTextMapHash": 1896568516,
     "DescTextMapHash": 2421469741,
+    "Ps5TitleTextMapHash": 2587761175,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 5,
     "CategoryId": 13
   },
@@ -1769,6 +3037,9 @@
     "PreStageAchievementId": 86004,
     "TitleTextMapHash": 3761644724,
     "DescTextMapHash": 1812257957,
+    "Ps5TitleTextMapHash": 2541220175,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 20,
     "CategoryId": 13
   },
@@ -1776,48 +3047,72 @@
     "PreStageAchievementId": 86005,
     "TitleTextMapHash": 839096468,
     "DescTextMapHash": 676668213,
+    "Ps5TitleTextMapHash": 3867644159,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 50,
     "CategoryId": 13
   },
   "86007": {
     "TitleTextMapHash": 3264393588,
     "DescTextMapHash": 2973765525,
+    "Ps5TitleTextMapHash": 2026821191,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 13
   },
   "86008": {
     "TitleTextMapHash": 3369224292,
     "DescTextMapHash": 2392527669,
+    "Ps5TitleTextMapHash": 2676385215,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 13
   },
   "86009": {
     "TitleTextMapHash": 2472657740,
     "DescTextMapHash": 1019376917,
+    "Ps5TitleTextMapHash": 798415951,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 13
   },
   "86010": {
     "TitleTextMapHash": 3173094820,
     "DescTextMapHash": 431312413,
+    "Ps5TitleTextMapHash": 3659313743,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 13
   },
   "86011": {
     "TitleTextMapHash": 3810405300,
     "DescTextMapHash": 1372315141,
+    "Ps5TitleTextMapHash": 1667287663,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 13
   },
   "86012": {
     "TitleTextMapHash": 1267354892,
     "DescTextMapHash": 3403372797,
+    "Ps5TitleTextMapHash": 3061312983,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 13
   },
   "86013": {
     "TitleTextMapHash": 1655126284,
     "DescTextMapHash": 394113125,
+    "Ps5TitleTextMapHash": 79987279,
+    "Ps4TrophyId": "",
+    "Ps5TrophyId": "",
     "Progress": 1,
     "CategoryId": 13
   }

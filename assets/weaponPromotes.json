@@ -7531,6 +7531,164 @@
       ]
     }
   ],
+  "12503": [
+    {
+      "PromoteLevel": 1,
+      "CoinCost": 10000,
+      "AddProps": [
+        {
+          "PropType": 2334963823,
+          "Value": 31.100000381469727
+        }
+      ],
+      "UnlockMaxLevel": 40,
+      "RequiredPlayerLevel": 15,
+      "Materials": [
+        {
+          "Id": 114001,
+          "Count": 5
+        },
+        {
+          "Id": 112014,
+          "Count": 5
+        },
+        {
+          "Id": 112005,
+          "Count": 3
+        }
+      ]
+    },
+    {
+      "PromoteLevel": 2,
+      "CoinCost": 20000,
+      "AddProps": [
+        {
+          "PropType": 2334963823,
+          "Value": 62.20000076293945
+        }
+      ],
+      "UnlockMaxLevel": 50,
+      "RequiredPlayerLevel": 25,
+      "Materials": [
+        {
+          "Id": 114002,
+          "Count": 5
+        },
+        {
+          "Id": 112014,
+          "Count": 18
+        },
+        {
+          "Id": 112005,
+          "Count": 12
+        }
+      ]
+    },
+    {
+      "PromoteLevel": 3,
+      "CoinCost": 30000,
+      "AddProps": [
+        {
+          "PropType": 2334963823,
+          "Value": 93.4000015258789
+        }
+      ],
+      "UnlockMaxLevel": 60,
+      "RequiredPlayerLevel": 30,
+      "Materials": [
+        {
+          "Id": 114002,
+          "Count": 9
+        },
+        {
+          "Id": 112015,
+          "Count": 9
+        },
+        {
+          "Id": 112006,
+          "Count": 9
+        }
+      ]
+    },
+    {
+      "PromoteLevel": 4,
+      "CoinCost": 45000,
+      "AddProps": [
+        {
+          "PropType": 2334963823,
+          "Value": 124.5
+        }
+      ],
+      "UnlockMaxLevel": 70,
+      "RequiredPlayerLevel": 35,
+      "Materials": [
+        {
+          "Id": 114003,
+          "Count": 5
+        },
+        {
+          "Id": 112015,
+          "Count": 18
+        },
+        {
+          "Id": 112006,
+          "Count": 14
+        }
+      ]
+    },
+    {
+      "PromoteLevel": 5,
+      "CoinCost": 55000,
+      "AddProps": [
+        {
+          "PropType": 2334963823,
+          "Value": 155.60000610351562
+        }
+      ],
+      "UnlockMaxLevel": 80,
+      "RequiredPlayerLevel": 40,
+      "Materials": [
+        {
+          "Id": 114003,
+          "Count": 9
+        },
+        {
+          "Id": 112016,
+          "Count": 14
+        },
+        {
+          "Id": 112007,
+          "Count": 9
+        }
+      ]
+    },
+    {
+      "PromoteLevel": 6,
+      "CoinCost": 65000,
+      "AddProps": [
+        {
+          "PropType": 2334963823,
+          "Value": 186.6999969482422
+        }
+      ],
+      "UnlockMaxLevel": 90,
+      "RequiredPlayerLevel": 50,
+      "Materials": [
+        {
+          "Id": 114004,
+          "Count": 6
+        },
+        {
+          "Id": 112016,
+          "Count": 27
+        },
+        {
+          "Id": 112007,
+          "Count": 18
+        }
+      ]
+    }
+  ],
   "12504": [
     {
       "PromoteLevel": 1,
@@ -14919,7 +15077,7 @@
       "RequiredPlayerLevel": 15,
       "Materials": [
         {
-          "Id": 114001,
+          "Id": 114009,
           "Count": 5
         },
         {
@@ -14945,7 +15103,7 @@
       "RequiredPlayerLevel": 25,
       "Materials": [
         {
-          "Id": 114002,
+          "Id": 114010,
           "Count": 5
         },
         {
@@ -14971,7 +15129,7 @@
       "RequiredPlayerLevel": 30,
       "Materials": [
         {
-          "Id": 114002,
+          "Id": 114010,
           "Count": 9
         },
         {
@@ -14997,7 +15155,7 @@
       "RequiredPlayerLevel": 35,
       "Materials": [
         {
-          "Id": 114003,
+          "Id": 114011,
           "Count": 5
         },
         {
@@ -15023,7 +15181,7 @@
       "RequiredPlayerLevel": 40,
       "Materials": [
         {
-          "Id": 114003,
+          "Id": 114011,
           "Count": 9
         },
         {
@@ -15049,7 +15207,7 @@
       "RequiredPlayerLevel": 50,
       "Materials": [
         {
-          "Id": 114004,
+          "Id": 114012,
           "Count": 6
         },
         {

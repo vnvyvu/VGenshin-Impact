@@ -1,1311 +1,223 @@
 {
-  "Name": "Amber",
-  "Icon": "UI_AvatarIcon_Ambor",
-  "Image": "Amber",
-  "BodyType": "GIRL",
-  "WeaponType": "BOW",
-  "StaminaRecoverSpeed": 25,
-  "Description": "Cô gái luôn tràn đầy sinh lực, là Kỵ Sĩ Trinh Thám cuối cùng, ưu tú nhất của đội Kỵ Sĩ.",
-  "HpBase": 793.2581787109375,
-  "AttackBase": 18.698400497436523,
-  "DefenseBase": 50.358001708984375,
-  "Critical": 0.05000000074505806,
-  "CriticalHurt": 0.5,
-  "Rarity": 4,
-  "SkillsId": {
-    "EnergySkill": {
-      "NameTextMapHash": "Mưa Tên",
-      "DescTextMapHash": "Bắn ra cơn mưa tên lửa, duy trì gây __Sát Thương Phạm Vi Nguyên Tố Hỏa__.\n\n__Trái tim tràn đầy nhiệt huyết của Amber thật sự nóng bỏng.__",
-      "CdTime": 12,
-      "CostElemType": "Fire",
-      "CostElemVal": 40,
-      "MaxChargeNum": 1,
-      "ProudSkillGroupId": {
-        "ParamDescList": [
-          "Sát Thương 1 lần Mưa Tên|{param1:F1P}",
-          "Tổng Sát Thương Mưa Tên|{param4:P}",
-          "Thời Gian Kéo Dài|{param5:F1}s",
-          "CD|{param2:F1}s",
-          "Năng Lượng Nguyên Tố|{param3:I}"
-        ],
-        "Level": [
-          null,
-          {
-            "CostItems": [],
-            "ParamList": [
-              0.2808000147342682,
-              12,
-              40,
-              5.0543999671936035,
-              2
-            ]
-          },
-          {
-            "CoinCost": 12500,
-            "CostItems": [
-              {
-                "Id": 104301,
-                "Count": 3
-              },
-              {
-                "Id": 112011,
-                "Count": 6
-              }
-            ],
-            "BreakLevel": 2,
-            "ParamList": [
-              0.3018600046634674,
-              12,
-              40,
-              5.4334797859191895,
-              2
-            ]
-          },
-          {
-            "CoinCost": 17500,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 2
-              },
-              {
-                "Id": 112012,
-                "Count": 3
-              }
-            ],
-            "BreakLevel": 3,
-            "ParamList": [
-              0.3229199945926666,
-              12,
-              40,
-              5.812560081481934,
-              2
-            ]
-          },
-          {
-            "CoinCost": 25000,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 4
-              },
-              {
-                "Id": 112012,
-                "Count": 4
-              }
-            ],
-            "BreakLevel": 3,
-            "ParamList": [
-              0.35100001096725464,
-              12,
-              40,
-              6.317999839782715,
-              2
-            ]
-          },
-          {
-            "CoinCost": 30000,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 6
-              },
-              {
-                "Id": 112012,
-                "Count": 6
-              }
-            ],
-            "BreakLevel": 4,
-            "ParamList": [
-              0.37206000089645386,
-              12,
-              40,
-              6.697080135345459,
-              2
-            ]
-          },
-          {
-            "CoinCost": 37500,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 9
-              },
-              {
-                "Id": 112012,
-                "Count": 9
-              }
-            ],
-            "BreakLevel": 4,
-            "ParamList": [
-              0.3931199908256531,
-              12,
-              40,
-              7.076159954071045,
-              2
-            ]
-          },
-          {
-            "CoinCost": 120000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 4
-              },
-              {
-                "Id": 112013,
-                "Count": 4
-              },
-              {
-                "Id": 113005,
-                "Count": 1
-              }
-            ],
-            "BreakLevel": 5,
-            "ParamList": [
-              0.4212000072002411,
-              12,
-              40,
-              7.581600189208984,
-              2
-            ]
-          },
-          {
-            "CoinCost": 260000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 6
-              },
-              {
-                "Id": 112013,
-                "Count": 6
-              },
-              {
-                "Id": 113005,
-                "Count": 1
-              }
-            ],
-            "BreakLevel": 5,
-            "ParamList": [
-              0.4492799937725067,
-              12,
-              40,
-              8.087039947509766,
-              2
-            ]
-          },
-          {
-            "CoinCost": 450000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 12
-              },
-              {
-                "Id": 112013,
-                "Count": 9
-              },
-              {
-                "Id": 113005,
-                "Count": 2
-              }
-            ],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.4773600101470947,
-              12,
-              40,
-              8.592479705810547,
-              2
-            ]
-          },
-          {
-            "CoinCost": 700000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 16
-              },
-              {
-                "Id": 112013,
-                "Count": 12
-              },
-              {
-                "Id": 113005,
-                "Count": 2
-              },
-              {
-                "Id": 104319,
-                "Count": 1
-              }
-            ],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.5054399967193604,
-              12,
-              40,
-              9.097920417785645,
-              2
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.533519983291626,
-              12,
-              40,
-              9.603360176086426,
-              2
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.5616000294685364,
-              12,
-              40,
-              10.108799934387207,
-              2
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.5967000126838684,
-              12,
-              40,
-              10.740599632263184,
-              2
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.6317999958992004,
-              12,
-              40,
-              11.372400283813477,
-              2
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.6668999791145325,
-              12,
-              40,
-              12.004199981689453,
-              2
-            ]
-          }
-        ]
-      },
-      "Icon": "Skill_E_Ambor"
+  "WeaponType": "WEAPON_SWORD_ONE_HAND",
+  "RankLevel": 3,
+  "WeaponBaseExp": 1800,
+  "WeaponProp": [
+    {
+      "PropType": "Base ATK",
+      "InitValue": 38.74129867553711,
+      "Type": "GROW_CURVE_ATTACK_101"
     },
-    "Talents": [
-      {
-        "NameTextMapHash": "Bắn Một Được Hai Hilichurl!",
-        "DescTextMapHash": "Khi __ngắm bắn__, sẽ bắn ra 2 mũi tên liên tiếp. Mũi tên thứ hai tạo ra 20% sát thương so với sát thương gốc.",
-        "Icon": "UI_Talent_S_Ambor_01",
-        "OpenConfig": "Ambor_Talent_212",
-        "AddProps": [],
-        "MaterialId": 1121
-      },
-      {
-        "NameTextMapHash": "Thỏ Xông Lên",
-        "DescTextMapHash": "Bá Tước Thỏ bản cải tiến! Khi hoàn thành tụ lực ngắm bắn trúng chân Bá Tước Thỏ, sẽ gây nổ ngay.\nChủ động làm nổ Bá Tước Thỏ, sẽ gây thêm 200% sát thương.",
-        "Icon": "UI_Talent_S_Ambor_02",
-        "OpenConfig": "Ambor_Talent_213",
-        "AddProps": [],
-        "MaterialId": 1121
-      },
-      {
-        "NameTextMapHash": "Cháy Lên Nào!",
-        "DescTextMapHash": "Cấp kỹ năng __Mưa Tên__ +3.\nTăng nhiều nhất đến cấp 15.",
-        "Icon": "UI_Talent_U_Ambor_02",
-        "OpenConfig": "Ambor_Talent_E_Levelup",
-        "AddProps": [],
-        "MaterialId": 1121
-      },
-      {
-        "NameTextMapHash": "Không Phải Con Rối Thường",
-        "DescTextMapHash": "CD của __Con Rối Nổ__ giảm 20%, và tăng thêm 1 lần sử dụng.",
-        "Icon": "UI_Talent_S_Ambor_03",
-        "OpenConfig": "Ambor_Talent_211",
-        "AddProps": [],
-        "MaterialId": 1121
-      },
-      {
-        "NameTextMapHash": "Là Bá Tước Thỏ!",
-        "DescTextMapHash": "Cấp kỹ năng __Con Rối Nổ__ +3.\nTăng nhiều nhất đến cấp 15.",
-        "Icon": "UI_Talent_U_Ambor_01",
-        "OpenConfig": "Ambor_Talent_S_Levelup",
-        "AddProps": [],
-        "MaterialId": 1121
-      },
-      {
-        "NameTextMapHash": "Nhanh Như Lửa",
-        "DescTextMapHash": "Sau khi sử dụng __Mưa Tên__, 10s tiếp theo tăng 15% tốc độ di chuyển của tất cả thành viên trong đội, tấn công tăng 15%.",
-        "Icon": "UI_Talent_S_Ambor_04",
-        "OpenConfig": "Ambor_Talent_216",
-        "AddProps": [],
-        "MaterialId": 1121
-      }
-    ],
-    "InherentProudSkillOpens": [
-      {
-        "NameTextMapHash": "Bách Phát Bách Trúng!",
-        "DescTextMapHash": "Tỷ lệ bạo kích __Mưa Tên__ tăng 10%, phạm vi ảnh hưởng tăng 30%.",
-        "Icon": "UI_Talent_S_Ambor_05"
-      },
-      {
-        "NameTextMapHash": "Bắn Áp Chế",
-        "DescTextMapHash": "Khi ngắm bắn trúng nhược điểm, tấn công tăng 15%, kéo dài 10s.",
-        "Icon": "UI_Talent_S_Ambor_06"
-      },
-      {
-        "NameTextMapHash": "Quán Quân Bay Lượn",
-        "DescTextMapHash": "Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn.\nĐối với buff Thiên Phú cố định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn.",
-        "Icon": "UI_Talent_Explosion_Glide"
-      }
-    ],
-    "NormalSkill": {
-      "NameTextMapHash": "Tấn Công Thường: Xạ Thủ Thần",
-      "DescTextMapHash": "__Tấn Công Thường__\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n__Trọng Kích__\nSát thương càng cao, __ngắm bắn__ càng chuẩn.\nKhi ngắm bắn, ngọn lửa sẽ tích tụ trên mũi tên. Mũi tên đầy lửa sẽ gây __Sát Thương Nguyên Tố Hỏa__.\n\n__Tấn Công Khi Đáp__\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
-      "IsRanged": true,
-      "MaxChargeNum": 1,
-      "ProudSkillGroupId": {
-        "ParamDescList": [
-          "Sát Thương Lần 1|{param1:F1P}",
-          "Sát Thương Lần 2|{param2:F1P}",
-          "Sát Thương Lần 3|{param3:F1P}",
-          "Sát Thương Lần 4|{param4:F1P}",
-          "Sát Thương Lần 5|{param5:F1P}",
-          "Ngắm Bắn|{param6:F1P}",
-          "Tụ Lực Ngắm Bắn|{param7:P}",
-          "Sát Thương Khi Rơi|{param8:F1P}",
-          "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao|{param9:P}/{param10:P}"
-        ],
-        "Level": [
-          null,
-          {
-            "CostItems": [],
-            "ParamList": [
-              0.3612000048160553,
-              0.3612000048160553,
-              0.4643999934196472,
-              0.4729999899864197,
-              0.5934000015258789,
-              0.43860000371932983,
-              1.2400000095367432,
-              0.5682880282402039,
-              1.136335015296936,
-              1.4193439483642578
-            ]
-          },
-          {
-            "CoinCost": 12500,
-            "CostItems": [
-              {
-                "Id": 104301,
-                "Count": 3
-              },
-              {
-                "Id": 112011,
-                "Count": 6
-              }
-            ],
-            "BreakLevel": 2,
-            "ParamList": [
-              0.3905999958515167,
-              0.3905999958515167,
-              0.5022000074386597,
-              0.5115000009536743,
-              0.641700029373169,
-              0.47429999709129333,
-              1.3329999446868896,
-              0.6145439743995667,
-              1.228827953338623,
-              1.534872055053711
-            ]
-          },
-          {
-            "CoinCost": 17500,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 2
-              },
-              {
-                "Id": 112012,
-                "Count": 3
-              }
-            ],
-            "BreakLevel": 3,
-            "ParamList": [
-              0.41999998688697815,
-              0.41999998688697815,
-              0.5400000214576721,
-              0.550000011920929,
-              0.6899999976158142,
-              0.5099999904632568,
-              1.4259999990463257,
-              0.6607999801635742,
-              1.3213200569152832,
-              1.6504000425338745
-            ]
-          },
-          {
-            "CoinCost": 25000,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 4
-              },
-              {
-                "Id": 112012,
-                "Count": 4
-              }
-            ],
-            "BreakLevel": 3,
-            "ParamList": [
-              0.4620000123977661,
-              0.4620000123977661,
-              0.593999981880188,
-              0.6050000190734863,
-              0.7590000033378601,
-              0.5609999895095825,
-              1.5499999523162842,
-              0.7268800139427185,
-              1.4534519910812378,
-              1.815440058708191
-            ]
-          },
-          {
-            "CoinCost": 30000,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 6
-              },
-              {
-                "Id": 112012,
-                "Count": 6
-              }
-            ],
-            "BreakLevel": 4,
-            "ParamList": [
-              0.49140000343322754,
-              0.49140000343322754,
-              0.6317999958992004,
-              0.6434999704360962,
-              0.8072999715805054,
-              0.5967000126838684,
-              1.6430000066757202,
-              0.7731360197067261,
-              1.5459439754486084,
-              1.9309680461883545
-            ]
-          },
-          {
-            "CoinCost": 37500,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 9
-              },
-              {
-                "Id": 112012,
-                "Count": 9
-              }
-            ],
-            "BreakLevel": 4,
-            "ParamList": [
-              0.5249999761581421,
-              0.5249999761581421,
-              0.675000011920929,
-              0.6875,
-              0.862500011920929,
-              0.637499988079071,
-              1.7359999418258667,
-              0.8259999752044678,
-              1.6516499519348145,
-              2.062999963760376
-            ]
-          },
-          {
-            "CoinCost": 120000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 4
-              },
-              {
-                "Id": 112013,
-                "Count": 4
-              },
-              {
-                "Id": 113005,
-                "Count": 1
-              }
-            ],
-            "BreakLevel": 5,
-            "ParamList": [
-              0.5712000131607056,
-              0.5712000131607056,
-              0.7343999743461609,
-              0.7480000257492065,
-              0.9383999705314636,
-              0.6935999989509583,
-              1.8600000143051147,
-              0.898688018321991,
-              1.7969950437545776,
-              2.24454402923584
-            ]
-          },
-          {
-            "CoinCost": 260000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 6
-              },
-              {
-                "Id": 112013,
-                "Count": 6
-              },
-              {
-                "Id": 113005,
-                "Count": 1
-              }
-            ],
-            "BreakLevel": 5,
-            "ParamList": [
-              0.6173999905586243,
-              0.6173999905586243,
-              0.7937999963760376,
-              0.8084999918937683,
-              1.014299988746643,
-              0.7497000098228455,
-              1.9839999675750732,
-              0.9713760018348694,
-              1.9423400163650513,
-              2.4260880947113037
-            ]
-          },
-          {
-            "CoinCost": 450000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 12
-              },
-              {
-                "Id": 112013,
-                "Count": 9
-              },
-              {
-                "Id": 113005,
-                "Count": 2
-              }
-            ],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.6636000275611877,
-              0.6636000275611877,
-              0.8532000184059143,
-              0.8690000176429749,
-              1.0901999473571777,
-              0.8058000206947327,
-              2.1080000400543213,
-              1.0440640449523926,
-              2.087686061859131,
-              2.6076319217681885
-            ]
-          },
-          {
-            "CoinCost": 700000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 16
-              },
-              {
-                "Id": 112013,
-                "Count": 12
-              },
-              {
-                "Id": 113005,
-                "Count": 2
-              },
-              {
-                "Id": 104319,
-                "Count": 1
-              }
-            ],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.7139999866485596,
-              0.7139999866485596,
-              0.9179999828338623,
-              0.9350000023841858,
-              1.1729999780654907,
-              0.8669999837875366,
-              2.2320001125335693,
-              1.12336003780365,
-              2.246243953704834,
-              2.8056800365448
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.7644000053405762,
-              0.7644000053405762,
-              0.9828000068664551,
-              1.0010000467300415,
-              1.2558000087738037,
-              0.9282000064849854,
-              2.3559999465942383,
-              1.2026560306549072,
-              2.404802083969116,
-              3.003727912902832
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.8148000240325928,
-              0.8148000240325928,
-              1.0476000308990479,
-              1.0670000314712524,
-              1.3386000394821167,
-              0.9894000291824341,
-              2.4800000190734863,
-              1.2819520235061646,
-              2.5633609294891357,
-              3.2017760276794434
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.8651999831199646,
-              0.8651999831199646,
-              1.1124000549316406,
-              1.1330000162124634,
-              1.4213999509811401,
-              1.0506000518798828,
-              2.634999990463257,
-              1.3612480163574219,
-              2.721919059753418,
-              3.3998239040374756
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.9156000018119812,
-              0.9156000018119812,
-              1.1771999597549438,
-              1.1990000009536743,
-              1.5041999816894531,
-              1.111799955368042,
-              2.7899999618530273,
-              1.4405440092086792,
-              2.8804779052734375,
-              3.597872018814087
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.9660000205039978,
-              0.9660000205039978,
-              1.2419999837875366,
-              1.2649999856948853,
-              1.5870000123977661,
-              1.1729999780654907,
-              2.944999933242798,
-              1.5198400020599365,
-              3.0390360355377197,
-              3.795919895172119
-            ]
-          }
-        ]
-      },
-      "Icon": "Skill_A_02"
-    },
-    "ElementSkill": {
-      "NameTextMapHash": "Con Rối Nổ",
-      "DescTextMapHash": "Mời Bá Tước Thỏ ra trận.\n\n__Bá Tước Thỏ__\n·Khiêu khích địch xung quanh, thu hút hỏa lực;\n·Độ bền sẽ kế thừa giới hạn HP của Amber theo tỷ lệ nhất định;\n·Nếu bị hủy diệt hoặc hết thời gian, Bá Tước Thỏ sẽ nổ, gây __Sát Thương Phạm Vi Nguyên Tố Hỏa__.\n\n__Nhấn Giữ__\nĐiều chỉnh hướng ném.\nKhoảng cách ném sẽ tăng theo thời gian nhấn giữ.\n\n__Bá tước thỏ có dòng dõi lâu đời. Nhưng bắt đầu từ đời thỏ thứ 893, Amber đã ngừng tính số.__",
-      "CdTime": 15,
-      "MaxChargeNum": 1,
-      "DragType": "DRAG_ROTATE_CHARACTER",
-      "ProudSkillGroupId": {
-        "ParamDescList": [
-          "HP Kế Thừa|{param1:F1P}",
-          "Sát Thương Nổ|{param2:P}",
-          "CD|{param4:F1}s"
-        ],
-        "Level": [
-          null,
-          {
-            "CostItems": [],
-            "ParamList": [
-              0.41359999775886536,
-              1.2319999933242798,
-              -0.5863999724388123,
-              15
-            ]
-          },
-          {
-            "CoinCost": 12500,
-            "CostItems": [
-              {
-                "Id": 104301,
-                "Count": 3
-              },
-              {
-                "Id": 112011,
-                "Count": 6
-              }
-            ],
-            "BreakLevel": 2,
-            "ParamList": [
-              0.4446200132369995,
-              1.3243999481201172,
-              -0.5553799867630005,
-              15
-            ]
-          },
-          {
-            "CoinCost": 17500,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 2
-              },
-              {
-                "Id": 112012,
-                "Count": 3
-              }
-            ],
-            "BreakLevel": 3,
-            "ParamList": [
-              0.4756399989128113,
-              1.4168000221252441,
-              -0.5243600010871887,
-              15
-            ]
-          },
-          {
-            "CoinCost": 25000,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 4
-              },
-              {
-                "Id": 112012,
-                "Count": 4
-              }
-            ],
-            "BreakLevel": 3,
-            "ParamList": [
-              0.5170000195503235,
-              1.5399999618530273,
-              -0.4830000102519989,
-              15
-            ]
-          },
-          {
-            "CoinCost": 30000,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 6
-              },
-              {
-                "Id": 112012,
-                "Count": 6
-              }
-            ],
-            "BreakLevel": 4,
-            "ParamList": [
-              0.5480200052261353,
-              1.6324000358581543,
-              -0.45197999477386475,
-              15
-            ]
-          },
-          {
-            "CoinCost": 37500,
-            "CostItems": [
-              {
-                "Id": 104302,
-                "Count": 9
-              },
-              {
-                "Id": 112012,
-                "Count": 9
-              }
-            ],
-            "BreakLevel": 4,
-            "ParamList": [
-              0.579039990901947,
-              1.7247999906539917,
-              -0.420960009098053,
-              15
-            ]
-          },
-          {
-            "CoinCost": 120000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 4
-              },
-              {
-                "Id": 112013,
-                "Count": 4
-              },
-              {
-                "Id": 113005,
-                "Count": 1
-              }
-            ],
-            "BreakLevel": 5,
-            "ParamList": [
-              0.6204000115394592,
-              1.8480000495910645,
-              -0.37959998846054077,
-              15
-            ]
-          },
-          {
-            "CoinCost": 260000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 6
-              },
-              {
-                "Id": 112013,
-                "Count": 6
-              },
-              {
-                "Id": 113005,
-                "Count": 1
-              }
-            ],
-            "BreakLevel": 5,
-            "ParamList": [
-              0.6617599725723267,
-              1.9711999893188477,
-              -0.33823999762535095,
-              15
-            ]
-          },
-          {
-            "CoinCost": 450000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 12
-              },
-              {
-                "Id": 112013,
-                "Count": 9
-              },
-              {
-                "Id": 113005,
-                "Count": 2
-              }
-            ],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.7031199932098389,
-              2.094399929046631,
-              -0.29688000679016113,
-              15
-            ]
-          },
-          {
-            "CoinCost": 700000,
-            "CostItems": [
-              {
-                "Id": 104303,
-                "Count": 16
-              },
-              {
-                "Id": 112013,
-                "Count": 12
-              },
-              {
-                "Id": 113005,
-                "Count": 2
-              },
-              {
-                "Id": 104319,
-                "Count": 1
-              }
-            ],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.7444800138473511,
-              2.217600107192993,
-              -0.2555199861526489,
-              15
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.7858399748802185,
-              2.3408000469207764,
-              -0.2141599953174591,
-              15
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.8271999955177307,
-              2.4639999866485596,
-              -0.1728000044822693,
-              15
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.8788999915122986,
-              2.618000030517578,
-              -0.12110000103712082,
-              15
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.9305999875068665,
-              2.7720000743865967,
-              -0.06939999759197235,
-              15
-            ]
-          },
-          {
-            "CostItems": [],
-            "BreakLevel": 6,
-            "ParamList": [
-              0.9822999835014343,
-              2.9260001182556152,
-              -0.01769999973475933,
-              15
-            ]
-          }
-        ]
-      },
-      "Icon": "Skill_S_Ambor_01"
+    {
+      "PropType": "CRIT DMG",
+      "InitValue": 0.10199999809265137,
+      "Type": "GROW_CURVE_CRITICAL_101"
     }
-  },
-  "AvatarPromoteId": {
+  ],
+  "WeaponPromoteId": {
     "0": {
-      "UnlockMaxLevel": 20,
+      "PromoteLevel": 1,
+      "CoinCost": 5000,
       "AddProps": [
         {
-          "PropType": "HP Căn Bản"
-        },
-        {
-          "PropType": "P.Ngự Căn Bản"
-        },
-        {
-          "PropType": "Tấn Công Căn Bản"
-        },
-        {
-          "PropType": "Tấn Công"
+          "PropType": "Base ATK",
+          "Value": 19.5
         }
       ],
-      "Materials": [
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    "1": {
-      "ScoinCost": 20000,
       "UnlockMaxLevel": 40,
-      "AddProps": [
-        {
-          "PropType": "HP Căn Bản",
-          "Value": 592.6044921875
-        },
-        {
-          "PropType": "P.Ngự Căn Bản",
-          "Value": 37.619998931884766
-        },
-        {
-          "PropType": "Tấn Công Căn Bản",
-          "Value": 13.968990325927734
-        },
-        {
-          "PropType": "Tấn Công"
-        }
-      ],
       "RequiredPlayerLevel": 15,
       "Materials": [
         {
-          "Id": 104111,
+          "Id": 114005,
+          "Count": 2
+        },
+        {
+          "Id": 112020,
+          "Count": 2
+        },
+        {
+          "Id": 112002,
           "Count": 1
-        },
-        {},
+        }
+      ]
+    },
+    "1": {
+      "PromoteLevel": 2,
+      "CoinCost": 10000,
+      "AddProps": [
         {
-          "Id": 100055,
-          "Count": 3
+          "PropType": "Base ATK",
+          "Value": 38.900001525878906
+        }
+      ],
+      "UnlockMaxLevel": 50,
+      "RequiredPlayerLevel": 25,
+      "Materials": [
+        {
+          "Id": 114006,
+          "Count": 2
         },
         {
-          "Id": 112011,
-          "Count": 3
+          "Id": 112020,
+          "Count": 8
+        },
+        {
+          "Id": 112002,
+          "Count": 5
         }
       ]
     },
     "2": {
-      "ScoinCost": 40000,
-      "UnlockMaxLevel": 50,
+      "PromoteLevel": 3,
+      "CoinCost": 15000,
       "AddProps": [
         {
-          "PropType": "HP Căn Bản",
-          "Value": 1013.66552734375
-        },
-        {
-          "PropType": "P.Ngự Căn Bản",
-          "Value": 64.3499984741211
-        },
-        {
-          "PropType": "Tấn Công Căn Bản",
-          "Value": 23.894325256347656
-        },
-        {
-          "PropType": "Tấn Công",
-          "Value": 0.05999999865889549
+          "PropType": "Base ATK",
+          "Value": 58.400001525878906
         }
       ],
-      "RequiredPlayerLevel": 25,
+      "UnlockMaxLevel": 60,
+      "RequiredPlayerLevel": 30,
       "Materials": [
         {
-          "Id": 104112,
-          "Count": 3
+          "Id": 114006,
+          "Count": 4
         },
         {
-          "Id": 113011,
-          "Count": 2
+          "Id": 112021,
+          "Count": 4
         },
         {
-          "Id": 100055,
-          "Count": 10
-        },
-        {
-          "Id": 112011,
-          "Count": 15
+          "Id": 112003,
+          "Count": 4
         }
       ]
     },
     "3": {
-      "ScoinCost": 60000,
-      "UnlockMaxLevel": 60,
+      "PromoteLevel": 4,
+      "CoinCost": 20000,
       "AddProps": [
         {
-          "PropType": "HP Căn Bản",
-          "Value": 1575.080322265625
-        },
-        {
-          "PropType": "P.Ngự Căn Bản",
-          "Value": 99.98999786376953
-        },
-        {
-          "PropType": "Tấn Công Căn Bản",
-          "Value": 37.12810516357422
-        },
-        {
-          "PropType": "Tấn Công",
-          "Value": 0.11999999731779099
+          "PropType": "Base ATK",
+          "Value": 77.80000305175781
         }
       ],
-      "RequiredPlayerLevel": 30,
+      "UnlockMaxLevel": 70,
+      "RequiredPlayerLevel": 35,
       "Materials": [
         {
-          "Id": 104112,
+          "Id": 114007,
+          "Count": 2
+        },
+        {
+          "Id": 112021,
+          "Count": 8
+        },
+        {
+          "Id": 112003,
           "Count": 6
-        },
-        {
-          "Id": 113011,
-          "Count": 4
-        },
-        {
-          "Id": 100055,
-          "Count": 20
-        },
-        {
-          "Id": 112012,
-          "Count": 12
         }
       ]
     },
     "4": {
-      "ScoinCost": 80000,
-      "UnlockMaxLevel": 70,
+      "PromoteLevel": 5,
+      "CoinCost": 25000,
       "AddProps": [
         {
-          "PropType": "HP Căn Bản",
-          "Value": 1996.141357421875
-        },
-        {
-          "PropType": "P.Ngự Căn Bản",
-          "Value": 126.72000122070312
-        },
-        {
-          "PropType": "Tấn Công Căn Bản",
-          "Value": 47.05344009399414
-        },
-        {
-          "PropType": "Tấn Công",
-          "Value": 0.11999999731779099
+          "PropType": "Base ATK",
+          "Value": 97.30000305175781
         }
       ],
-      "RequiredPlayerLevel": 35,
+      "UnlockMaxLevel": 80,
+      "RequiredPlayerLevel": 40,
       "Materials": [
         {
-          "Id": 104113,
-          "Count": 3
+          "Id": 114007,
+          "Count": 4
         },
         {
-          "Id": 113011,
-          "Count": 8
+          "Id": 112022,
+          "Count": 6
         },
         {
-          "Id": 100055,
-          "Count": 30
-        },
-        {
-          "Id": 112012,
-          "Count": 18
+          "Id": 112004,
+          "Count": 4
         }
       ]
     },
     "5": {
-      "ScoinCost": 100000,
-      "UnlockMaxLevel": 80,
+      "PromoteLevel": 6,
+      "CoinCost": 30000,
       "AddProps": [
         {
-          "PropType": "HP Căn Bản",
-          "Value": 2417.202392578125
-        },
-        {
-          "PropType": "P.Ngự Căn Bản",
-          "Value": 153.4499969482422
-        },
-        {
-          "PropType": "Tấn Công Căn Bản",
-          "Value": 56.97877502441406
-        },
-        {
-          "PropType": "Tấn Công",
-          "Value": 0.18000000715255737
+          "PropType": "Base ATK",
+          "Value": 116.69999694824219
         }
       ],
-      "RequiredPlayerLevel": 40,
-      "Materials": [
-        {
-          "Id": 104113,
-          "Count": 6
-        },
-        {
-          "Id": 113011,
-          "Count": 12
-        },
-        {
-          "Id": 100055,
-          "Count": 45
-        },
-        {
-          "Id": 112013,
-          "Count": 12
-        }
-      ]
-    },
-    "6": {
-      "ScoinCost": 120000,
       "UnlockMaxLevel": 90,
-      "AddProps": [
-        {
-          "PropType": "HP Căn Bản",
-          "Value": 2838.263427734375
-        },
-        {
-          "PropType": "P.Ngự Căn Bản",
-          "Value": 180.17999267578125
-        },
-        {
-          "PropType": "Tấn Công Căn Bản",
-          "Value": 66.90411376953125
-        },
-        {
-          "PropType": "Tấn Công",
-          "Value": 0.23999999463558197
-        }
-      ],
       "RequiredPlayerLevel": 50,
       "Materials": [
         {
-          "Id": 104114,
-          "Count": 6
+          "Id": 114008,
+          "Count": 3
         },
         {
-          "Id": 113011,
-          "Count": 20
+          "Id": 112022,
+          "Count": 12
         },
         {
-          "Id": 100055,
-          "Count": 60
-        },
-        {
-          "Id": 112013,
-          "Count": 24
+          "Id": 112004,
+          "Count": 8
         }
       ]
     }
   },
-  "AvatarInfoId": {
-    "InfoBirthMonth": 8,
-    "InfoBirthDay": 10,
-    "AvatarNativeTextMapHash": "Đội Kỵ Sĩ Tây Phong",
-    "AvatarVisionBeforTextMapHash": "Hỏa",
-    "AvatarConstellationBeforTextMapHash": "Tiểu Thố",
-    "AvatarTitleTextMapHash": "Quán Quân Bay Lượn",
-    "AvatarDetailTextMapHash": "Cô gái luôn tràn đầy sinh lực, là Kỵ Sĩ Trinh Thám cuối cùng, ưu tú nhất của đội Kỵ Sĩ.",
-    "AvatarAssocType": "ASSOC_TYPE_MONDSTADT",
-    "CvChineseTextMapHash": "蔡书瑾",
-    "CvJapaneseTextMapHash": "石見舞菜香",
-    "CvEnglishTextMapHash": "Kelly Baskin",
-    "CvKoreanTextMapHash": "김연우",
-    "AvatarVisionAfterTextMapHash": "",
-    "AvatarConstellationAfterTextMapHash": ""
+  "NameTextMapHash": "Harbinger of Dawn",
+  "DescTextMapHash": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
+  "Icon": "UI_EquipIcon_Sword_Dawn",
+  "Affix": [
+    {
+      "1113020": {
+        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __14%__.",
+        "AddProps": []
+      },
+      "1113021": {
+        "Level": 1,
+        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __17.5%__.",
+        "AddProps": []
+      },
+      "1113022": {
+        "Level": 2,
+        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __21%__.",
+        "AddProps": []
+      },
+      "1113023": {
+        "Level": 3,
+        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __24.5%__.",
+        "AddProps": []
+      },
+      "1113024": {
+        "Level": 4,
+        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __28%__.",
+        "AddProps": []
+      },
+      "Name": "Vigorous"
+    },
+    {}
+  ],
+  "Story": {
+    "ScPath": "/Readable/CHS/Weapon11302.txt",
+    "TcPath": "/Readable/CHT/Weapon11302_CHT.txt",
+    "EnPath": "/Readable/EN/Weapon11302_EN.txt",
+    "KrPath": "/Readable/KR/Weapon11302_KR.txt",
+    "JpPath": "/Readable/JP/Weapon11302_JP.txt",
+    "EsPath": "/Readable/ES/Weapon11302_ES.txt",
+    "FrPath": "/Readable/FR/Weapon11302_FR.txt",
+    "IdPath": "/Readable/ID/Weapon11302_ID.txt",
+    "PtPath": "/Readable/PT/Weapon11302_PT.txt",
+    "RuPath": "/Readable/RU/Weapon11302_RU.txt",
+    "ThPath": "/Readable/TH/Weapon11302_TH.txt",
+    "ViPath": "/Readable/VI/Weapon11302_VI.txt",
+    "DePath": "/Readable/DE/Weapon11302_DE.txt"
   }
 }

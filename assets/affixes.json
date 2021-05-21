@@ -1293,27 +1293,52 @@
   "112503": {
     "1125030": {
       "DescTextMapHash": 3115311665,
-      "AddProps": []
+      "AddProps": [
+        {
+          "PropType": 4097315912,
+          "Value": 0.1599999964237213
+        }
+      ]
     },
     "1125031": {
       "Level": 1,
       "DescTextMapHash": 504603569,
-      "AddProps": []
+      "AddProps": [
+        {
+          "PropType": 4097315912,
+          "Value": 0.20000000298023224
+        }
+      ]
     },
     "1125032": {
       "Level": 2,
       "DescTextMapHash": 269545409,
-      "AddProps": []
+      "AddProps": [
+        {
+          "PropType": 4097315912,
+          "Value": 0.23999999463558197
+        }
+      ]
     },
     "1125033": {
       "Level": 3,
       "DescTextMapHash": 2443211145,
-      "AddProps": []
+      "AddProps": [
+        {
+          "PropType": 4097315912,
+          "Value": 0.2800000011920929
+        }
+      ]
     },
     "1125034": {
       "Level": 4,
       "DescTextMapHash": 3899169753,
-      "AddProps": []
+      "AddProps": [
+        {
+          "PropType": 4097315912,
+          "Value": 0.3199999928474426
+        }
+      ]
     },
     "Name": 7925115
   },
@@ -3891,5 +3916,39 @@
       "AddProps": []
     },
     "Name": 3639055403
+  },
+  "215017": {
+    "2150170": {
+      "DescTextMapHash": 417927761,
+      "AddProps": [
+        {
+          "PropType": 2404061249,
+          "Value": 0.20000000298023224
+        }
+      ]
+    },
+    "2150171": {
+      "Level": 1,
+      "DescTextMapHash": 2524947961,
+      "AddProps": []
+    },
+    "Name": 4007102419
+  },
+  "215018": {
+    "2150180": {
+      "DescTextMapHash": 2678953001,
+      "AddProps": [
+        {
+          "PropType": 3763864883,
+          "Value": 0.25
+        }
+      ]
+    },
+    "2150181": {
+      "Level": 1,
+      "DescTextMapHash": 1972611657,
+      "AddProps": []
+    },
+    "Name": 2704460819
   }
 }

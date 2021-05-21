@@ -42,6 +42,28 @@ module.exports = {
             .build();
         });
     },
+    weapon: async function(msg, g, result){
+        let data=result.data[1], langObj=result.data[2];
+        fs.writeFileSync('log.json', JSON.stringify(data, null, 2));
+
+        weaponEmbed(data, g, langObj, (embedArr)=>{
+            new Responsor.Embeds()
+            //default
+            .setAuthorizedUsers([msg.author.id])
+            .setChannel(msg.channel)
+            //import data
+            .setArray(embedArr)
+            .setTitle(data["NameTextMapHash"])
+            .setThumbnail('https://vnvyvu.github.io/GI_Sprite/weapon/'+data["Icon"]+'.png')
+            .setDescription(data["DescTextMapHash"])
+            .setFooter('@VyVu | Made in Teyvat', 'https://upload-os-bbs.hoyolab.com/upload/2020/10/05/37506120/b50e32624ab513812d97d6dea7b478ec_3772599663477054535.gif')
+            .setTimestamp()
+            .setClientAssets({prompt: lang[2][g.language]})
+            .setColor('#'+Math.floor(Math.random()*16777215).toString(16))
+            .addField(langObj[4250824114], data["EquipType"])
+            .build();
+        });
+    },
     send: async function(msg, g, result){
         msg.channel.send(new Discord.MessageEmbed()
         .setColor(color[result.type])
@@ -206,6 +228,21 @@ async function artifactEmbed(data, g, langObj, callback){
                     }, ""), true),
                     new Discord.MessageEmbed()
                     .addField(langObj[667553201], txt)
+                ]);
+            });
+        }
+    })
+}
+async function weaponEmbed(data, g, langObj, callback){
+    let storyUrl='https://vnvyvu.github.io/GI_Sprite'+Object.entries(data["Story"]).filter(([key, value])=>key.toLowerCase().startsWith(g.language.toLowerCase()))[0][1];
+    https.get(storyUrl, (res)=>{
+        if(res.statusCode==200){
+            let txt="";
+            res.on('data', (data)=>{txt+=data});
+            res.on('end', ()=>{
+                callback([
+                    new Discord.MessageEmbed()
+                    .addField()
                 ]);
             });
         }

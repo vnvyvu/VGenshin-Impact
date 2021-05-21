@@ -175,6 +175,21 @@
       }
     ]
   },
+  "17": {
+    "NameTextMapHash": 330935168,
+    "IconPath": "UI_AchievementIcon_E001"
+  },
+  "18": {
+    "NameTextMapHash": 558139976,
+    "FinishRewardId": 890017,
+    "IconPath": "UI_AchievementIcon_A007",
+    "Rewards": [
+      {
+        "ItemId": 210072,
+        "ItemCount": 1
+      }
+    ]
+  },
   "undefined": {
     "NameTextMapHash": 1604684216,
     "IconPath": "UI_AchievementIcon_O001"

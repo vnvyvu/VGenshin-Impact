@@ -592,5 +592,41 @@
     "SkillsId": 4601,
     "AvatarPromoteId": 46,
     "AvatarInfoId": 10000046
+  },
+  "10000048": {
+    "Name": 697277554,
+    "Icon": "UI_AvatarIcon_Feiyan",
+    "Image": "Yanfei",
+    "BodyType": "GIRL",
+    "WeaponType": "CATALYST",
+    "StaminaRecoverSpeed": 25,
+    "Description": 1827440433,
+    "HpBase": 784.1402587890625,
+    "AttackBase": 20.12303924560547,
+    "DefenseBase": 49.2135009765625,
+    "Critical": 0.05000000074505806,
+    "CriticalHurt": 0.5,
+    "Rarity": 4,
+    "SkillsId": 4801,
+    "AvatarPromoteId": 48,
+    "AvatarInfoId": 10000048
+  },
+  "10000051": {
+    "Name": 3717667418,
+    "Icon": "UI_AvatarIcon_Eula",
+    "Image": "Eula",
+    "BodyType": "LADY",
+    "WeaponType": "CLAYMORE",
+    "StaminaRecoverSpeed": 25,
+    "Description": 490802649,
+    "HpBase": 1029.5855712890625,
+    "AttackBase": 26.62660026550293,
+    "DefenseBase": 58.45391082763672,
+    "Critical": 0.05000000074505806,
+    "CriticalHurt": 0.5,
+    "Rarity": 5,
+    "SkillsId": 5101,
+    "AvatarPromoteId": 51,
+    "AvatarInfoId": 10000051
   }
 }

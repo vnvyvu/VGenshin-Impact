@@ -30,7 +30,7 @@ module.exports={
     },
     readArtifact: async function(queryString, lang){
         let langObj=JSON.parse(fs.readFileSync(langDir+'Text'+lang.toUpperCase()+'.json'));
-        //get artifact, find character data
+        //get artifact, find artifact data
         let artifact=Object.entries(data['artifacts']).find(([cId, cVal])=>langObj[cVal['NameTextMapHash']].toLowerCase().includes(queryString.toLowerCase()));
         if(artifact){
             //deepCopy itself to avoid exception
@@ -44,6 +44,26 @@ module.exports={
             return [...artifact, langObj];
         }
         return artifact;
+    },
+    readWeapon: async function(queryString, lang){
+        let langObj=JSON.parse(fs.readFileSync(langDir+'Text'+lang.toUpperCase()+'.json'));
+        //get weapon, find weapon data
+        let weapon=Object.entries(data['weapons']).find(([cId, cVal])=>langObj[cVal['NameTextMapHash']].toLowerCase().includes(queryString.toLowerCase()));
+        if(weapon){
+            //deepCopy itself to avoid exception
+            weapon=clone(weapon).flat();
+            //map lang
+            weapon[1]=mapLanguage(weapon[1], langObj);
+
+            //get weapon promote
+            weapon[1]["WeaponPromoteId"]=mapLanguage(clone(data['weaponPromotes'][weapon[1]["WeaponPromoteId"]]||{}), langObj);
+            //get affixes
+            weapon[1]['Affix']=weapon[1]['Affix'].map((v)=>{
+                return mapLanguage(clone(data['affixes'][v]||{}), langObj);
+            });
+            return [...weapon, langObj];
+        }
+        return weapon;
     }
 };
 function mapLanguage(obj, langObj){

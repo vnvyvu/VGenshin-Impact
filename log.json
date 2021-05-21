@@ -1,223 +1,1374 @@
 {
-  "WeaponType": "WEAPON_SWORD_ONE_HAND",
-  "RankLevel": 3,
-  "WeaponBaseExp": 1800,
-  "WeaponProp": [
-    {
-      "PropType": "Base ATK",
-      "InitValue": 38.74129867553711,
-      "Type": "GROW_CURVE_ATTACK_101"
+  "Name": "Zhongli",
+  "Icon": "UI_AvatarIcon_Zhongli",
+  "Image": "Zhongli",
+  "BodyType": "MALE",
+  "WeaponType": "POLE",
+  "StaminaRecoverSpeed": 25,
+  "Description": "Là người khách thần bí được \"Vãng Sinh Đường\" mời đến, kiến thức uyên bác, có sự hiểu biết với nhiều sự vật sự việc.",
+  "HpBase": 1143.9840087890625,
+  "AttackBase": 19.551000595092773,
+  "DefenseBase": 57.436798095703125,
+  "Critical": 0.05000000074505806,
+  "CriticalHurt": 0.5,
+  "Rarity": 5,
+  "SkillsId": {
+    "EnergySkill": {
+      "NameTextMapHash": "Thiên Tinh",
+      "DescTextMapHash": "Thiên thạch cực lớn rơi xuống, gây __Sát Thương Nguyên Tố Nham__ cực lớn cho địch trong phạm vi rơi, và khiến địch __Hóa Thạch__.\n\n__Hóa Thạch__\nĐịch ở trạng thái __Hóa Thạch__ không thể chuyển động. \n\n__Dùng ngôi sao trên cao soi sáng cho người đang mê muội.__",
+      "CdTime": 12,
+      "CostElemType": "Rock",
+      "CostElemVal": 40,
+      "MaxChargeNum": 1,
+      "ProudSkillGroupId": {
+        "ParamDescList": [
+          "Sát Thương Kỹ Năng|{param1:P}",
+          "Thời Gian Hóa Thạch|{param2:F1}s",
+          "CD|{param3:F1}s",
+          "Năng Lượng Nguyên Tố|{param4:I}"
+        ],
+        "Level": [
+          null,
+          {
+            "CostItems": [],
+            "ParamList": [
+              4.010799884796143,
+              3.0999999046325684,
+              12,
+              40
+            ]
+          },
+          {
+            "CoinCost": 12500,
+            "CostItems": [
+              {
+                "Id": 104316,
+                "Count": 3
+              },
+              {
+                "Id": 112002,
+                "Count": 6
+              }
+            ],
+            "BreakLevel": 2,
+            "ParamList": [
+              4.444399833679199,
+              3.200000047683716,
+              12,
+              40
+            ]
+          },
+          {
+            "CoinCost": 17500,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 2
+              },
+              {
+                "Id": 112003,
+                "Count": 3
+              }
+            ],
+            "BreakLevel": 3,
+            "ParamList": [
+              4.877999782562256,
+              3.299999952316284,
+              12,
+              40
+            ]
+          },
+          {
+            "CoinCost": 25000,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 4
+              },
+              {
+                "Id": 112003,
+                "Count": 4
+              }
+            ],
+            "BreakLevel": 3,
+            "ParamList": [
+              5.420000076293945,
+              3.4000000953674316,
+              12,
+              40
+            ]
+          },
+          {
+            "CoinCost": 30000,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 6
+              },
+              {
+                "Id": 112003,
+                "Count": 6
+              }
+            ],
+            "BreakLevel": 4,
+            "ParamList": [
+              5.907800197601318,
+              3.5,
+              12,
+              40
+            ]
+          },
+          {
+            "CoinCost": 37500,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 9
+              },
+              {
+                "Id": 112003,
+                "Count": 9
+              }
+            ],
+            "BreakLevel": 4,
+            "ParamList": [
+              6.395599842071533,
+              3.5999999046325684,
+              12,
+              40
+            ]
+          },
+          {
+            "CoinCost": 120000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 4
+              },
+              {
+                "Id": 112004,
+                "Count": 4
+              },
+              {
+                "Id": 113013,
+                "Count": 1
+              }
+            ],
+            "BreakLevel": 5,
+            "ParamList": [
+              7.046000003814697,
+              3.700000047683716,
+              12,
+              40
+            ]
+          },
+          {
+            "CoinCost": 260000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 6
+              },
+              {
+                "Id": 112004,
+                "Count": 6
+              },
+              {
+                "Id": 113013,
+                "Count": 1
+              }
+            ],
+            "BreakLevel": 5,
+            "ParamList": [
+              7.696400165557861,
+              3.799999952316284,
+              12,
+              40
+            ]
+          },
+          {
+            "CoinCost": 450000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 12
+              },
+              {
+                "Id": 112004,
+                "Count": 9
+              },
+              {
+                "Id": 113013,
+                "Count": 2
+              }
+            ],
+            "BreakLevel": 6,
+            "ParamList": [
+              8.346799850463867,
+              3.9000000953674316,
+              12,
+              40
+            ]
+          },
+          {
+            "CoinCost": 700000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 16
+              },
+              {
+                "Id": 112004,
+                "Count": 12
+              },
+              {
+                "Id": 113013,
+                "Count": 2
+              },
+              {
+                "Id": 104319,
+                "Count": 1
+              }
+            ],
+            "BreakLevel": 6,
+            "ParamList": [
+              8.997200012207031,
+              4,
+              12,
+              40
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              9.647600173950195,
+              4,
+              12,
+              40
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              10.29800033569336,
+              4,
+              12,
+              40
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              10.84000015258789,
+              4,
+              12,
+              40
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              11.381999969482422,
+              4,
+              12,
+              40
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              11.923999786376953,
+              4,
+              12,
+              40
+            ]
+          }
+        ]
+      },
+      "Icon": "Skill_E_Zhongli_01"
     },
-    {
-      "PropType": "CRIT DMG",
-      "InitValue": 0.10199999809265137,
-      "Type": "GROW_CURVE_CRITICAL_101"
+    "Talents": [
+      {
+        "NameTextMapHash": "Nham, Lục Hợp Dẫn Thành Cốt",
+        "DescTextMapHash": "Vách đá tạo thành từ __Tâm Trái Đất__ có thể tồn tại cùng lúc 2 cái.",
+        "Icon": "UI_Talent_S_Zhongli_01",
+        "OpenConfig": "Zhongli_Constellation_1",
+        "AddProps": [],
+        "MaterialId": 1130
+      },
+      {
+        "NameTextMapHash": "Thạch, Bát Hoang Ngọc Minh",
+        "DescTextMapHash": "Khi __Thiên Tinh__ rơi xuống, các nhân vật xung quanh trong trận hiện tại sẽ nhận được khiên ngọc bảo vệ.",
+        "Icon": "UI_Talent_S_Zhongli_02",
+        "OpenConfig": "Zhongli_Constellation_2",
+        "AddProps": [],
+        "MaterialId": 1130
+      },
+      {
+        "NameTextMapHash": "Khó Khăn Không Lùi Bước",
+        "DescTextMapHash": "Cấp kỹ năng __Tâm Trái Đất__ +3.\nTăng tối đa đến cấp 15.",
+        "Icon": "UI_Talent_U_Zhongli_01",
+        "OpenConfig": "Zhongli_Constellation_3",
+        "AddProps": [],
+        "MaterialId": 1130
+      },
+      {
+        "NameTextMapHash": "Hoàng Tông, Phá Nhưng Không Mất Kiên Cường",
+        "DescTextMapHash": "Tăng 20% phạm vi ảnh hưởng của __Thiên Tinh__.\nĐồng thời hiệu quả Hóa Thạch của Thiên Tinh sẽ kéo dài thêm 2s.",
+        "Icon": "UI_Talent_S_Zhongli_03",
+        "OpenConfig": "Zhongli_Constellation_4",
+        "AddProps": [],
+        "MaterialId": 1130
+      },
+      {
+        "NameTextMapHash": "Thương Bích, Kiên Cường Như Lẽ Trời",
+        "DescTextMapHash": "Cấp kỹ năng __Thiên Tinh__ +3.\nTăng tối đa đến cấp 15.",
+        "Icon": "UI_Talent_U_Zhongli_02",
+        "OpenConfig": "Zhongli_Constellation_5",
+        "AddProps": [],
+        "MaterialId": 1130
+      },
+      {
+        "NameTextMapHash": "Thiên Ngọc, Lễ Thiên Địa Tứ Phương",
+        "DescTextMapHash": "Khi Khiên Ngọc nhận sát thương, hồi HP cho nhân vật hiện tại bằng 40% sát thương.\nLượng hồi phục 1 lần không vượt quá 8% HP tối đa của nhân vật.",
+        "Icon": "UI_Talent_S_Zhongli_04",
+        "OpenConfig": "Zhongli_Constellation_6",
+        "AddProps": [],
+        "MaterialId": 1130
+      }
+    ],
+    "InherentProudSkillOpens": [
+      {
+        "NameTextMapHash": "Đá Treo",
+        "DescTextMapHash": "Khi Khiên Ngọc nhận sát thương sẽ tạo ra hiệu quả kiên cố: \n·Nhân vật khi được Khiên Ngọc bảo vệ, khả năng khiên bảo vệ +5%.\n·Hiệu quả tối đa cộng dồn 5 lần, duy trì đến khi mất Khiên Ngọc.",
+        "Icon": "UI_Talent_S_Zhongli_05"
+      },
+      {
+        "NameTextMapHash": "Xuy Kim Soạn Ngọc",
+        "DescTextMapHash": "Sát thương gây ra bởi những đòn tấn công dưới đây của Zhongli sẽ tăng tùy theo giới hạn HP:\n·Giá trị tăng sát thương của tấn công thường, trọng kích và tấn công khi đáp: 1.39% giới hạn HP\n·Giá trị tăng sát thương của Vách Đá __tâm trái đất__, sát thương cộng hưởng và nhấn giữ: 1.9% giới hạn HP\n·Giá trị tăng sát thương của __Thiên Tinh__: 33% giới hạn HP",
+        "Icon": "UI_Talent_S_Zhongli_06"
+      },
+      {
+        "NameTextMapHash": "Mệnh Lý Tinh Thạch",
+        "DescTextMapHash": "Khi rèn vũ khí cán dài, hoàn trả 15% Khoáng Thạch tiêu hao.",
+        "Icon": "UI_Talent_Forge_Pole",
+        "LifeEffectType": "PROUD_EFFECT_FORGE_RETURN_MATERIAL"
+      }
+    ],
+    "NormalSkill": {
+      "NameTextMapHash": "Tấn Công Thường - Mưa Đá",
+      "DescTextMapHash": "__Tấn Công Thường__\nThực hiện tối đa 6 lần đánh liên tiếp.\n\n__Trọng Kích__\nTiêu hao thể lực nhất định, lao nhanh về phía trước, ném thương đá trên đường đi và điểm cuối.\n\n__Tấn Công Khi Đáp__\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đuờng, đồng thời gây sát thương phạm vi khi chạm đất.",
+      "MaxChargeNum": 1,
+      "ProudSkillGroupId": {
+        "ParamDescList": [
+          "Sát Thương Lần 1|{param1:F1P}",
+          "Sát Thương Lần 2|{param2:F1P}",
+          "Sát Thương Lần 3|{param3:F1P}",
+          "Sát Thương Lần 4|{param4:F1P}",
+          "Sát Thương Lần 5|{param5:F1P}*4",
+          "Sát Thương Lần 6|{param6:F1P}",
+          "Sát Thương Trọng Kích|{param7:P}",
+          "Thể lực Trọng Kích tiêu hao|{param8:F1} điểm",
+          "Sát Thương Khi Đáp|{param9:F1P}",
+          "ST Khi Rơi Từ Độ Cao Thấp/Cao|{param10:P}/{param11:P}"
+        ],
+        "Level": [
+          null,
+          {
+            "CostItems": [],
+            "ParamList": [
+              0.3076910078525543,
+              0.31151801347732544,
+              0.3857620060443878,
+              0.42938899993896484,
+              0.10750000178813934,
+              0.5449650287628174,
+              1.110260009765625,
+              25,
+              0.6393240094184875,
+              1.2783770561218262,
+              1.59676194190979
+            ]
+          },
+          {
+            "CoinCost": 12500,
+            "CostItems": [
+              {
+                "Id": 104316,
+                "Count": 3
+              },
+              {
+                "Id": 112002,
+                "Count": 6
+              }
+            ],
+            "BreakLevel": 2,
+            "ParamList": [
+              0.33273500204086304,
+              0.33687400817871094,
+              0.4171609878540039,
+              0.4643400013446808,
+              0.11625000089406967,
+              0.5893219709396362,
+              1.2006299495697021,
+              25,
+              0.6913620233535767,
+              1.3824310302734375,
+              1.7267309427261353
+            ]
+          },
+          {
+            "CoinCost": 17500,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 2
+              },
+              {
+                "Id": 112003,
+                "Count": 3
+              }
+            ],
+            "BreakLevel": 3,
+            "ParamList": [
+              0.35778000950813293,
+              0.36223000288009644,
+              0.4485599994659424,
+              0.49928998947143555,
+              0.125,
+              0.633679986000061,
+              1.2910000085830688,
+              25,
+              0.743399977684021,
+              1.4864850044250488,
+              1.8566999435424805
+            ]
+          },
+          {
+            "CoinCost": 25000,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 4
+              },
+              {
+                "Id": 112003,
+                "Count": 4
+              }
+            ],
+            "BreakLevel": 3,
+            "ParamList": [
+              0.39355799555778503,
+              0.3984529972076416,
+              0.4934160113334656,
+              0.549219012260437,
+              0.13750000298023224,
+              0.697048008441925,
+              1.4200999736785889,
+              25,
+              0.8177400231361389,
+              1.635133981704712,
+              2.042370080947876
+            ]
+          },
+          {
+            "CoinCost": 30000,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 6
+              },
+              {
+                "Id": 112003,
+                "Count": 6
+              }
+            ],
+            "BreakLevel": 4,
+            "ParamList": [
+              0.41860300302505493,
+              0.4238089919090271,
+              0.524815022945404,
+              0.5841689705848694,
+              0.14624999463558197,
+              0.7414060235023499,
+              1.5104700326919556,
+              25,
+              0.8697779774665833,
+              1.7391870021820068,
+              2.1723389625549316
+            ]
+          },
+          {
+            "CoinCost": 37500,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 9
+              },
+              {
+                "Id": 112003,
+                "Count": 9
+              }
+            ],
+            "BreakLevel": 4,
+            "ParamList": [
+              0.44722500443458557,
+              0.45278799533843994,
+              0.560699999332428,
+              0.6241130232810974,
+              0.15625,
+              0.7921000123023987,
+              1.6137499809265137,
+              25,
+              0.9292500019073486,
+              1.858106017112732,
+              2.3208749294281006
+            ]
+          },
+          {
+            "CoinCost": 120000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 4
+              },
+              {
+                "Id": 112004,
+                "Count": 4
+              },
+              {
+                "Id": 113013,
+                "Count": 1
+              }
+            ],
+            "BreakLevel": 5,
+            "ParamList": [
+              0.4865809977054596,
+              0.49263298511505127,
+              0.6100419759750366,
+              0.6790339946746826,
+              0.17000000178813934,
+              0.8618050217628479,
+              1.7557599544525146,
+              25,
+              1.011023998260498,
+              2.021620035171509,
+              2.5251119136810303
+            ]
+          },
+          {
+            "CoinCost": 260000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 6
+              },
+              {
+                "Id": 112004,
+                "Count": 6
+              },
+              {
+                "Id": 113013,
+                "Count": 1
+              }
+            ],
+            "BreakLevel": 5,
+            "ParamList": [
+              0.525937020778656,
+              0.5324779748916626,
+              0.6593829989433289,
+              0.733955979347229,
+              0.1837500035762787,
+              0.9315099716186523,
+              1.8977700471878052,
+              25,
+              1.0927979946136475,
+              2.1851329803466797,
+              2.72934889793396
+            ]
+          },
+          {
+            "CoinCost": 450000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 12
+              },
+              {
+                "Id": 112004,
+                "Count": 9
+              },
+              {
+                "Id": 113013,
+                "Count": 2
+              }
+            ],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.5652920007705688,
+              0.5723230242729187,
+              0.7087249755859375,
+              0.7888780236244202,
+              0.19750000536441803,
+              1.0012140274047852,
+              2.0397799015045166,
+              25,
+              1.1745719909667969,
+              2.3486459255218506,
+              2.9335858821868896
+            ]
+          },
+          {
+            "CoinCost": 700000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 16
+              },
+              {
+                "Id": 112004,
+                "Count": 12
+              },
+              {
+                "Id": 113013,
+                "Count": 2
+              },
+              {
+                "Id": 104319,
+                "Count": 1
+              }
+            ],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.6082260012626648,
+              0.6157910227775574,
+              0.76255202293396,
+              0.8487930297851562,
+              0.21250000596046448,
+              1.0772559642791748,
+              2.194700002670288,
+              25,
+              1.2637799978256226,
+              2.527024984359741,
+              3.1563899517059326
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.6574209928512573,
+              0.6655979752540588,
+              0.8242290019989014,
+              0.9174450039863586,
+              0.22968700528144836,
+              1.1643869876861572,
+              2.3722119331359863,
+              25,
+              1.3529880046844482,
+              2.7054030895233154,
+              3.3791940212249756
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.7152739763259888,
+              0.7241700291633606,
+              0.8967610001564026,
+              0.9981809854507446,
+              0.2498999983072281,
+              1.2668529748916626,
+              2.5809669494628906,
+              25,
+              1.442196011543274,
+              2.8837809562683105,
+              3.6019980907440186
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.773127019405365,
+              0.782742977142334,
+              0.9692929983139038,
+              1.0789159536361694,
+              0.270112007856369,
+              1.369318962097168,
+              2.789721965789795,
+              25,
+              1.5314040184020996,
+              3.0621590614318848,
+              3.8248019218444824
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.8309800028800964,
+              0.841314971446991,
+              1.0418250560760498,
+              1.1596510410308838,
+              0.29032498598098755,
+              1.4717849493026733,
+              2.998476982116699,
+              25,
+              1.6206120252609253,
+              3.24053692817688,
+              4.047605991363525
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.8940920233726501,
+              0.9052129983901978,
+              1.1209510564804077,
+              1.2477259635925293,
+              0.312375009059906,
+              1.5835659503936768,
+              3.2262089252471924,
+              25,
+              1.709820032119751,
+              3.418915033340454,
+              4.270410060882568
+            ]
+          }
+        ]
+      },
+      "Icon": "Skill_A_03"
+    },
+    "ElementSkill": {
+      "NameTextMapHash": "Tâm Trái Đất",
+      "DescTextMapHash": "Trong núi, trên mặt đất, giữa những tảng đá đều có sức mạnh của nham. Rất ít người có thể điều khiển được sức mạnh này.\n\n__Nhấn__\nRa lệnh cho các nguyên tố Nham tụ hợp lại, kết thành vách đá.\n\n__Nhấn Giữ__\nLệnh cho nguyên tố Nham xung quanh phát nổ, gây hiệu quả như sau:\n·Nếu số lượng vách đá chưa đạt giới hạn, thì sẽ tạo ra vách đá;\n·Tạo ra khiên ngọc, lượng sát thương hấp thu phụ thuộc vào giới hạn HP của Zhongli;\n·Gây __Sát Thương Phạm Vi Nguyên Tố Nham__;\n·Nếu bên cạnh có mục tiêu __Nguyên Tố Nham__, sẽ tiêu hao lượng lớn __Nguyên Tố Nham__ của tối đa 2 mục tiêu. Hiệu quả này sẽ không gây sát thương.\n\nKhi tạo __vách đá__\n sẽ gây __sát thương phạm vi Nguyên Tố Nham__.\nNgoài ra, trong thời gian vách đá tồn tại sẽ tạo thành cộng hưởng với __những vật tạo ra Nguyên Tố Nham xung quanh__, gây __sát thương Nguyên Tố Nham__ cho kẻ địch xung quanh.\nVách đá được xem là __vật tạo ra Nguyên Tố Nham__, có thể ngăn chặn tấn công, có thể leo trèo.\nCùng lúc chỉ có thể tồn tại 1 vách đá do Zhongli tạo ra.\n\n__Khiên Ngọc__\nCó hiệu quả hấp thu 150% tất cả sát thương nguyên tố và sát thương vật lý.\nNhân vật đang được Khiên Ngọc bảo vệ, sẽ giảm 20% tất cả kháng nguyên tố và kháng vật lý của kẻ địch trong phạm vi nhỏ, hiệu quả này không được cộng dồn.\n\n__Đá kiên cố có thể đánh ngọc khắc vàng.__",
+      "CdTime": 12,
+      "MaxChargeNum": 1,
+      "ProudSkillGroupId": {
+        "ParamDescList": [
+          "ST Vách Đá/ST Cộng Hưởng|{param1:F1P}/{param2:F1P}",
+          "CD Nhấn|{param3:F1}s",
+          "Sát Thương Nhấn Giữ|{param4:P}",
+          "Lượng hấp thu cơ bản của khiên|{param5:I}",
+          "Khiên hấp thụ thêm|{param6:F1P} lượng HP tối đa",
+          "Thời Gian Khiên Kéo Dài|{param7:F1}s",
+          "CD Nhấn Giữ|{param8:F1}s"
+        ],
+        "Level": [
+          null,
+          {
+            "CostItems": [],
+            "ParamList": [
+              0.1599999964237213,
+              0.3199999928474426,
+              4,
+              0.800000011920929,
+              1232.4107666015625,
+              0.12800000607967377,
+              20,
+              12
+            ]
+          },
+          {
+            "CoinCost": 12500,
+            "CostItems": [
+              {
+                "Id": 104316,
+                "Count": 3
+              },
+              {
+                "Id": 112002,
+                "Count": 6
+              }
+            ],
+            "BreakLevel": 2,
+            "ParamList": [
+              0.1720000058412552,
+              0.3440000116825104,
+              4,
+              0.8600000143051147,
+              1355.6690673828125,
+              0.13760000467300415,
+              20,
+              12
+            ]
+          },
+          {
+            "CoinCost": 17500,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 2
+              },
+              {
+                "Id": 112003,
+                "Count": 3
+              }
+            ],
+            "BreakLevel": 3,
+            "ParamList": [
+              0.18400000035762787,
+              0.36800000071525574,
+              4,
+              0.9200000166893005,
+              1489.19873046875,
+              0.14720000326633453,
+              20,
+              12
+            ]
+          },
+          {
+            "CoinCost": 25000,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 4
+              },
+              {
+                "Id": 112003,
+                "Count": 4
+              }
+            ],
+            "BreakLevel": 3,
+            "ParamList": [
+              0.20000000298023224,
+              0.4000000059604645,
+              4,
+              1,
+              1633,
+              0.1599999964237213,
+              20,
+              12
+            ]
+          },
+          {
+            "CoinCost": 30000,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 6
+              },
+              {
+                "Id": 112003,
+                "Count": 6
+              }
+            ],
+            "BreakLevel": 4,
+            "ParamList": [
+              0.21199999749660492,
+              0.42399999499320984,
+              4,
+              1.059999942779541,
+              1787.07275390625,
+              0.1695999950170517,
+              20,
+              12
+            ]
+          },
+          {
+            "CoinCost": 37500,
+            "CostItems": [
+              {
+                "Id": 104317,
+                "Count": 9
+              },
+              {
+                "Id": 112003,
+                "Count": 9
+              }
+            ],
+            "BreakLevel": 4,
+            "ParamList": [
+              0.2240000069141388,
+              0.4480000138282776,
+              4,
+              1.1200000047683716,
+              1951.4169921875,
+              0.17919999361038208,
+              20,
+              12
+            ]
+          },
+          {
+            "CoinCost": 120000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 4
+              },
+              {
+                "Id": 112004,
+                "Count": 4
+              },
+              {
+                "Id": 113013,
+                "Count": 1
+              }
+            ],
+            "BreakLevel": 5,
+            "ParamList": [
+              0.23999999463558197,
+              0.47999998927116394,
+              4,
+              1.2000000476837158,
+              2126.032958984375,
+              0.19200000166893005,
+              20,
+              12
+            ]
+          },
+          {
+            "CoinCost": 260000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 6
+              },
+              {
+                "Id": 112004,
+                "Count": 6
+              },
+              {
+                "Id": 113013,
+                "Count": 1
+              }
+            ],
+            "BreakLevel": 5,
+            "ParamList": [
+              0.25600001215934753,
+              0.5120000243186951,
+              4,
+              1.2799999713897705,
+              2310.920166015625,
+              0.20479999482631683,
+              20,
+              12
+            ]
+          },
+          {
+            "CoinCost": 450000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 12
+              },
+              {
+                "Id": 112004,
+                "Count": 9
+              },
+              {
+                "Id": 113013,
+                "Count": 2
+              }
+            ],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.2720000147819519,
+              0.5440000295639038,
+              4,
+              1.3600000143051147,
+              2506.0791015625,
+              0.2176000028848648,
+              20,
+              12
+            ]
+          },
+          {
+            "CoinCost": 700000,
+            "CostItems": [
+              {
+                "Id": 104318,
+                "Count": 16
+              },
+              {
+                "Id": 112004,
+                "Count": 12
+              },
+              {
+                "Id": 113013,
+                "Count": 2
+              },
+              {
+                "Id": 104319,
+                "Count": 1
+              }
+            ],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.2879999876022339,
+              0.5759999752044678,
+              4,
+              1.440000057220459,
+              2711.50927734375,
+              0.2303999960422516,
+              20,
+              12
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.30399999022483826,
+              0.6079999804496765,
+              4,
+              1.5199999809265137,
+              2927.211181640625,
+              0.24320000410079956,
+              20,
+              12
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.3199999928474426,
+              0.6399999856948853,
+              4,
+              1.600000023841858,
+              3153.1845703125,
+              0.25600001215934753,
+              20,
+              12
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.3400000035762787,
+              0.6800000071525574,
+              4,
+              1.7000000476837158,
+              3389.429443359375,
+              0.2720000147819519,
+              20,
+              12
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.36000001430511475,
+              0.7200000286102295,
+              4,
+              1.7999999523162842,
+              3635.946044921875,
+              0.2879999876022339,
+              20,
+              12
+            ]
+          },
+          {
+            "CostItems": [],
+            "BreakLevel": 6,
+            "ParamList": [
+              0.3799999952316284,
+              0.7599999904632568,
+              4,
+              1.899999976158142,
+              3892.73388671875,
+              0.30399999022483826,
+              20,
+              12
+            ]
+          }
+        ]
+      },
+      "Icon": "Skill_S_Zhongli_01"
     }
-  ],
-  "WeaponPromoteId": {
+  },
+  "AvatarPromoteId": {
     "0": {
-      "PromoteLevel": 1,
-      "CoinCost": 5000,
+      "UnlockMaxLevel": 20,
       "AddProps": [
         {
-          "PropType": "Base ATK",
-          "Value": 19.5
+          "PropType": "HP Căn Bản"
+        },
+        {
+          "PropType": "P.Ngự Căn Bản"
+        },
+        {
+          "PropType": "Tấn Công Căn Bản"
+        },
+        {
+          "PropType": "Tăng ST Nguyên Tố Nham"
         }
       ],
-      "UnlockMaxLevel": 40,
-      "RequiredPlayerLevel": 15,
       "Materials": [
-        {
-          "Id": 114005,
-          "Count": 2
-        },
-        {
-          "Id": 112020,
-          "Count": 2
-        },
-        {
-          "Id": 112002,
-          "Count": 1
-        }
+        {},
+        {},
+        {},
+        {}
       ]
     },
     "1": {
-      "PromoteLevel": 2,
-      "CoinCost": 10000,
+      "ScoinCost": 20000,
+      "UnlockMaxLevel": 40,
       "AddProps": [
         {
-          "PropType": "Base ATK",
-          "Value": 38.900001525878906
-        }
-      ],
-      "UnlockMaxLevel": 50,
-      "RequiredPlayerLevel": 25,
-      "Materials": [
-        {
-          "Id": 114006,
-          "Count": 2
+          "PropType": "HP Căn Bản",
+          "Value": 980.86279296875
         },
         {
-          "Id": 112020,
-          "Count": 8
+          "PropType": "P.Ngự Căn Bản",
+          "Value": 49.24800109863281
+        },
+        {
+          "PropType": "Tấn Công Căn Bản",
+          "Value": 16.761999130249023
+        },
+        {
+          "PropType": "Tăng ST Nguyên Tố Nham"
+        }
+      ],
+      "RequiredPlayerLevel": 15,
+      "Materials": [
+        {
+          "Id": 104171,
+          "Count": 1
+        },
+        {},
+        {
+          "Id": 100058,
+          "Count": 3
         },
         {
           "Id": 112002,
-          "Count": 5
+          "Count": 3
         }
       ]
     },
     "2": {
-      "PromoteLevel": 3,
-      "CoinCost": 15000,
+      "ScoinCost": 40000,
+      "UnlockMaxLevel": 50,
       "AddProps": [
         {
-          "PropType": "Base ATK",
-          "Value": 58.400001525878906
+          "PropType": "HP Căn Bản",
+          "Value": 1677.791748046875
+        },
+        {
+          "PropType": "P.Ngự Căn Bản",
+          "Value": 84.23999786376953
+        },
+        {
+          "PropType": "Tấn Công Căn Bản",
+          "Value": 28.67180061340332
+        },
+        {
+          "PropType": "Tăng ST Nguyên Tố Nham",
+          "Value": 0.07199999690055847
         }
       ],
-      "UnlockMaxLevel": 60,
-      "RequiredPlayerLevel": 30,
+      "RequiredPlayerLevel": 25,
       "Materials": [
         {
-          "Id": 114006,
-          "Count": 4
+          "Id": 104172,
+          "Count": 3
         },
         {
-          "Id": 112021,
-          "Count": 4
+          "Id": 113009,
+          "Count": 2
         },
         {
-          "Id": 112003,
-          "Count": 4
+          "Id": 100058,
+          "Count": 10
+        },
+        {
+          "Id": 112002,
+          "Count": 15
         }
       ]
     },
     "3": {
-      "PromoteLevel": 4,
-      "CoinCost": 20000,
+      "ScoinCost": 60000,
+      "UnlockMaxLevel": 60,
       "AddProps": [
         {
-          "PropType": "Base ATK",
-          "Value": 77.80000305175781
-        }
-      ],
-      "UnlockMaxLevel": 70,
-      "RequiredPlayerLevel": 35,
-      "Materials": [
-        {
-          "Id": 114007,
-          "Count": 2
+          "PropType": "HP Căn Bản",
+          "Value": 2607.0302734375
         },
         {
-          "Id": 112021,
-          "Count": 8
+          "PropType": "P.Ngự Căn Bản",
+          "Value": 130.89599609375
+        },
+        {
+          "PropType": "Tấn Công Căn Bản",
+          "Value": 44.55160140991211
+        },
+        {
+          "PropType": "Tăng ST Nguyên Tố Nham",
+          "Value": 0.14399999380111694
+        }
+      ],
+      "RequiredPlayerLevel": 30,
+      "Materials": [
+        {
+          "Id": 104172,
+          "Count": 6
+        },
+        {
+          "Id": 113009,
+          "Count": 4
+        },
+        {
+          "Id": 100058,
+          "Count": 20
         },
         {
           "Id": 112003,
-          "Count": 6
+          "Count": 12
         }
       ]
     },
     "4": {
-      "PromoteLevel": 5,
-      "CoinCost": 25000,
+      "ScoinCost": 80000,
+      "UnlockMaxLevel": 70,
       "AddProps": [
         {
-          "PropType": "Base ATK",
-          "Value": 97.30000305175781
+          "PropType": "HP Căn Bản",
+          "Value": 3303.958984375
+        },
+        {
+          "PropType": "P.Ngự Căn Bản",
+          "Value": 165.88800048828125
+        },
+        {
+          "PropType": "Tấn Công Căn Bản",
+          "Value": 56.46139907836914
+        },
+        {
+          "PropType": "Tăng ST Nguyên Tố Nham",
+          "Value": 0.14399999380111694
         }
       ],
-      "UnlockMaxLevel": 80,
-      "RequiredPlayerLevel": 40,
+      "RequiredPlayerLevel": 35,
       "Materials": [
         {
-          "Id": 114007,
-          "Count": 4
+          "Id": 104173,
+          "Count": 3
         },
         {
-          "Id": 112022,
-          "Count": 6
+          "Id": 113009,
+          "Count": 8
         },
         {
-          "Id": 112004,
-          "Count": 4
+          "Id": 100058,
+          "Count": 30
+        },
+        {
+          "Id": 112003,
+          "Count": 18
         }
       ]
     },
     "5": {
-      "PromoteLevel": 6,
-      "CoinCost": 30000,
+      "ScoinCost": 100000,
+      "UnlockMaxLevel": 80,
       "AddProps": [
         {
-          "PropType": "Base ATK",
-          "Value": 116.69999694824219
-        }
-      ],
-      "UnlockMaxLevel": 90,
-      "RequiredPlayerLevel": 50,
-      "Materials": [
-        {
-          "Id": 114008,
-          "Count": 3
+          "PropType": "HP Căn Bản",
+          "Value": 4000.887939453125
         },
         {
-          "Id": 112022,
+          "PropType": "P.Ngự Căn Bản",
+          "Value": 200.8800048828125
+        },
+        {
+          "PropType": "Tấn Công Căn Bản",
+          "Value": 68.37129974365234
+        },
+        {
+          "PropType": "Tăng ST Nguyên Tố Nham",
+          "Value": 0.2160000056028366
+        }
+      ],
+      "RequiredPlayerLevel": 40,
+      "Materials": [
+        {
+          "Id": 104173,
+          "Count": 6
+        },
+        {
+          "Id": 113009,
           "Count": 12
         },
         {
+          "Id": 100058,
+          "Count": 45
+        },
+        {
           "Id": 112004,
-          "Count": 8
+          "Count": 12
+        }
+      ]
+    },
+    "6": {
+      "ScoinCost": 120000,
+      "UnlockMaxLevel": 90,
+      "AddProps": [
+        {
+          "PropType": "HP Căn Bản",
+          "Value": 4697.81689453125
+        },
+        {
+          "PropType": "P.Ngự Căn Bản",
+          "Value": 235.8719940185547
+        },
+        {
+          "PropType": "Tấn Công Căn Bản",
+          "Value": 80.28109741210938
+        },
+        {
+          "PropType": "Tăng ST Nguyên Tố Nham",
+          "Value": 0.2879999876022339
+        }
+      ],
+      "RequiredPlayerLevel": 50,
+      "Materials": [
+        {
+          "Id": 104174,
+          "Count": 6
+        },
+        {
+          "Id": 113009,
+          "Count": 20
+        },
+        {
+          "Id": 100058,
+          "Count": 60
+        },
+        {
+          "Id": 112004,
+          "Count": 24
         }
       ]
     }
   },
-  "NameTextMapHash": "Harbinger of Dawn",
-  "DescTextMapHash": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
-  "Icon": "UI_EquipIcon_Sword_Dawn",
-  "Affix": [
-    {
-      "1113020": {
-        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __14%__.",
-        "AddProps": []
-      },
-      "1113021": {
-        "Level": 1,
-        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __17.5%__.",
-        "AddProps": []
-      },
-      "1113022": {
-        "Level": 2,
-        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __21%__.",
-        "AddProps": []
-      },
-      "1113023": {
-        "Level": 3,
-        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __24.5%__.",
-        "AddProps": []
-      },
-      "1113024": {
-        "Level": 4,
-        "DescTextMapHash": "When HP is above 90%, increases CRIT Rate by __28%__.",
-        "AddProps": []
-      },
-      "Name": "Vigorous"
-    },
-    {}
-  ],
-  "Story": {
-    "ScPath": "/Readable/CHS/Weapon11302.txt",
-    "TcPath": "/Readable/CHT/Weapon11302_CHT.txt",
-    "EnPath": "/Readable/EN/Weapon11302_EN.txt",
-    "KrPath": "/Readable/KR/Weapon11302_KR.txt",
-    "JpPath": "/Readable/JP/Weapon11302_JP.txt",
-    "EsPath": "/Readable/ES/Weapon11302_ES.txt",
-    "FrPath": "/Readable/FR/Weapon11302_FR.txt",
-    "IdPath": "/Readable/ID/Weapon11302_ID.txt",
-    "PtPath": "/Readable/PT/Weapon11302_PT.txt",
-    "RuPath": "/Readable/RU/Weapon11302_RU.txt",
-    "ThPath": "/Readable/TH/Weapon11302_TH.txt",
-    "ViPath": "/Readable/VI/Weapon11302_VI.txt",
-    "DePath": "/Readable/DE/Weapon11302_DE.txt"
+  "AvatarInfoId": {
+    "InfoBirthMonth": 12,
+    "InfoBirthDay": 31,
+    "AvatarNativeTextMapHash": "Cảng Liyue",
+    "AvatarVisionBeforTextMapHash": "Nham",
+    "AvatarConstellationBeforTextMapHash": "???",
+    "AvatarTitleTextMapHash": "Du Ngoạn Trần Thế",
+    "AvatarDetailTextMapHash": "Là người khách thần bí được \"Vãng Sinh Đường\" mời đến, kiến thức uyên bác, có sự hiểu biết với nhiều sự vật sự việc.",
+    "AvatarAssocType": "ASSOC_TYPE_LIYUE",
+    "CvChineseTextMapHash": "彭博",
+    "CvJapaneseTextMapHash": "前野智昭",
+    "CvEnglishTextMapHash": "Keith Silverstein",
+    "CvKoreanTextMapHash": "표영재",
+    "AvatarVisionAfterTextMapHash": "Nham",
+    "AvatarConstellationAfterTextMapHash": "Nham Vương Đế Quân"
   }
 }

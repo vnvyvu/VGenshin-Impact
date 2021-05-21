@@ -44,7 +44,7 @@ module.exports = {
     },
     weapon: async function(msg, g, result){
         let data=result.data[1], langObj=result.data[2];
-        fs.writeFileSync('log.json', JSON.stringify(data, null, 2));
+        //fs.writeFileSync('log.json', JSON.stringify(data, null, 2));
 
         weaponEmbed(data, g, langObj, (embedArr)=>{
             new Responsor.Embeds()
@@ -138,7 +138,7 @@ let lang={
         "en": "Index"
     },
 };
-function characterEmbed(data, g, langObj){
+function characterEmbed(data, g, langObj) {
     let id=[1171619685, 4260972229, 3626565793];
     return [
         //info
@@ -163,11 +163,13 @@ function characterEmbed(data, g, langObj){
         //talent normal attack
         ...([data["SkillsId"]["NormalSkill"], data["SkillsId"]["ElementSkill"], data["SkillsId"]["EnergySkill"]].map((obj, i)=>{
             if(!obj) return new Discord.MessageEmbed().addField(langObj[1164736193].toUpperCase(), ':small_blue_diamond:'+langObj[id[i]]).addField('404', lang[1][g.language]||lang[1]['en']);
-            return new Discord.MessageEmbed()
+            let temp=new Discord.MessageEmbed()
             .setThumbnail('https://vnvyvu.github.io/GI_Sprite/characterSkill/'+data["Name"].toLowerCase()+'/'+obj["Icon"]+'.png')
             .addField(langObj[1164736193].toUpperCase(), ':small_blue_diamond:'+langObj[id[i]])
             .addField(obj["NameTextMapHash"].replace(': ', '-')||'---', obj["DescTextMapHash"]||'---')
             .addField(langObj[3977391333], skillDetail(obj["ProudSkillGroupId"]||'---'));
+            while(temp.length>=1024) temp=new Discord.MessageEmbed().addFields(...temp.fields.slice(0, temp.fields.length-1));
+            return temp;
         })),
         //talent passive skill 1
         ...(data["SkillsId"]["InherentProudSkillOpens"]||[]).map((obj, i)=>{
